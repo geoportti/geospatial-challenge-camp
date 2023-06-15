@@ -66,7 +66,7 @@ pygments_style = 'sphinx'
 #
 html_theme = 'sphinx_book_theme'
 html_logo = '_static/gcc_logo.png'
-html_title = ""
+html_title = "Geospatial Challenge Camp 2023"
 
 # navigation bar elements on left
 html_sidebars = {
