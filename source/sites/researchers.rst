@@ -51,7 +51,7 @@ For more information
 
 Download:
 
-- `Which flyer? <>`_ 
+- `Student flyer? <>`_ 
 - `Presentation? <>`_ 
 
 Contact
