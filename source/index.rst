@@ -3,21 +3,6 @@
 
 .. figure:: _static/banner_logos.png
 
-
-.. tab:: Tab1
-
-  Hola Tab2
-.. tab:: Tab2
-
-  Hola Tab2
-
-
-
-
-
-
-
-
 .. tab:: Geospatial Challenge Camp
     
   .. raw:: html
@@ -173,19 +158,21 @@
 
   .. raw:: html 
 
-    <h1>Hello researcher</h1>
+    <div><h1>Hello researcher</h1>
 
       <p>Content researcher
       </p>
+    </div>
 
 .. tab:: Schedule
 
   .. raw:: html 
 
-    <h1>Hello schedule</h1>
+    <div><h1>Hello schedule</h1>
 
       <p>Content schedule
       </p>
+    </div>
 
 END
 
