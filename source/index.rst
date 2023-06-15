@@ -148,15 +148,21 @@
 
 
 .. tab:: Partners
-  Hello partner
+
+  .. raw:: html 
+    <h1>Hello partner</h1>
 
 .. tab:: Researchers and students
-  Hello researcher
+
+  .. raw:: html 
+    <h1>Hello researcher</h1>
 
 .. tab:: Schedule
-  Hello schedule
 
+  .. raw:: html 
+    <h1>Hello schedule</h1>
 
+END
 
 .. toctree::
    :maxdepth: 2
