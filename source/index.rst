@@ -3,6 +3,21 @@
 
 .. figure:: _static/banner_logos.png
 
+
+.. tab:: Tab1
+
+  Hola Tab2
+.. tab:: Tab2
+
+  Hola Tab2
+
+
+
+
+
+
+
+
 .. tab:: Geospatial Challenge Camp
     
   .. raw:: html
@@ -38,7 +53,6 @@
 
 
   
-
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
@@ -106,13 +120,13 @@
         and make a broader societal impact in Finland and beyond.
       </p>
 
-      <h1>Theme</h1>
+      <h1>Theme</h1></div>
 
   .. figure:: _static/theme.png
 
   .. raw:: html
 
-    <p>The challenge is to work towards integrating health and location data 
+    <div><p>The challenge is to work towards integrating health and location data 
     to support analysis and improvement of health and wellbeing. 
     Possible application areas include:
     </p>
