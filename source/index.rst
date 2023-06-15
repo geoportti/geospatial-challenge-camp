@@ -1,7 +1,8 @@
+**Welcome!** 
+~~~~~~~~~~~~~
+
 .. figure:: _static/banner_logos.png
 
-**Welcome!** 
-~~~~~~~~~
 .. tab:: Geospatial Challenge Camp
     
   .. raw:: html
@@ -146,13 +147,13 @@
 
 
 
-
-
 .. tab:: Partners
   
   .. raw:: html 
     
     <h1> Here partners content<h1>
+
+      <p>Content for partners</p>
 
 
 
