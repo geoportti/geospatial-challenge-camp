@@ -6,6 +6,7 @@ sphinx-book-theme
 sphinx
 matplotlib
 jupyter-sphinx
+sphinx_tabs
 nbsphinx
 sphinxcontrib-bibtex
 MyST-NB
