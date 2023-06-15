@@ -6,8 +6,6 @@
 .. tab:: Geospatial Challenge Camp
     
   .. raw:: html
-    <p>
-    </p>
 
     <h1>Why Geospatial Challenge Camp?</h1>
 
@@ -150,17 +148,29 @@
 .. tab:: Partners
 
   .. raw:: html 
+
     <h1>Hello partner</h1>
+
+      <p>Content partner
+      </p>
 
 .. tab:: Researchers and students
 
   .. raw:: html 
+
     <h1>Hello researcher</h1>
+
+      <p>Content researcher
+      </p>
 
 .. tab:: Schedule
 
   .. raw:: html 
+
     <h1>Hello schedule</h1>
+
+      <p>Content schedule
+      </p>
 
 END
 
