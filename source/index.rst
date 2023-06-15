@@ -146,13 +146,106 @@
 
 .. tab:: Partners
 
+  .. figure:: _static/call_partners.png
+
   .. raw:: html 
 
-    <div><h1>Hello partner</h1>
+    
+    <div><h1>Partners</h1>
 
-      <p>Content partner
+      <p>Is your organization looking for a solution? The Geospatial Challenge Camp 2023 
+        aims to solve real-world sustainable challenges of <b>Health and Wellbeing</b> with 
+        open data and location technologies. Join us and collaborate with us 
+        to work together with multidisciplinary team in this 10-week course 
+        during September-December 2023.
       </p>
+
+      <h2>👉<a href="https://forms.gle/Emo8MP8SNZfvcxqJ8">Sign up in this Form</a></h2>
     </div>
+
+---------------------------------------------------------------------
+  
+  .. admonition:: Deadline
+    
+    Register as Partner before the **15.08.2023**
+
+.. raw:: html
+
+  <div><h1>Partner activities</h1>
+
+  <p>As a Partner you can support the Geospatial Challenge Camp in the next activities:</p>
+
+  <h2>Challenge theme owners</h2>
+
+    <p>Does your organization have real-world health and wellbeing problems? 
+      Is your team willing to solve those problems with open data and location technologies?
+    </p>
+
+  <h2>Digital data providers</h2>
+
+    <p>Does your organization have digital health related location data?
+      Would you offer this data to multidisciplinary teams for exploration and innovation?
+    </p>
+
+  <h2>Policy maker</h2>
+
+    <p>Do you have health related information gaps for the improvement of decision making?
+      Are you willing to find the link between data-driven solutions to public health policy making?
+    </p>
+
+  <h2>Financial sponsors</h2>
+
+    <p>Is yor organization interested in supporting the challenge camp and provide scholarships 
+      to young scientists? Or perhaps an award for the best solution?
+    </p>
+
+  <h1>Possible partners</h1>
+
+        <ul>
+      <li>Health care and wellbeing organizations and institutes</li>
+
+      <li>Wellbeing services counties</li>
+
+      <li>Organizations providing location and statistical information</li>
+
+      <li>Health and wellbeing companies</li>
+
+      <li>Companies interested in extending their activities to health and wellbeing domain</li>
+
+      <li>Innovation hubs and actors</li>
+
+      <li>Cities, municipalities, provinces</li>
+
+      <li>Enthusiastic volunteers</li>
+    </ul>
+
+  <h1>We offer</h1>
+
+    <ol>
+      <li>New digital solutions to real-world health and well-being problems</li>
+
+      <li>Working with young talented researchers and novel data processing</li>
+
+      <li>Refined and new digital high-value data sets</li>
+
+      <li>Stronger professional networks with location and tech experts</li>
+    </ol>
+
+  <h1>For more information</h1>
+
+    <p>Download</p>
+
+      <ul>
+        <li><a href="">Flyer Partners</a>
+        <li><a href="">Presentation Partners</a>
+      </ul>
+
+  <h1>Contact us</h1>
+
+    <p>Do you have questions? Do you want to talk with us? Send an email to geospatial-challenge@utu.fi</p>
+
+  </div>
+
 
 .. tab:: Researchers and students
 
