@@ -4,8 +4,8 @@
 
   .. tab:: Geospatial Challenge Camp
 
-    .. mdinclude:: md/index
-      
+    .. include:: md/index
+
   .. tab:: Researchers
 
   .. tab:: Partners 
