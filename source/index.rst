@@ -7,7 +7,7 @@
     
   .. raw:: html
 
-    <h1>Why Geospatial Challenge Camp?</h1>
+    <div><h1>Why Geospatial Challenge Camp?</h1>
 
       <p>Geospatial Challenge Camp aims at engaging young scientists and students 
         to solve real-world sustainability challenges with digital data and 
@@ -34,7 +34,7 @@
 
     <h1>How to participate</h1>
 
-    <p>Register your participation as your suitable role in the course.</p>
+    <p>Register your participation as your suitable role in the course.</p></div>
 
 
   
@@ -76,7 +76,7 @@
           </div>
       </div>
 
-    <h1>Challenge Camp 2023</h1>
+    <div><h1>Challenge Camp 2023</h1>
 
       <p>The <b>Geospatial Challenge Camp</b> is a new skills development and innovation 
         service of <a href="https://www.geoportti.fi/">Geoportti Research Infrastructure</a>
@@ -142,17 +142,18 @@
       <li><b>Logistics</b></li>
       <p>Are medical resources well distributed?</p>
     </ul>
-
+    </div>
 
 
 .. tab:: Partners
 
   .. raw:: html 
 
-    <h1>Hello partner</h1>
+    <div><h1>Hello partner</h1>
 
       <p>Content partner
       </p>
+    </div>
 
 .. tab:: Researchers and students
 
@@ -176,7 +177,7 @@ END
 
 .. toctree::
    :maxdepth: 2
-   :hidden: true
+   :hidden:
 
    sites/partners
    sites/researchers
