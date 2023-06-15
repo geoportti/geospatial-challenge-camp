@@ -40,8 +40,12 @@ extensions = [
     'myst_nb',
     'jupyter_sphinx',
     'sphinx_tabs.tabs',
+    'm2r'
    # 'sphinx_last_updated_by_git'
 ]
+
+# Suffid=x to files m2r
+source_suffix = ['.rst', '.md']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -64,9 +68,14 @@ html_theme = 'sphinx_book_theme'
 html_logo = '_static/gcc_logo.png'
 html_title = ""
 
+# navigation bar elements on left
 html_sidebars = {
-    "**": ["navbar-logo.html", "search-field.html"]
+    "**": ["navbar-logo.html", "search-field.html"] #, sbt-sidebar-nav.html
 }
+
+# True, otherwise collapse the content of all page
+sphinx_tabs_disable_tab_closing = True
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".

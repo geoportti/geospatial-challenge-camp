@@ -1,5 +1,16 @@
 .. figure:: _static/banner_logos.png
 
+.. tabs:: 
+
+  .. tab:: Geospatial Challenge Camp
+
+    .. mdinclude:: md/index
+      
+  .. tab:: Researchers
+
+  .. tab:: Partners 
+
+  .. tab:: Schedule
 
 Why Geospatial Challenge Camp?
 ================================
