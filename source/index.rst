@@ -148,14 +148,13 @@
 
 
 .. tab:: Partners
-
-
+  Hello partner
 
 .. tab:: Researchers and students
+  Hello researcher
 
 .. tab:: Schedule
-
-
+  Hello schedule
 
 
 
