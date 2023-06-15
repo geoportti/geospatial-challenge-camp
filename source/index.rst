@@ -148,12 +148,12 @@
 
 
 .. tab:: Partners
-  
-  .. raw:: html 
-    
-    <h1> Here partners content<h1>
 
-      <p>Content for partners</p>
+
+
+.. tab:: Researchers and students
+
+.. tab:: Schedule
 
 
 
