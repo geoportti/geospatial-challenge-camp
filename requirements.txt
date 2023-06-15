@@ -7,6 +7,7 @@ sphinx
 matplotlib
 jupyter-sphinx
 sphinx_tabs
+sphinx-inline-tabs
 nbsphinx
 sphinxcontrib-bibtex
 MyST-NB

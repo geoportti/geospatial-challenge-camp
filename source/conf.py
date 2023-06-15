@@ -40,6 +40,7 @@ extensions = [
     'myst_nb',
     'jupyter_sphinx',
     'sphinx_tabs.tabs',
+    "sphinx_inline_tabs",
    # 'sphinx_last_updated_by_git'
 ]
 
