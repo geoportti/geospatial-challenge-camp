@@ -147,7 +147,9 @@
 
 .. tab:: Partners
   
-  Here partners content
+  .. raw:: html 
+    
+    <h1> Here partners content<h1>
 
 .. toctree::
    :maxdepth: 2
