@@ -86,6 +86,7 @@ html_css_files = [
 ]
 html_theme_options = {
     # "external_links": [],
+    "toc_title": "",
     "navbar_end": ["navbar-icon-links"],
     "repository_url": "https://github.com/geoportti/geospatial-challenge-camp",
     "repository_branch": "master",

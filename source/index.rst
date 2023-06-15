@@ -1,10 +1,13 @@
 .. figure:: _static/banner_logos.png
 
-
+**Welcome!** 
+~~~~~~~~~
 .. tab:: Geospatial Challenge Camp
     
   .. raw:: html
-    
+    <p>
+    </p>
+
     <h1>Why Geospatial Challenge Camp?</h1>
 
       <p>Geospatial Challenge Camp aims at engaging young scientists and students 
@@ -150,6 +153,10 @@
   .. raw:: html 
     
     <h1> Here partners content<h1>
+
+
+
+
 
 .. toctree::
    :maxdepth: 2
