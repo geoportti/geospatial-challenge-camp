@@ -8,7 +8,7 @@ different stakeholders to co-create digital and social innovations with
 location data and digital technologies.
 
 👉 `Sign up in this Form <https://forms.gle/5NfP2RqVT1fuiyEU7>`_ 
---------------------------------------------------------
+------------------------------------------------------------------
 
 .. admonition:: Deadline
 

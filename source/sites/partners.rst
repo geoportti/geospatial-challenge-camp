@@ -10,7 +10,7 @@ to work together with multidisciplinary team in this 10-week course
 during September-December 2023.
 
 👉 `Sign up in this Form <https://forms.gle/Emo8MP8SNZfvcxqJ8>`_ 
---------------------------------------------------------
+---------------------------------------------------------------------
 
 .. admonition:: Deadline
 

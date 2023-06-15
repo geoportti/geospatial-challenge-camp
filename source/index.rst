@@ -1,5 +1,6 @@
 .. figure:: _static/banner_logos.png
 
+
 Why Geospatial Challenge Camp?
 ================================
 
@@ -145,7 +146,6 @@ Possible application areas include:
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Sign Up
 
    sites/partners
    sites/researchers

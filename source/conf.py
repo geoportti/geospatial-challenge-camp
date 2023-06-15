@@ -39,6 +39,7 @@ extensions = [
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
     'jupyter_sphinx',
+    'sphinx_tabs.tabs',
    # 'sphinx_last_updated_by_git'
 ]
 
@@ -63,6 +64,9 @@ html_theme = 'sphinx_book_theme'
 html_logo = '_static/gcc_logo.png'
 html_title = ""
 
+html_sidebars = {
+    "**": ["navbar-logo.html", "search-field.html"]
+}
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
