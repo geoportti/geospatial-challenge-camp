@@ -70,7 +70,7 @@ html_title = "Geospatial Challenge Camp 2023"
 
 # navigation bar elements on left
 html_sidebars = {
-    "**": ["navbar-logo.html", "search-field.html"] #, sbt-sidebar-nav.html
+    "**": ["navbar-logo.html", "search-field.html"] #, "sbt-sidebar-nav.html"]
 }
 
 # True, otherwise collapse the content of all page
