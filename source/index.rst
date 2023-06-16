@@ -161,7 +161,8 @@
       </p>
 
       <h2>👉<a href="https://forms.gle/Emo8MP8SNZfvcxqJ8">Sign up in this Form</a></h2></div> 
-      <hr>
+      
+      <div><hr></div>
 
   
   .. admonition:: Deadline
