@@ -246,10 +246,9 @@
 
     </div>
 
-
 .. tab:: Researchers and students
 
-.. figure:: _static/call_researchers.png
+  .. figure:: _static/call_researchers.png
 
   .. raw:: html 
 
