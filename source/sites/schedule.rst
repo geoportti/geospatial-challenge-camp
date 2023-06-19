@@ -9,8 +9,8 @@ The course runs for 10 weeks with a following structure:
     :stub-columns: 1
     :align: left
 
-    * - Time
-      - Content
+    * - Timeline
+      - Details
     
     * - Kick-off event
       - - 25.-26.9.2023 at Aalto University, Espoo
@@ -30,7 +30,7 @@ The course runs for 10 weeks with a following structure:
         - At the end of this phase the teams have planned what they will be doing for the rest of the course and can proceed in their project
 
     * - Weeks 3-5
-      - - 12.-13.10 Supercomputer introduction
+      - - 12.-13.10 Supercomputer introduction      
         - Prototyping and rapid ideation of solutions
         - Testing data and tools
         - Validating ideas with stakeholders

@@ -104,17 +104,22 @@
         chance to expand their data science solutions into new operative solutions 
         and make a broader societal impact in Finland and beyond.
       </p>
+      </div>
 
-      <h1>Theme</h1></div>
+
+.. tab:: Theme
 
   .. figure:: _static/theme.png
 
   .. raw:: html
 
-    <div><p>The challenge is to work towards integrating health and location data 
-    to support analysis and improvement of health and wellbeing. 
-    Possible application areas include:
-    </p>
+    <div>
+      <h1>Theme</h1>
+    
+      <p>The challenge is to work towards integrating health and location data 
+      to support analysis and improvement of health and wellbeing. 
+      Possible application areas include:
+      </p>
 
     <ul>
       <li><b>Accessibility</b></li>
@@ -142,7 +147,6 @@
       <p>Are medical resources well distributed?</p>
     </ul>
     </div>
-
 
 .. tab:: Partners
 
@@ -236,8 +240,10 @@
       <p>Download</p>
 
         <ul>
-          <li><a href="">Flyer Partners</a>
-          <li><a href="">Presentation Partners</a>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/2_Cooperation_flyer.pdf">Flyer Partners</a></h4>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/1_Call_for_Collaboration_Geospatial_Challenge_Camp_2023.pdf">Presentation Partners</a></h4>
+            <hr>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcWh4kwx31HR8cp14pZi2TDVi4G5srZvO0drU7Yk4HF340SI4UDDDiCFYP8XfcJA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </ul>
 
     <h1>Contact us</h1>
@@ -325,8 +331,10 @@
       <p>Download</p>
 
         <ul>
-          <li><a href="">Flyer Researchers</a>
-          <li><a href="">Presentation Researchers</a>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf">Flyer Researchers</a></h4>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf">Presentation Researchers</a></h4>
+            <hr>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9T7_QSvuuvCHQAoXXvIKPGLizF9ryU6aTWlhUlQT2qdMesL6leJpyanDgMcITzA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </ul>
 
     <h1>Contact us</h1>
@@ -366,9 +374,10 @@
 
                 <li>Introduction to the challenge theme, meeting with stakeholders, forming teams</li>
 
-                <li>A half day public seminar will be held first on Sep 25th with all the collaborators and researchers and Geoportti RI and LIH experts</li>
+                <li>A half-a day public seminar will be held on Sep 25th with all the collaborators and researchers and Geoportti RI and LIH experts</li>
 
-                <li>A day and a half workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will follow</li>
+                <li>Workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will be held on both days</li>
+
 
               </ul>
             </td>
@@ -410,7 +419,7 @@
             <td>
               <ul>
 
-                <li>12.-13.10 Supercomputer introduction</li>
+                <li>12.-13.10 Supercomputer introduction in Helsinki and online</li>
 
                 <li>Prototyping and rapid ideation of solutions</li>
 
@@ -428,7 +437,7 @@
             <td>
               <ul>
 
-                <li>01.11.2023 Turku</li>
+                <li>01.11.2023 at the University of Turku</li>
 
                 <li>Each group presents their own project and prototyping/ideas</li>
 
@@ -459,9 +468,7 @@
             <td>
               <ul>
 
-                <li>Finalization and final seminar</li>
-
-                <li>Mentoring sessions</li>
+                <li>Finalization of group's work</li>
 
               </ul>
             </td>
@@ -472,7 +479,7 @@
             <td>
               <ul>
 
-                <li>01.12.2023 in Espoo</li>
+                <li>01.12.2023 at Aalto University in Espoo</li>
 
                 <li>Each group will present their solution to the rest of the course, stakeholders, and general audience</li>
 
