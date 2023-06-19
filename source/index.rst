@@ -246,6 +246,7 @@
 
             <style>
               iframe {
+                margin:auto;
                 display: block;}
             </style>
 
@@ -340,7 +341,14 @@
           <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf">Flyer Researchers</a></h4>
           <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf">Presentation Researchers</a></h4>
             <hr>
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9T7_QSvuuvCHQAoXXvIKPGLizF9ryU6aTWlhUlQT2qdMesL6leJpyanDgMcITzA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+            <style>
+              iframe {
+                margin:auto;
+                display: block;}
+            </style>
+
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9T7_QSvuuvCHQAoXXvIKPGLizF9ryU6aTWlhUlQT2qdMesL6leJpyanDgMcITzA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </ul>
 
     <h1>Contact us</h1>
