@@ -240,8 +240,8 @@
       <p>Download:</p>
 
         <ul>
-          <li><b><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/2_Cooperation_flyer.pdf">Flyer Partners</a></b>
-          <li><b><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/1_Call_for_Collaboration_Geospatial_Challenge_Camp_2023.pdf">Presentation Partners</a></b>
+          <li><b><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/2_Cooperation_flyer.pdf" download="Cooperation_flyer" target="_blank">Flyer Partners</a></b>
+          <li><b><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/1_Call_for_Collaboration_Geospatial_Challenge_Camp_2023.pdf" download="Call_for_Collaboration_Geospatial_Challenge_Camp_2023" target="_blank">Presentation Partners</a></b>
             <hr>
 
             <style>
@@ -338,8 +338,8 @@
       <p>Download</p>
 
         <ul>
-          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf">Flyer Researchers</a></h4>
-          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf">Presentation Researchers</a></h4>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf" download="Researchers_flyer" target="_blank">Flyer Researchers</a></h4>
+          <li><h4><a href="https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf" download="Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf" target="_blank">Presentation Researchers</a></h4>
             <hr>
 
             <style>
@@ -508,16 +508,4 @@
         </table>
 
     </div>
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   sites/partners
-   sites/researchers
-   sites/schedule
-   
-  
-
 
