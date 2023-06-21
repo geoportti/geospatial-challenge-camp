@@ -49,7 +49,7 @@
 
   .. container:: custom-button
 
-      `Sign Up <sites/researchers.html>`_
+      `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
 
   .. raw:: html
 
@@ -64,8 +64,8 @@
                     <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
 
   .. container:: custom-button
-
-      `Sign Up <sites/partners.html>`__
+  
+      `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
 
   .. raw:: html
 
@@ -164,7 +164,7 @@
         during September-December 2023.
       </p>
 
-      <h2>👉<a href="https://forms.gle/Emo8MP8SNZfvcxqJ8">Sign up in this Form</a></h2>
+      <h2>👉<a href="https://forms.gle/Emo8MP8SNZfvcxqJ8" target="_blank">Sign up in this Form</a></h2>
     </div>
     <div><hr></div>
 
@@ -273,7 +273,7 @@
         location data and digital technologies.
       </p>
 
-      <h2>👉<a href="https://forms.gle/5NfP2RqVT1fuiyEU7">Sign up in this Form</a></h2>
+      <h2>👉<a href="https://forms.gle/5NfP2RqVT1fuiyEU7" target="_blank">Sign up in this Form</a></h2>
     </div>
     <div><hr></div>
 
