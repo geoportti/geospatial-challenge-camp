@@ -169,9 +169,9 @@
     <div><hr></div>
 
   
-  .. admonition:: Deadline
+  .. admonition:: Deadline extended!
     
-    Register as Partner before the **15.08.2023**
+    Register as Partner before the **11.09.2023**
 
   .. raw:: html
 
@@ -278,9 +278,9 @@
     <div><hr></div>
 
   
-  .. admonition:: Deadline
+  .. admonition:: Deadline extended!
     
-    Register as Partner before the **01.09.2023**
+    Register as Researcher before the **11.09.2023**
 
   .. raw:: html
 
