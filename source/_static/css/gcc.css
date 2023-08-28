@@ -8,10 +8,15 @@ body {
 }
 
 .card-img-top {
-    width: 150px;
-    height: 150px;
+    width: 350px;
+    height: 350px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.card-title {
+  margin: 0px 0px 0px 0px;
+  font-weight: bold;
 }
 
 /* Getting started index page */
@@ -19,7 +24,7 @@ body {
 .intro-card {
   background: #fff;
   border-radius: 0;
-  padding: 30px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
   margin: 10px 0px;
 }
 
