@@ -1,7 +1,7 @@
+.. figure:: ../_static/call_researchers.png
+
 Researchers and Students
 =============================
-
-.. figure:: ../_static/call_researchers.png
 
 Multi-disciplinary teams of young scientists working in close collaboration with 
 different stakeholders to co-create digital and social innovations with 

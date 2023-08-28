@@ -1,7 +1,7 @@
+.. figure:: ./../_static/call_partners.png
+
 Partners
 ==========
-
-.. figure:: ./../_static/call_partners.png
 
 Is your organization looking for a solution? The Geospatial Challenge Camp 2023 
 aims to solve real-world sustainable challenges of **Health and Wellbeing** with 

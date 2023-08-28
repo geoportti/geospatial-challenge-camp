@@ -1,6 +1,3 @@
-Theme
-=======
-
 .. figure:: ./../_static/theme.png
 
 .. raw:: html
