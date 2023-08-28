@@ -1,8 +1,6 @@
-
-**Welcome**
-==============
-
 .. figure:: _static/banner_logos.png
+
+
 
 .. grid:: 1 3 3 3
     :gutter: 2
