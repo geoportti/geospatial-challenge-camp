@@ -7,7 +7,7 @@ We recommended participants to book a room in the **Hotel Heymo 1 by Sokos Hotel
 
     - The room needs to be booked by your own! 
     - The cost is 96 EUR/night (breakfast not included)
-    - You can find **early bird discounts** in your booking as 91.80 EUR (including breakfast)
+    - You can find **early bird discounts** in your booking for 91.80 EUR (including breakfast)
     
 
     .. button-link:: https://www.sokoshotels.fi/en/espoo/heymo-1
