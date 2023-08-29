@@ -136,7 +136,7 @@ Overview
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
    Schedule<tabs/schedule>
-
+   Accomodation<tabs/accommodation>
 
 
 
