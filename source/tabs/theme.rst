@@ -1,5 +1,8 @@
 .. figure:: ./../_static/theme.png
 
+Theme
+=======
+
 .. raw:: html
 
     <div>
