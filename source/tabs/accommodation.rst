@@ -5,18 +5,10 @@ We recommended participants to book a room in the **Hotel Heymo 1 by Sokos Hotel
 
 .. admonition:: Important!
 
-    - The room needs to be booked by your own! 
-    - The cost is 96 EUR/night (breakfast not included)
-    - You can find **early bird discounts** in your booking for 91.80 EUR (including breakfast)
+    - We have reserved 10 rooms, if you want to book a room for you, contact **geospatial-challenge@utu.fi**
+    - The rooms cost 96 EUR/night, breakfast not included
+    - Early birds discounts are considered if you reserve the room on time.
     
-
-    .. button-link:: https://www.sokoshotels.fi/en/espoo/heymo-1
-                :color: primary
-                :shadow:
-                :align: center
-
-                👉 Book a room
-
 
 Directions
 ============
