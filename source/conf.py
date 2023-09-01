@@ -43,6 +43,10 @@ html_title = "Geospatial Challenge Camp 2023"
 
 html_static_path = ['_static']
 
+html_context = {
+   "default_mode": "light"
+}
+
 html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': ['search-field'],
