@@ -43,11 +43,15 @@ html_title = "Geospatial Challenge Camp 2023"
 
 html_static_path = ['_static']
 
+html_context = {
+   "default_mode": "light"
+}
+
 html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': ['search-field'],
     'search_bar_text': '',
-    'navbar_end': ['navbar-icon-links'],
+    'navbar_end': ['navbar-icon-links', 'theme-switcher'],
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
     'announcement': 'Deadline extended! Sign up until the 11.09.2023', # to add urgent messages,
