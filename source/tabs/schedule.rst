@@ -73,7 +73,7 @@ Schedule
             <td>
                 <ul>
 
-                <li>12.-13.10 Supercomputer introduction in Helsinki and online</li>
+                <li><a href="schedule.html#geocomputing-with-puhti-supercomputer">12.-13.10 Puhti supercomputer course in Espoo and online</a></li>
 
                 <li>Prototyping and rapid ideation of solutions</li>
 
@@ -144,7 +144,70 @@ Schedule
                 </ul>
             </td>
             </tr>
-
+            
         </table>
 
     </div>
+
+
+.. raw:: html 
+
+    <div>
+        <hr>
+    </div>
+
+Geocomputing with Puhti supercomputer
+========================================
+
+.. raw:: html 
+
+    <div>
+
+        <p>
+        In this course we will learn the basics of Geocomputing on a supercomputer through a combination of lectures 
+        and hands-on activities. The main focus of the course is the <a href="https://docs.csc.fi/computing/systems-puhti/">Puhti supercomputer</a>,
+        and all the exercises are hands-on. The CSC services discussed in this course are <a href="https://research.csc.fi/free-of-charge-use-cases">Free-of-charge for academic research, education, and training purposes</a> 
+        for Finnish higher education Institutions and state research institutes (subsidized by the Ministry of Education and Culture, Finland).
+
+        Most of the course content also applies to <a href="https://www.lumi-supercomputer.eu/">LUMI supercomputer</a>, which is available for academi users 
+        and <a href="https://csc.fi/solutions-for-business">private business</a>. 
+
+        This course is dedicated to academic researchers planning to use <b>Puhti supercomputer</b> and for data analysts 
+        from private companies planning to use <b>LUMI supercomputer</b>. Take a look and undertands more about <a href="https://research.csc.fi/geocomputing">CSC geocomputing</a>.
+
+        </p>
+    </div>
+
+
+
+.. admonition:: Important!
+
+    - Two days course at 12-13.10.2023
+    - Course is offered free of charge
+    - Registration **deadline** on 5.10.2023
+    - You can assist at CSC office in Espoo or online
+    
+
+    .. button-link:: https://ssl.eventilla.com/geocomputing_2023
+                :color: primary
+                :shadow:
+                :align: center
+
+                👉 Registration
+
+
+Learning outcomes
+===================
+After the course the participants should have the skills and knowledge needed to start using CSC supercomputer Puhti 
+for their spatial analysis and spatial data processing tasks.
+In detail, participants will learn:
+
+- How to get account and access to Puhti (as part of the prerequisites).
+- How to connect to a supercomputer, and where to store your data (Allas).
+- How to use the modules and the batch job system.
+- How to install own software to a supercomputer (Tykky).
+- How to run your R or Python scripts or GDAL commands on one or several cores.
+- How to use QGIS and other pre-installed GIS-software via the Puhti webinterface.
+- How to get help.
+
+
