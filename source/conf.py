@@ -62,7 +62,8 @@ html_theme_options = {
     'navbar_persistent': ['search-field'],
     'search_bar_text': '',
     'navbar_end': ['navbar-icon-links', 'theme-switcher'],
-    'footer_start':["version-switcher", "copyright", "sphinx-version"], # "theme-version"
+    'footer_start':["copyright", "sphinx-version"], # 
+    'footer_end':["version-switcher", "theme-version"],
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
     'announcement': 'Deadline extended! Sign up until the 11.09.2023', # to add urgent messages,
