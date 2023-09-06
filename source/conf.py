@@ -1,3 +1,8 @@
+import os
+
+
+
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -48,15 +53,24 @@ html_context = {
    "default_mode": "light"
 }
 
+json_url = '_static\switcher.json'
+
+version_match = ["v1.0", "dev1.0"]
+
 html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': ['search-field'],
     'search_bar_text': '',
-    'navbar_end': ['navbar-icon-links', 'theme-switcher'],
+    'navbar_end': ["version-switcher", 'navbar-icon-links', 'theme-switcher'],
+    'footer_start':["version-switcher"],
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
     'announcement': 'Deadline extended! Sign up until the 11.09.2023', # to add urgent messages,
-    
+    'switcher': {
+            'json_url': json_url,
+            'version_match':version_match
+        
+    },
     # https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/header-links.html
     "icon_links": [
         {
