@@ -1,5 +1,6 @@
 Kick-off meeting
 ===================
+Material to be added...
 
 Social event at *AYY Sauna*
 --------------------------------
