@@ -156,6 +156,7 @@ Trusted partners
    Researchers and Students<tabs/researchers>
    Schedule<tabs/schedule>
    Accomodation<tabs/accommodation>
+   Kick-off meeting<tabs/kick_off>
 
 
 
