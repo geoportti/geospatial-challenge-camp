@@ -1,9 +1,7 @@
 [
     {
-        "name": "v1.0 latest",
-        "version": "v1.0",
-        "url": "https://challenge-camp.geoportti.fi/en/latest/",
-        "preferred": true
+        "version": "latest",
+        "url": "https://challenge-camp.geoportti.fi/en/latest/"
     },
     {
         "version": "dev1.0",
