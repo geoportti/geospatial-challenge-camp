@@ -125,6 +125,25 @@ Overview
    </p>
    </div>
 
+Trusted partners
+======================
+
+.. carousel::
+    :show_controls:
+    :show_indicators:
+    :show_dark:
+
+    .. figure:: _static/logos/geoforum_c.png
+
+      www.geoforum.fi
+
+
+    .. figure:: _static/logos/healthhub_c.png
+      
+      www.healthhub.fi
+
+
+
 
 .. toctree::
    :maxdepth: 2

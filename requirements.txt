@@ -6,3 +6,4 @@ pydata-sphinx-theme
 sphinx-togglebutton
 ipython
 sphinx_design
+sphinx-carousel

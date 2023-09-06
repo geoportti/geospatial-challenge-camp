@@ -22,6 +22,7 @@ extensions = [
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
     'sphinx_design',
+    "sphinx_carousel.carousel",
     # 'myst_nb',
     # 'jupyter_sphinx',
     # 'sphinx_tabs.tabs',
