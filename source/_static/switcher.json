@@ -4,7 +4,7 @@
         "url": "https://challenge-camp.geoportti.fi/en/latest/"
     },
     {
-        "version": "dev1.0",
-        "url": "https://challenge-camp.geoportti.fi/en/dev1.0/"
+        "version": "dev",
+        "url": "https://challenge-camp.geoportti.fi/en/dev/"
     }
 ]
