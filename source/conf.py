@@ -55,14 +55,14 @@ html_context = {
 
 json_url = '_static\switcher.json'
 
-version_match = ["v1.0", "dev1.0"]
+version_match = "v1.0"
 
 html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': ['search-field'],
     'search_bar_text': '',
-    'navbar_end': ["version-switcher", 'navbar-icon-links', 'theme-switcher'],
-    'footer_start':["version-switcher"],
+    'navbar_end': ['navbar-icon-links', 'theme-switcher'],
+    'footer_start':["version-switcher", "copyright", "sphinx-version"], # "theme-version"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
     'announcement': 'Deadline extended! Sign up until the 11.09.2023', # to add urgent messages,
