@@ -14,6 +14,8 @@ Join us! We need to confirm your assistance as a general public so we can plan a
 
 .. admonition:: Confirmation!
 
+    - This confirmation is needed for *General public* assiting the opening event
+
     .. button-link:: https://forms.gle/9re4Gc82XVsNMdKY6
             :color: primary
             :shadow:
