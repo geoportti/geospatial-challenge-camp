@@ -137,10 +137,43 @@ Trusted partners
 
       www.geoforum.fi
 
-
     .. figure:: _static/logos/healthhub_c.png
       
       www.healthhub.fi
+
+    .. figure:: _static/logos/csc_c.png
+         
+      www.csc.fi
+
+    .. figure:: _static/logos/gispo_c.png
+         
+      www.gispo.fi
+
+    .. figure:: _static/logos/syke_c.png
+         
+      www.syke.fi
+
+    .. figure:: _static/logos/varha_c.png
+         
+      www.varha.fi
+
+    .. figure:: _static/logos/uturku_c.png
+         
+      www.utu.fi
+
+    .. figure:: _static/logos/lih_c.png
+         
+      www.locationinnovationhub.eu
+
+    .. figure:: _static/logos/aalto_c.png
+         
+      www.aalto.fi
+
+    .. figure:: _static/logos/geoportti_c.png
+         
+      www.geoportti.fi
+
+   
 
 
 
@@ -156,7 +189,7 @@ Trusted partners
    Researchers and Students<tabs/researchers>
    Schedule<tabs/schedule>
    Accomodation<tabs/accommodation>
-   Kick-off meeting<tabs/kick_off>
+   Opening event<tabs/kick_off>
 
 
 
