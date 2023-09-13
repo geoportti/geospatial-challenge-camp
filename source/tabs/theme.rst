@@ -38,3 +38,23 @@ Theme
         <p>Are medical resources well distributed?</p>
     </ul>
     </div>
+
+
+Sub-themes
+============
+Get to know deeply the sub-themes and the problems you can solve under the umbrella of **Health and Wellbeing**
+
+
+.. raw:: html
+
+    <div>
+            <hr>
+            <style>
+                iframe {
+                margin:auto;
+                display: block;}
+            </style>
+
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQL4VQkVe4FFaXe191RBdjBLkvhKAfUDvt0bX8ZssVSEsnE0i7YliAnxbPhgJFBrg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <hr>
+        </ul>
