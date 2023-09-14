@@ -13,7 +13,7 @@ Sign up
 
 .. attention:: 
 
-    Register as a Researcher before the **11.09.2023**
+    Register as a Researcher before the **20.09.2023**
 
     .. button-link:: https://forms.gle/5NfP2RqVT1fuiyEU7
             :color: primary

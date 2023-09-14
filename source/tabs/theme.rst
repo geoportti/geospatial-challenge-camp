@@ -38,7 +38,7 @@ Theme
         <p>Are medical resources well distributed?</p>
     </ul>
     </div>
-
+    
 Sub-themes
 ============
 Get to know deeply the sub-themes and the problems you can solve under the umbrella of **Health and Wellbeing**

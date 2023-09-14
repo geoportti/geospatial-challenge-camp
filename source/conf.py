@@ -66,7 +66,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Deadline extended! Sign up until the 11.09.2023', # to add urgent messages,
+    'announcement': 'Deadline extended! Sign up until the 20.09.2023', # to add urgent messages,
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
