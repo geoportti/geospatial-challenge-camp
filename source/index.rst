@@ -44,7 +44,7 @@ Sign up
 
 .. attention:: 
     
-    Register before the **11.09.2023**
+    Register before the **20.09.2023**
 
 .. raw:: html
   

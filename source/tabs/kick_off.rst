@@ -1,10 +1,10 @@
 Kick-off meeting
 ===================
-If you are joining as *Researchers and/or Students* find the ful participants program in the **Digicampus**
+If you are joining as *Researchers and Students* find the ful participants program in the **Digicampus**
 
 Opening event for *General public*
 -----------------------------------
-During the kick-off meeting of the Geospatial Challenge Camp the general public 
+During the kick-off meeting of the **Geospatial Challenge Camp** the general public 
 can assist and be part of the opening session where the theme **Health and Wellbeing** 
 will be presented. The partners of the camp will present as well their perspectives 
 and explain their participation as challenge owners.

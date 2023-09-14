@@ -29,7 +29,7 @@ Sign up
 
 .. attention:: 
 
-    Register as Partner before the **11.09.2023**
+    Register as Partner before the **20.09.2023**
 
     .. button-link:: https://forms.gle/Emo8MP8SNZfvcxqJ8
             :color: primary
