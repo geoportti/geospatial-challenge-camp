@@ -1,9 +1,5 @@
-Kick-off meeting
-===================
-If you are joining as *Researchers and Students* find the ful participants program in the **Digicampus**
-
-Opening event for *General public*
------------------------------------
+Programme
+============
 During the kick-off meeting of the **Geospatial Challenge Camp** the general public 
 can assist and be part of the opening session where the theme **Health and Wellbeing** 
 will be presented. The partners of the camp will present as well their perspectives 
@@ -15,6 +11,8 @@ Join us! We need to confirm your assistance as a general public so we can plan a
 .. admonition:: Confirmation!
 
     - This confirmation is needed for *General public* assiting the opening event
+    - Venue at A Grid: room A108b and room A111a (Aalto University, Otakaari 5)
+    - **Deadline** by Friday 22nd September noon
 
     .. button-link:: https://forms.gle/9re4Gc82XVsNMdKY6
             :color: primary
@@ -24,14 +22,16 @@ Join us! We need to confirm your assistance as a general public so we can plan a
             👉 Confirm your assistance here!
 
 
-Opening schedule
-------------------
+Monday 25.09.2023 (Day 1)
+==========================
+
+
+*Session 1: Orientation to GCC 2023*
+--------------------------------------
 
 .. raw:: html 
 
     <div>
-
-        <p>The opening event is open for the general public on 25.09.2023:</p>
         
         <style>
             table, th, td {
@@ -43,25 +43,133 @@ Opening schedule
         <table style="width:100%">
             <tr>
             <th>Time</th>
-            <th>Details</th>
+            <th>Activity</th>
             </tr>
             <tr>
-            <td><b>13:00</b></td>
+            <td><b>10:00</b></td>
             <td>
                 <ul>
 
-                <p>Opening words - Geospatial Challenge Camp 2023 [N. Käyhkö]</p>
+                <p>Morning coffee/tea and get-together for the GCC 2023 researchers, students, organizers and key mentors</p>
 
                 </ul>
             </td>
             </tr>
 
             <tr>
-            <td><b>13:45</b></td>
+            <td><b>10:30</b></td>
             <td>
                 <ul>
 
-                <p>Aiming for sustainable solutions [H. Tenkanen]</p>
+                <p><b>Introduction to GCC2023 practicalities</b></p>
+                    <ul>
+                        <li>GCC 2023 aims and objectives (learning aims, program overview, learning methods)</li>
+
+                        <li>Camp practicalities (physical, online, group working, team member roles, etc.)</li>
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>11:15</b></td>
+            <td>
+                <ul>
+
+                <p><b>Getting to know GCC2023 participants and camp key mentors</b></p>
+                    <ul>
+                        <li>Introduction of researchers and students</li>
+
+                        <li>Introduction of organizers and key mentors</li>
+
+                        <li>Ice-breaking exercises</li>
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>12:00</b></td>
+            <td>
+                <ul>
+
+                <p><b>LUNCH</b></p>
+
+                </ul>
+            </td>
+            </tr>            
+        </table>
+
+    </div>
+
+
+*Session 2: Official launch of GCC 2023*
+--------------------------------------------
+
+.. raw:: html 
+
+    <div>
+        
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;}
+        </style>
+
+
+        <table style="width:100%">
+            <tr>
+            <th>Time</th>
+            <th>Activity</th>
+            </tr>
+            <tr>
+            <td><b>13:00</b></td>
+            <td>
+                
+                <ul>
+
+                <p><b>Geospatial Challenge Camp 2023 opening words</b></p>
+                    <ul>
+                        <li>Short introduction to GCC concept and mission</li>
+
+                        <li>Geoportti RI - The Hub for Finnish Geospatial Research and Education Resources</li>
+
+                        <li>LIH - Centre of Excellence in Location Information (European Digital Innovation Hub)</li>
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>13:20</b></td>
+            <td>
+                <ul>
+
+                <p><b>Introduction to the GCC2023 theme “Health and Well-being” </b></p>
+                    <ul>
+                        <li>Subtopics of the challenge</li>
+
+                        <li>Emerging needs from the community of scientists and practitioners</li>
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>13:50</b></td>
+            <td>
+                <ul>
+
+                <p><b>GCC 2023 for sustainable digital geospatial solutions </b></p>
+                    <ul>
+                        <li>Vision for the sustainability</li>
+
+                        <li>Practical tips and ideas</li>
+                    </ul>
 
                 </ul>
             </td>
@@ -72,7 +180,32 @@ Opening schedule
             <td>
                 <ul>
 
-                <p>Coffe break</p>
+                <p><b>Coffee/Tea</b></p>
+
+                </ul>
+            </td>
+            </tr>    
+
+            <tr>
+            <td><b>14:45</b></td>
+            <td>
+                <ul>
+
+                <p><b>Partner perspectives to GCC 2023</b></p>
+                    <ul>
+                        <li>Varha</li>
+
+                        <li>Health Hub Finland (Henrik Honkanen)</li>
+
+                        <li>University of Oulu (Harri Antikainen)</li>
+
+                        <li>GISPO (Sanna Jokela)</li>
+
+                        <li>Geoforum (Miika Kostamo)</li>
+
+                        <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li>
+                        
+                    </ul>
 
                 </ul>
             </td>
@@ -83,18 +216,21 @@ Opening schedule
             <td>
                 <ul>
 
-                <p>Partners perspectives - Problems and GIS Solutions [VARHA, HealthHub, GISPO, CSC]</p>
+                <p><b>Partner perspectives to GCC 2023</b></p>
+                    <ul>
+                        <li>Varha</li>
 
-                </ul>
-            </td>
-            </tr>
+                        <li>Health Hub Finland (Henrik Honkanen)</li>
 
-            <tr>
-            <td><b>15:30</b></td>
-            <td>
-                <ul>
+                        <li>University of Oulu (Harri Antikainen)</li>
 
-                <p>Cooperation between challenge owners (partners) and researchers participating</p>
+                        <li>GISPO (Sanna Jokela)</li>
+
+                        <li>Geoforum (Miika Kostamo)</li>
+
+                        <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li>
+                        
+                    </ul>
 
                 </ul>
             </td>
@@ -105,30 +241,218 @@ Opening schedule
             <td>
                 <ul>
 
-                <p>Q&A - Researchers, Partners, and Organizers</p>
+                <p><b>Q&A</b></p>
+                    <ul>
+                        <li>Discussion of the forms of cooperation between camp participants, mentors and partners</li>
+
+                        <li>Good practices and tips</li>
+
+                        <li>Important milestones and weekly mentoring</li>
+                        
+                    </ul>
 
                 </ul>
             </td>
             </tr>
 
             <tr>
-            <td><b>16:50</b></td>
+            <td><b>17:00</b></td>
             <td>
                 <ul>
 
-                <p>Closing of kick-off opening event</p>
+                <p>Closing</p>
 
                 </ul>
             </td>
             </tr>
 
-            
+            <td><b>17:00 ahead</b></td>
+            <td>
+                <ul>
+
+                <p>Social program</p>
+
+                </ul>
+            </td>
+            </tr>
+
+
+        </table>
+        <hr>
+    </div>
+
+Tuesday 26.09.2023 (Day 2)
+==========================
+
+*Session 3: Forming multi-skilled teams (only for camp participants and organizers)*
+----------------------------------------------------------------------------------------
+
+.. raw:: html 
+
+    <div>
+        
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;}
+        </style>
+
+
+        <table style="width:100%">
+            <tr>
+            <th>Time</th>
+            <th>Activity</th>
+            </tr>
+            <tr>
+            <td><b>9:00</b></td>
+            <td>
+                
+                <ul>
+
+                <p><b>Morning coffee/tea</b></p>
+                   
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>9:30</b></td>
+            <td>
+                <ul>
+
+                <p>Brief overview and reflection from Day 1</p>
+                   
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>10:00</b></td>
+            <td>
+                <ul>
+
+                <p><b>GCC 2023 as an innovation challenge</b></p>
+                    <ul>
+                        <li>Timeline, milestones and communication of the teams and organizers (Web pages, Digicampus, other comms platforms) </li>
+
+                        <li>Different roles of team members and tips and good practices for team working</li>
+
+                        <li>Forming teams: exercise</li>
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>11:45</b></td>
+            <td>
+                <ul>
+
+                <p><b>LUNCH</b></p>
+
+                </ul>
+            </td>
+            </tr>    
+
         </table>
 
     </div>
 
+
+*Session 4: Getting insights into the challenge topic, data and tools*
+----------------------------------------------------------------------------------------
+
+.. raw:: html 
+
+    <div>
+        
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;}
+        </style>
+
+
+        <table style="width:100%">
+            <tr>
+            <th>Time</th>
+            <th>Activity</th>
+            </tr>
+            <tr>
+            <td><b>12:30</b></td>
+            <td>
+                
+                <ul>
+
+                <p><b>Getting to know insights of the key mentors, their expertise and roles during the camp</b></p>
+                    <ul>                     
+                        <li>Vuokko Heikinheimo (SYKE): 15 min</li>
+
+                        <li>Juha Oksanen (FGI) - 5min</li>
+
+                        <li>Carlos Gonzales Inca (UTU) - 5min</li>
+
+                        <li>Antero Järvi (UTU) - 5 min</li>
+
+                        <li>Henrikki Tenkanen (Aalto) - 5 min</li>
+
+                        <li>Samantha Wittke (CSC): overview of CSC computing resources (45 min)</li>
+                    </ul>
+                   
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>14:00</b></td>
+            <td>
+                <ul>
+
+                <p><b>Coffee/Tea</b></p>
+                   
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>14:15</b></td>
+            <td>
+                <ul>
+
+                <p><b>Working as a team to specify the challenge topics: insights into health and well-being</b></p>
+                    <ul>
+                        <li>Insights into the challenge theme and sub-topics (examples)</li>
+
+                        <li>Start analysis of the challenge theme as a team</li>
+
+                        <li>Obtain insights into the topic, data and tools with mentors</li>
+
+                        <li>Agree on the team working modalities and schedules for the challenge introduction and specification phases (weeks 1-3)</li>
+                        
+                    </ul>
+
+                </ul>
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>16:00</b></td>
+            <td>
+                <ul>
+
+                <p>Closing words</p>
+
+                </ul>
+            </td>
+            </tr>    
+
+        </table>
+        <hr>
+    </div>
+
+
+
 Venue's location
-------------------
+==================
 Kick-off opening event will be held on **Otakaari 5 - A Grid: room A108b and room A111a**
 
 .. raw:: html

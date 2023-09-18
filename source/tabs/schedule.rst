@@ -1,5 +1,5 @@
-Schedule
-==========
+Full schedule
+===============
 
 .. raw:: html 
 
@@ -188,13 +188,14 @@ Geocomputing with Puhti supercomputer
     - You can assist at CSC office in Espoo or online
     
 
-    .. button-link:: https://ssl.eventilla.com/geocomputing_2023
+    .. button-link:: https://ssl.eventilla.com/attend/R186Z?t%5Bpdn2y%5D 
                 :color: primary
                 :shadow:
                 :align: center
 
                 👉 Registration
 
+..   https://ssl.eventilla.com/geocomputing_2023
 
 Learning outcomes
 ===================

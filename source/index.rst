@@ -187,9 +187,9 @@ Trusted partners
    Theme<tabs/theme>
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
-   Schedule<tabs/schedule>
+   Full schedule<tabs/schedule>
    Accomodation<tabs/accommodation>
-   Opening event<tabs/kick_off>
+   Kick-off meeting<tabs/kick_off>
 
 
 
