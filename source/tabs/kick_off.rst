@@ -136,7 +136,7 @@ Monday 25.09.2023 (Day 1)
 
                         <li>Geoportti RI - The Hub for Finnish Geospatial Research and Education Resources</li>
 
-                        <li>LIH - Centre of Excellence in Location Information (European Digital Innovation Hub)</li>
+                        <li>LIH - Centre of Excellence in Location Innovation (European Digital Innovation Hub)</li>
                     </ul>
 
                 </ul>
@@ -148,7 +148,7 @@ Monday 25.09.2023 (Day 1)
             <td>
                 <ul>
 
-                <p><b>Introduction to the GCC2023 theme “Health and Well-being” </b></p>
+                <p><b>Introduction to the GCC2023 theme “Health and Well-being” (Niina Käyhkö)</b></p>
                     <ul>
                         <li>Subtopics of the challenge</li>
 
@@ -160,11 +160,11 @@ Monday 25.09.2023 (Day 1)
             </tr>
 
             <tr>
-            <td><b>13:50</b></td>
+            <td><b>13:45</b></td>
             <td>
                 <ul>
 
-                <p><b>GCC 2023 for sustainable digital geospatial solutions </b></p>
+                <p><b>GCC 2023 for sustainable digital geospatial solutions (Henrikki Tenkanen)</b></p>
                     <ul>
                         <li>Vision for the sustainability</li>
 
@@ -176,7 +176,7 @@ Monday 25.09.2023 (Day 1)
             </tr>
 
             <tr>
-            <td><b>14:15</b></td>
+            <td><b>14:00</b></td>
             <td>
                 <ul>
 
@@ -187,7 +187,7 @@ Monday 25.09.2023 (Day 1)
             </tr>    
 
             <tr>
-            <td><b>14:45</b></td>
+            <td><b>14:30</b></td>
             <td>
                 <ul>
 
@@ -201,9 +201,9 @@ Monday 25.09.2023 (Day 1)
 
                         <li>GISPO (Sanna Jokela)</li>
 
-                        <li>Geoforum (Miika Kostamo)</li>
-
                         <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li>
+
+                        <li>Geoforum (Miika Kostamo)</li>
                         
                     </ul>
 
@@ -211,31 +211,7 @@ Monday 25.09.2023 (Day 1)
             </td>
             </tr>
 
-            <tr>
-            <td><b>14:45</b></td>
-            <td>
-                <ul>
-
-                <p><b>Partner perspectives to GCC 2023</b></p>
-                    <ul>
-                        <li>Varha</li>
-
-                        <li>Health Hub Finland (Henrik Honkanen)</li>
-
-                        <li>University of Oulu (Harri Antikainen)</li>
-
-                        <li>GISPO (Sanna Jokela)</li>
-
-                        <li>Geoforum (Miika Kostamo)</li>
-
-                        <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li>
-                        
-                    </ul>
-
-                </ul>
-            </td>
-            </tr>
-
+            
             <tr>
             <td><b>16:00</b></td>
             <td>
@@ -270,7 +246,13 @@ Monday 25.09.2023 (Day 1)
             <td>
                 <ul>
 
-                <p>Social program</p>
+                <p><b>Social program</b></p>
+                    <ul>
+                        <li>Laude Sauna & Terrace in Otaniemi</li>
+
+                        <li>Upon registration only</li>
+                        
+                    </ul>
 
                 </ul>
             </td>
