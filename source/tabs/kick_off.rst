@@ -132,11 +132,11 @@ Monday 25.09.2023 (Day 1)
 
                 <p><b>Geospatial Challenge Camp 2023 opening words</b></p>
                     <ul>
-                        <li>Short introduction to GCC concept and mission</li>
+                        <li>Short introduction to GCC concept and mission (Niina Käyhkö & Henrikki Tenkanen)</li>
 
-                        <li>Geoportti RI - The Hub for Finnish Geospatial Research and Education Resources</li>
+                        <li>Geoportti RI - The Hub for Finnish Geospatial Research and Education Resources (Juha Oksanen)</li>
 
-                        <li>LIH - Centre of Excellence in Location Innovation (European Digital Innovation Hub)</li>
+                        <li>LIH - Location Innovation Hub (EDIH) (Anniina Lundvall)</li>
                     </ul>
 
                 </ul>
@@ -150,9 +150,9 @@ Monday 25.09.2023 (Day 1)
 
                 <p><b>Introduction to the GCC2023 theme “Health and Well-being” (Niina Käyhkö)</b></p>
                     <ul>
-                        <li>Subtopics of the challenge</li>
+                        <li>Overview of the theme and subtopics of the challenge</li>
 
-                        <li>Emerging needs from the community of scientists and practitioners</li>
+                        <li>Emerging geospatial needs from the community of health scientists and practitioners</li>
                     </ul>
 
                 </ul>
@@ -195,13 +195,13 @@ Monday 25.09.2023 (Day 1)
                     <ul>
                         <li>Varha</li>
 
-                        <li>Health Hub Finland (Henrik Honkanen)</li>
+                        <li>Health Hub Finland (Henrik Honkanen): The use of location and health data in innovation</li>
 
                         <li>University of Oulu (Harri Antikainen)</li>
 
-                        <li>GISPO (Sanna Jokela)</li>
+                        <li>GISPO (Sanna Jokela): Health Business and GIS</li>
 
-                        <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li>
+                        <li>CSC (Samantha Wittke ): LUMI and CSC computing resource opportunities</li> 
 
                         <li>Geoforum (Miika Kostamo)</li>
                         
@@ -314,11 +314,11 @@ Tuesday 26.09.2023 (Day 2)
 
                 <p><b>GCC 2023 as an innovation challenge</b></p>
                     <ul>
-                        <li>Timeline, milestones and communication of the teams and organizers (Web pages, Digicampus, other comms platforms) </li>
+                        <li>Different roles of team members and tips and good practices for team working (Antero Järvi) </li>
 
-                        <li>Different roles of team members and tips and good practices for team working</li>
+                        <li>GCC2023 timeline, milestones and communication of the teams and organizers (Web pages, Digicampus, other comms platforms) (Niina Käyhkö, Suvi Ryttäri)</li>
 
-                        <li>Forming teams: exercise</li>
+                        <li>Forming teams: exercise (1 h)</li>
                     </ul>
 
                 </ul>
@@ -366,17 +366,17 @@ Tuesday 26.09.2023 (Day 2)
                 
                 <ul>
 
-                <p><b>Getting to know insights of the key mentors, their expertise and roles during the camp</b></p>
+                <p><b>Getting to know insights into geospatial data and tools</b></p>
                     <ul>                     
-                        <li>Vuokko Heikinheimo (SYKE): 15 min</li>
+                        <li>Overview of open geospatial data in Finland</li>
 
-                        <li>Juha Oksanen (FGI) - 5min</li>
+                        <li>Vuokko Heikinheimo (SYKE): Geospatial data from Syke</li>
 
-                        <li>Carlos Gonzales Inca (UTU) - 5min</li>
+                        <li>Juha Oksanen (FGI): Geoprivacy open data and NLS data</li>
 
-                        <li>Antero Järvi (UTU) - 5 min</li>
+                        <li>Jukka Käyhkö: TURCLIM urban climate data of Turku City</li>
 
-                        <li>Henrikki Tenkanen (Aalto) - 5 min</li>
+                        <li>Henrikki Tenkanen (Aalto): Open Science and open digital tools</li>
 
                         <li>Samantha Wittke (CSC): overview of CSC computing resources (45 min)</li>
                     </ul>
@@ -402,13 +402,11 @@ Tuesday 26.09.2023 (Day 2)
 
                 <p><b>Working as a team to specify the challenge topics: insights into health and well-being</b></p>
                     <ul>
-                        <li>Insights into the challenge theme and sub-topics (examples)</li>
+                        <li>Insights into the challenge theme and challenge owners</li>
 
-                        <li>Start analysis of the challenge theme as a team</li>
+                        <li>Working as a team to analyze the challenge theme, obtaining insights into the challenge theme, use cases, data and tools </li>
 
-                        <li>Obtain insights into the topic, data and tools with mentors</li>
-
-                        <li>Agree on the team working modalities and schedules for the challenge introduction and specification phases (weeks 1-3)</li>
+                        <li>Agree on the team-specific working modalities and next milestone </li>
                         
                     </ul>
 

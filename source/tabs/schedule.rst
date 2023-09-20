@@ -32,6 +32,7 @@ Full schedule
 
                 <li>Workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will be held on both days</li>
 
+                <li><a href="kick_off.html"><b>Find Kick-off meeting programme here!</b></a></li>
 
                 </ul>
             </td>
@@ -73,7 +74,7 @@ Full schedule
             <td>
                 <ul>
 
-                <li><a href="schedule.html#geocomputing-with-puhti-supercomputer">12.-13.10 Puhti supercomputer course in Espoo and online</a></li>
+                <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Puhti supercomputer course in Espoo and online</b></a></li>
 
                 <li>Prototyping and rapid ideation of solutions</li>
 
