@@ -164,11 +164,12 @@ Monday 25.09.2023 (Day 1)
             <td>
                 <ul>
 
-                <p><b>GCC 2023 for sustainable digital geospatial solutions (Henrikki Tenkanen)</b></p>
+                <p><b>Sustainable digital geospatial solutions (Henrikki Tenkanen)</b></p>
                     <ul>
                         <li>Vision for the sustainability</li>
 
-                        <li>Practical tips and ideas</li>
+                        <li>PLanetary boundaries and human wellbeing</li>
+
                     </ul>
 
                 </ul>
@@ -368,15 +369,15 @@ Tuesday 26.09.2023 (Day 2)
 
                 <p><b>Getting to know insights into geospatial data and tools</b></p>
                     <ul>                     
-                        <li>Overview of open geospatial data in Finland</li>
+                        <li>Overview of open geospatial data in Finland (5 min)</li>
 
-                        <li>Vuokko Heikinheimo (SYKE): Geospatial data from Syke</li>
+                        <li>Vuokko Heikinheimo (SYKE): Geospatial data from Syke (10 min)</li>
 
-                        <li>Juha Oksanen (FGI): Geoprivacy open data and NLS data</li>
+                        <li>Juha Oksanen (FGI): Geoprivacy open data and NLS data (10 min)</li>
 
-                        <li>Jukka Käyhkö: TURCLIM urban climate data of Turku City</li>
+                        <li>Jukka Käyhkö: TURCLIM urban climate data of Turku City (10 min)</li>
 
-                        <li>Henrikki Tenkanen (Aalto): Open Science and open digital tools</li>
+                        <li>Henrikki Tenkanen (Aalto): Tools for reproducible & open science (10 min)</li>
 
                         <li>Samantha Wittke (CSC): overview of CSC computing resources (45 min)</li>
                     </ul>
