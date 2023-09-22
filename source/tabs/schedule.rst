@@ -1,6 +1,9 @@
 Full schedule
 ===============
 
+Kick-off meeting opening
+=========================
+
 .. raw:: html 
 
     <div>
@@ -19,34 +22,28 @@ Full schedule
             <th>Timeline</th>
             <th>Details</th>
             </tr>
-            <tr>
-            <td><b>Kick-off event</b></td>
-            <td>
-                <ul>
-
-                <li>25.-26.9.2023 at Aalto University, Espoo</li>
-
-                <li>Introduction to the challenge theme, meeting with stakeholders, forming teams</li>
-
-                <li>A half-a day public seminar will be held on Sep 25th with all the collaborators and researchers and Geoportti RI and LIH experts</li>
-
-                <li>Workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will be held on both days</li>
-
-                <li><a href="kick_off.html"><b>Find Kick-off meeting programme here!</b></a></li>
-
-                </ul>
-            </td>
-            </tr>
 
             <tr>
             <td><b>Week 1</b></td>
             <td>
                 <ul>
+                    <p><b>Challenge introduction phase</b></p>
+                
 
-                <li>Getting to know the societal context of the challenge, core data and tech options, Sustainable Development Goals relevance and linkages, etc</li>
+                <ul>
+                    <li><b>25.-26.9. Kick-off event</b> at Aalto University, Espoo (physical)</li>
 
-                <li>Communicating with teams</li>
+                    <li><a href="kick_off.html"><b>Find the Kick-off event Programme here!</b></a></li>
+                    
+                    <li>Introduction to the challenge theme, networking with stakeholders, forming teams</li>
 
+                    <li>A half-a-day public seminar with all the participants and collaborators</li>
+
+                    <li>A 1,5-day workshop with the participants and key mentors</li>
+
+                    <li>Getting to know the societal context of the challenge as a team</li>
+
+                </ul>
                 </ul>
             </td>
             </tr>
@@ -55,16 +52,16 @@ Full schedule
             <td><b>Week 2</b></td>
             <td>
                 <ul>
+                    <p><b>Challenge specification phase</b></p>
+                <ul>
 
-                <li>Challenge specification phase</li>
+                    <li>Analyzing the broad challenge, learning insights, and getting familiar with data and tools</li>
 
-                <li>Analyzing the broad challenge, learning insights, getting familiar with data and tools, etc</li>
+                    <li>Specification of the team’s problem/sub-challenge, gathering resources and contacting stakeholders</li>
 
-                <li>Specification of the team's problem/sub-challenge</li>
+                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm. Instructions for the next phase</li>
 
-                <li>Gathering resources, specifying stakeholders</li>
-
-                <li>At the end of this phase the teams have planned what they will be doing for the rest of the course and can proceed in their project</li>
+                </ul>
                 </ul>
             </td>
             </tr>
@@ -73,74 +70,56 @@ Full schedule
             <td><b>Week 3-5</b></td>
             <td>
                 <ul>
+                    <p><b>Prototyping/ideation phase</b></p>
 
-                <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Puhti supercomputer course in Espoo and online</b></a></li>
+                <ul>
 
-                <li>Prototyping and rapid ideation of solutions</li>
+                    <li>Rapid ideation of solutions and testing data and tools</li>
 
-                <li>Testing data and tools</li>
+                    <li>Validating ideas with stakeholders</li>
+                    
+                    <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Data science training at CSC (hybrid)</b></a>, not compulsory, but recommended for those experts who work on data processing and automation</li>
 
-                <li>Validating ideas with stakeholders</li>
+                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>October 12th, 19th and 26th</b> between 2-5 pm </li>
 
-                <li>At the end of this phase the teams know how they will solve the problem, will be able to present their approach to other students on the course and external stakeholders, and can start to develop the complete solution</li>
+                    <li><b>1.11. Mid-term Seminar<b> at the University of Turku with groups and mentors' interaction and feedback day (physical)</li>
+                
+                </ul>
+                </ul>
+                
+            </td>
+            </tr>
+
+            <tr>
+            <td><b>Week 6-9</b></td>
+            <td>
+                <ul>
+                    <p><b>Solution-building phase</b></p>
+
+                <ul>
+
+                    <li>Teams work at their own pace on their solutions based on feedback/mentoring</li>
+
+                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>November 9th, 16th and 23rd</b> between 2-5 pm </li>
+
+                </ul>
                 </ul>
             </td>
             </tr>
 
             <tr>
-            <td><b>Mid-term Seminar</b></td>
+            <td><b>Week 10</b></td>
             <td>
                 <ul>
+                    <p><b>Finalization phase</b></p>
 
-                <li>01.11.2023 at the University of Turku</li>
-
-                <li>Each group presents their own project and prototyping/ideas</li>
-
-                <li>Full day seminar and feedback session with key mentors present</li>
-
-                <li>Discussions of the groups' work and a chance to see others group's work</li>
-
-                <li>Here each group needs to be far enough in their work that they can give a presentation on how they will solve the problem</li>
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Weeks 6-9</b></td>
-            <td>
                 <ul>
 
-                <li>Team working to make a solution prototype</li>
+                    <li><b>Online pitching rehearsals and final group status check</b> (all groups) on <b>November 30th</b> at 2-4 pm </li>
 
-                <li>Mentoring sessions</li>
+                    <li><b>1.12. Final seminar and challenge feedback and summary session</b> at Otaniemi, Espoo (physical)</li>
 
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Weeks 10</b></td>
-            <td>
-                <ul>
-
-                <li>Finalization of group's work</li>
-
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Final Seminar</b></td>
-            <td>
-                <ul>
-
-                <li>01.12.2023 at Aalto University in Espoo</li>
-
-                <li>Each group will present their solution to the rest of the course, stakeholders, and general audience</li>
-
-                <li>Any data, software demos etc. created will also be publicly distributed (unless otherwise agreed by the group, the stakeholders and the course staff)</li>
-
-                <li>Follow-up plans will also be presented, in order for the work to continued among interested parties</li>
+                    <li>Groups pitch their solutions to the rest of the course, stakeholders, and general audience</li>
 
                 </ul>
             </td>
@@ -157,8 +136,11 @@ Full schedule
         <hr>
     </div>
 
+Data Science training at CSC
+==============================
+
 Geocomputing with Puhti supercomputer
-========================================
+---------------------------------------
 
 .. raw:: html 
 
