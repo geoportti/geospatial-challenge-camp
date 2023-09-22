@@ -188,8 +188,9 @@ Trusted partners
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
    Full schedule<tabs/schedule>
-   Accomodation<tabs/accommodation>
    Kick-off meeting<tabs/kick_off>
+   Accomodation<tabs/accommodation>   
+   Materials & Info<tabs/materials/index>
 
 
 
