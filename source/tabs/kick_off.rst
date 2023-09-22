@@ -1,11 +1,18 @@
 Programme
 ============
-During the kick-off meeting of the **Geospatial Challenge Camp** the general public 
-can assist and be part of the opening session where the theme **Health and Wellbeing** 
-will be presented. The partners of the camp will present as well their perspectives 
-and explain their participation as challenge owners.
 
-Join us! We need to confirm your assistance as a general public so we can plan ahead! 
+
+
+During the kick-off meeting of the **Geospatial Challenge Camp**, anyone can join and take part of the opening session, 
+where the theme **Health and Wellbeing** will be presented. The partners of the camp will present their perspectives 
+and introduce their challenges.
+
+Join us! If you are interested to join as a visitor to the *Geospatial Challenge Camp Kick-off event* 
+(i.e. if you are not officially participating or taking the course), 
+please confirm your participation by signing up from the link below.
+
+
+
 
 
 .. admonition:: Confirmation!
@@ -19,7 +26,7 @@ Join us! We need to confirm your assistance as a general public so we can plan a
             :shadow:
             :align: center
 
-            👉 Confirm your assistance here!
+            👉 Confirm your participation here!
 
 Detailed schedule
 ------------------
