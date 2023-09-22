@@ -1,9 +1,6 @@
 Full schedule
 ===============
 
-Kick-off meeting opening
-=========================
-
 .. raw:: html 
 
     <div>
@@ -19,7 +16,7 @@ Kick-off meeting opening
 
         <table style="width:100%">
             <tr>
-            <th>Timeline</th>
+            <th>Weekly timeline</th>
             <th>Details</th>
             </tr>
 
@@ -181,7 +178,7 @@ Geocomputing with Puhti supercomputer
 ..   https://ssl.eventilla.com/geocomputing_2023
 
 Learning outcomes
-===================
+--------------------
 After the course the participants should have the skills and knowledge needed to start using CSC supercomputer Puhti 
 for their spatial analysis and spatial data processing tasks.
 In detail, participants will learn:
