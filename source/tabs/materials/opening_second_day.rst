@@ -5,6 +5,7 @@ Presentations of opening event on **Tuesday 26.09.2023**
 Session 3: Forming multi-skilled teams
 ------------------------------------------------
 
+.. 01
 *Innovation, team, work practices*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -32,6 +33,7 @@ Session 3: Forming multi-skilled teams
 Session 4: Insights, data, and tools 
 ------------------------------------------------
 
+.. 04
 *Urban climate date Turku*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -55,6 +57,7 @@ Session 4: Insights, data, and tools
             webkitallowfullscreen="true">        
         </iframe>
 
+.. 06
 *Smart city and wayfinding*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
