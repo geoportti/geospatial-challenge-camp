@@ -3,10 +3,10 @@ Second day
 Presentations of opening event on **Tuesday 26.09.2023**
 
 Session 4: Insights, data, and tools 
-=========================================
+------------------------------------------------
 
 *Tools for reproducible & open science*
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Henrikki Tenkanen (Aalto University)** 
 
