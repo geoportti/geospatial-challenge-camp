@@ -16,4 +16,5 @@ Navigate in this materials section and find the presentation and other files.
    :caption: Kick-off meeting
    :hidden:
 
-   opening
+   opening_first_day
+   opening_second_day
