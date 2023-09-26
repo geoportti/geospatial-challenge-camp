@@ -3,11 +3,11 @@ First day
 Presentations of opening event on **Monday 25.09.2023**
 
 Session 1: Orientation
-===========================
+------------------------
 
 .. 01
 *Introduction to the GCC 2023*
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Niina Käyhkö (University of Turku)**
 
@@ -29,11 +29,11 @@ Session 1: Orientation
         </iframe>
 
 Session 2: Official launch
-=============================
+-----------------------------
 
 .. 02
 *Concept and mission*
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Niina Käyhkö (University of Turku)**
 
@@ -56,7 +56,7 @@ Session 2: Official launch
 
 .. 04
 *Location Innovation Hub*
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Anniina Lundvall (Location Innovation Hub)**
 
@@ -79,7 +79,7 @@ Session 2: Official launch
 
 .. 05
 *Challenge theme "Health and wellbeing*
------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Niina Käyhkö (University of Turku)**
 
@@ -102,7 +102,7 @@ Session 2: Official launch
 
 .. 06
 *Sustainable digital geospatial solutions*
------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Henrikki Tenkanen (Aalto University)**
 
@@ -124,11 +124,11 @@ Session 2: Official launch
         </iframe>
 
 Partner perspectives 
-==========================
+----------------------
 
 .. 07
 *Sustainable healthcare in geospatial perspective*
--------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Leena Setälä (Varha)**
 
@@ -151,7 +151,7 @@ Partner perspectives
 
 .. 09
 *Geospatial analysis in health services*
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Harri Antikainen (University of Oulu)**
 
@@ -174,7 +174,7 @@ Partner perspectives
 
 .. 10
 *Health business and GIS*
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Sanna Jokela (GISPO)**
 
