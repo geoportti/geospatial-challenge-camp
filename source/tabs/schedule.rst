@@ -164,7 +164,7 @@ Geocomputing with Puhti supercomputer
 
     - Two days course at 12-13.10.2023
     - Course is offered free of charge
-    - Registration **deadline** on 5.10.2023
+    - Registration **deadline** on 29.09.2023
     - You can assist at CSC office in Espoo or online
     
 

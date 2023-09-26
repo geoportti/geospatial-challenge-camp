@@ -5,6 +5,7 @@ Presentations of opening event on **Tuesday 26.09.2023**
 Session 3: Forming multi-skilled teams
 ------------------------------------------------
 
+.. 01
 *Innovation, team, work practices*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -28,10 +29,53 @@ Session 3: Forming multi-skilled teams
             webkitallowfullscreen="true">        
         </iframe>
 
-
 Session 4: Insights, data, and tools 
 ------------------------------------------------
 
+.. 02
+*Geospatial data from SYKE*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Vuokko Heikinheimo (SYKE)** 
+
+.. raw:: html
+    <div>
+    <style>
+        iframe {
+        margin:auto;
+        display: block;}
+    </style>
+
+    <iframe src="https://drive.google.com/file/d/11t73NFkZs8GU1tmDVlOBe09tgDoQhL-v/preview" 
+        width="640" 
+        height="410">
+    </iframe>
+
+.. 03
+*Geoprivacy open data and NLS data*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Juha Oksanen (NLS)** 
+
+.. raw:: html
+    <div>
+        
+        <style>
+                iframe {
+                margin:auto;
+                display: block;}
+        </style>
+        
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSd13aCLInOWqJ_Wip3m-HYEsfGrAMelAZbrH1uW-NToqSs72QBr1QeD1s8rwrZgQ/embed?start=false&loop=false&delayms=3000" 
+            frameborder="0" 
+            width="640" 
+            height="410" 
+            allowfullscreen="true" 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true">        
+        </iframe>
+
+.. 04
 *Urban climate date Turku*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -55,6 +99,30 @@ Session 4: Insights, data, and tools
             webkitallowfullscreen="true">        
         </iframe>
 
+.. 05
+*Participatory mapping data*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Tiina Rinne (Aalto University)** 
+
+.. raw:: html
+    <div>
+        
+        <style>
+                iframe {
+                margin:auto;
+                display: block;}
+        </style>
+        
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTM6phEjc-V0Q00r2jFoK1WxlDGMC2oPy8ifi7H67qhR3SMnzOvJt1M-D4mQttXSw/embed?start=false&loop=false&delayms=3000" 
+            frameborder="0" 
+            width="640" 
+            height="410" 
+            allowfullscreen="true" 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true">        
+        </iframe>
+.. 06
 *Smart city and wayfinding*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -78,6 +146,7 @@ Session 4: Insights, data, and tools
             webkitallowfullscreen="true">        
         </iframe>
 
+.. 07
 *Tools for reproducible & open science*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -100,5 +169,26 @@ Session 4: Insights, data, and tools
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">        
         </iframe>
+
+.. 08
+*Overview of CSC Geocomputing*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Samantha Wittke (CSC)** 
+
+.. raw:: html
+    <div>
+    <style>
+        iframe {
+        margin:auto;
+        display: block;}
+    </style>
+
+    <iframe src="https://drive.google.com/file/d/1vE11KUsLt_2DpFor3W_kC8r9oy5pcLkJ/preview" 
+        width="640" 
+        height="410">
+    </iframe>
+
+
 
 

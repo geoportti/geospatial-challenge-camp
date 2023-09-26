@@ -194,3 +194,22 @@ Partner perspectives
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">
         </iframe>
+
+.. 12
+*CSC Computing resources*
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Samantha Wittke (CSC)** 
+
+.. raw:: html
+    <div>
+    <style>
+        iframe {
+        margin:auto;
+        display: block;}
+    </style>
+
+    <iframe src="https://drive.google.com/file/d/1LVTmo7XxBoxJLaKoucKhceYecs5kTVAW/preview" 
+        width="640" 
+        height="410">
+    </iframe>
