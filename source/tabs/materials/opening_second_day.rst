@@ -32,6 +32,29 @@ Session 3: Forming multi-skilled teams
 Session 4: Insights, data, and tools 
 ------------------------------------------------
 
+*Urban climate date Turku*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Presented by **Jukka Käyhkö (TURCLIM)** 
+
+.. raw:: html
+    <div>
+        
+        <style>
+                iframe {
+                margin:auto;
+                display: block;}
+        </style>
+        
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRr1PIvTJ11HRwPoxXakMJ2xNGG4Z3k-9jJk7cZaWXUOH9PwnTPhFrf9gk0JAbNaQ/embed?start=false&loop=false&delayms=3000" 
+            frameborder="0" 
+            width="640" 
+            height="410" 
+            allowfullscreen="true" 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true">        
+        </iframe>
+
 *Smart city and wayfinding*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
