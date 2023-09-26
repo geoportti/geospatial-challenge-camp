@@ -12,7 +12,7 @@ Navigate in this materials section and find the presentation and other files.
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Kick-off meeting
    :hidden:
 
