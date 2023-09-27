@@ -18,3 +18,11 @@ Navigate in this materials section and find the presentation and other files.
 
    opening_first_day
    opening_second_day
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Helpful sources
+   :hidden:
+
+   sources
+   datasets
