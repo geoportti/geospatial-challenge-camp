@@ -76,7 +76,7 @@ Session 4: Insights, data, and tools
         </iframe>
 
 .. 04
-*Urban climate date Turku*
+*Urban climate data Turku*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Presented by **Jukka Käyhkö (TURCLIM)** 
