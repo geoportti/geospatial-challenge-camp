@@ -26,3 +26,10 @@ Navigate in this materials section and find the presentation and other files.
 
    sources
    datasets
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Gallery 
+   :hidden:
+
+   opening_album
