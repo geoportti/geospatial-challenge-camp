@@ -1,6 +1,6 @@
 Research and links
 ===============================
-Find a list of supportive research papers and links with useful datasets for your solutions.
+Find a list of supportive research papers and links with useful information for your solutions.
 
 .. raw:: html
 
