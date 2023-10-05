@@ -54,13 +54,11 @@ Full schedule
 
                     <li>Analyzing the broad challenge, learning insights, and getting familiar with data and tools</li>
 
-                    <li>Specification of the team’s problem/sub-challenge, gathering resources and contacting stakeholders</li>
+                    <li>Specification of the team's problem/sub-challenge, gathering resources and contacting stakeholders</li>
 
-                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm</li>
+                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <i>October 5th</i>, between 2-5 pm</li>
 
-                    <li><b>Deadline</b> to submit final actionable problem presentations to <b>Digicampus (Oct 12th noon).</b> Written feedback given on Friday 13th on Digicampus</li>
-
-                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm</li>
+                    <li><b>Deadline</b> to submit final actionable problem presentations to <i>Digicampus (Oct 12th noon).</i> Written feedback given on Friday 13th on Digicampus</li>
                     
                     <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Data science training at CSC (hybrid)</b></a>, not compulsory, but recommended for those experts who work on data processing and automation</li>
 
@@ -79,11 +77,11 @@ Full schedule
 
                     <li>Rapid ideation of solutions and testing data and tools</li>    
 
-                    <li><b>Online mentoring sessions (All Groups)</b> on <b>October 19th</b> between 2-5 pm. "Instructions for prototyping/ideation phase"</li>                
+                    <li><b>Online mentoring sessions (All Groups)</b> on <i>October 19th</i> between 2-5 pm - Instructions for prototyping/ideation phase</li>                
                     
-                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>October 26th</b> between 2-5 pm </li>
+                    <li><b>Online mentoring sessions</b> (30 min/team) on <i>October 26th</i> between 2-5 pm </li>
 
-                    <li><b>1.11. Mid-term Seminar<b> at the University of Turku with groups and mentors' interaction and feedback day (physical). "Presentation of the solution ideas"</li>
+                    <li><b>1.11. Mid-term Seminar</b> at the University of Turku with groups and mentors' interaction and feedback day (physical) - Presentation of the solution ideas</li>
                 
                 </ul>
                 </ul>
