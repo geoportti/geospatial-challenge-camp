@@ -46,7 +46,7 @@ Full schedule
             </tr>
 
             <tr>
-            <td><b>Week 2</b></td>
+            <td><b>Week 2-3</b></td>
             <td>
                 <ul>
                     <p><b>Challenge specification phase</b></p>
@@ -56,7 +56,13 @@ Full schedule
 
                     <li>Specification of the team’s problem/sub-challenge, gathering resources and contacting stakeholders</li>
 
-                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm. Instructions for the next phase</li>
+                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm</li>
+
+                    <li><b>Deadline</b> to submit final actionable problem presentations to <b>Digicampus (Oct 12th noon).</b> Written feedback given on Friday 13th on Digicampus</li>
+
+                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <b>October 5th</b> between 2-5 pm</li>
+                    
+                    <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Data science training at CSC (hybrid)</b></a>, not compulsory, but recommended for those experts who work on data processing and automation</li>
 
                 </ul>
                 </ul>
@@ -64,22 +70,20 @@ Full schedule
             </tr>
 
             <tr>
-            <td><b>Week 3-5</b></td>
+            <td><b>Week 4-5</b></td>
             <td>
                 <ul>
                     <p><b>Prototyping/ideation phase</b></p>
 
                 <ul>
 
-                    <li>Rapid ideation of solutions and testing data and tools</li>
+                    <li>Rapid ideation of solutions and testing data and tools</li>    
 
-                    <li>Validating ideas with stakeholders</li>
+                    <li><b>Online mentoring sessions (All Groups)</b> on <b>October 19th</b> between 2-5 pm. "Instructions for prototyping/ideation phase"</li>                
                     
-                    <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Data science training at CSC (hybrid)</b></a>, not compulsory, but recommended for those experts who work on data processing and automation</li>
+                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>October 26th</b> between 2-5 pm </li>
 
-                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>October 12th, 19th and 26th</b> between 2-5 pm </li>
-
-                    <li><b>1.11. Mid-term Seminar<b> at the University of Turku with groups and mentors' interaction and feedback day (physical)</li>
+                    <li><b>1.11. Mid-term Seminar<b> at the University of Turku with groups and mentors' interaction and feedback day (physical). "Presentation of the solution ideas"</li>
                 
                 </ul>
                 </ul>

@@ -21,12 +21,12 @@ please confirm your participation by signing up from the link below.
     - Venue at A Grid: `room A108b and room A111a (Aalto University, Otakaari 5) <kick_off.html#venue-s-location>`_
     - **Deadline** by Friday 22nd September noon
 
-    .. button-link:: https://forms.gle/9re4Gc82XVsNMdKY6
-            :color: primary
-            :shadow:
-            :align: center
+..                        .. button-link:: https://forms.gle/9re4Gc82XVsNMdKY6
+                                :color: primary
+                                :shadow:
+                                :align: center
 
-            👉 Confirm your participation here!
+                                👉 Confirm your participation here!
 
 Detailed schedule
 ------------------
