@@ -86,14 +86,14 @@ Photo gallery
     .. figure:: https://drive.google.com/uc?export=view&id=1RHsefdNeP8bKAcxhK34bxtBseXU-WJrz
     .. figure:: https://drive.google.com/uc?export=view&id=1CSMmvIAp5xYOaRQBLtnk5D68hQE1LmHP
     .. figure:: https://drive.google.com/uc?export=view&id=18YQsAdJpY-w0R2qLSLmJwvkLa2A-cE8J
+..
+    Download
+    ------------
+    Get the photo album of the kick-off opening event in the next link.
 
-Download
-------------
-Get the photo album of the kick-off opening event in the next link.
+    .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/kick-off-opening-gallery-album-gcc2023.zip
+                :color: primary
+                :shadow:
+                :align: center
 
-.. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/kick-off-opening-gallery-album-gcc2023.zip
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Click here!
+                👉 Click here!

@@ -1,6 +1,6 @@
 Materials
 ===========
-Navigate in this materials section and find the presentation and other files.
+👈 Navigate in this materials section and find the presentation and other files.
 
 
 .. toctree::
@@ -26,6 +26,14 @@ Navigate in this materials section and find the presentation and other files.
 
    sources
    datasets
+
+.. toctree::
+   :maxdepth: 2
+   :caption: CSC Geocomputing course
+   :hidden:
+
+   csc_geocomputing
+   
 
 .. toctree::
    :maxdepth: 2

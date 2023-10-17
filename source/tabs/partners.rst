@@ -29,8 +29,8 @@ Sign up
 
 .. attention:: 
 
-    Register as Partner before the **20.09.2023**
-
+    Registration is closed!
+..
     .. button-link:: https://forms.gle/Emo8MP8SNZfvcxqJ8
             :color: primary
             :shadow:

@@ -166,16 +166,14 @@ Geocomputing with Puhti supercomputer
 
     - Two days course at 12-13.10.2023
     - Course is offered free of charge
-    - Registration **deadline** on 29.09.2023
-    - You can assist at CSC office in Espoo or online
-    
+    - Registration closed!    
 
-    .. button-link:: https://ssl.eventilla.com/attend/R186Z?t%5Bpdn2y%5D 
+    .. button-link:: https://csc-training.github.io/geocomputing_course/index.html
                 :color: primary
                 :shadow:
                 :align: center
 
-                👉 Registration
+                👉 Check the open material
 
 ..   https://ssl.eventilla.com/geocomputing_2023
 

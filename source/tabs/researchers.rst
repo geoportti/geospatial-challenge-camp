@@ -13,8 +13,8 @@ Sign up
 
 .. attention:: 
 
-    Register as a Researcher before the **20.09.2023**
-
+    Registration is closed!
+..
     .. button-link:: https://forms.gle/5NfP2RqVT1fuiyEU7
             :color: primary
             :shadow:
