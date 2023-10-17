@@ -1,4 +1,4 @@
-.. figure:: _static/banner_logos.png
+.. figure:: _static/banner_logos_midterm.png
 
 
 
@@ -30,60 +30,86 @@
          Collaborators, read more on how to be involved and match your digital health 
          and well-being information needs and opportunities with us.
 
+Latest news
+======================
+The Geospatial Challenge Camp is ongoing! Check the lastest news about the process.
+
+.. carousel::
+    :show_controls:
+    :show_indicators:
+    :show_dark:
+
+    .. figure:: _static/news/news1-edited.png
+      :target: https://locationinnovationhub.eu/en/news/research-teams-develop-new-solutions-for-the-health-and-well-being-sector-in-ten-weeks-966/
+
+      .. 
+
+      Research teams develop new solutions for the Health and Well-being sector in GCC2023.
+      Niina Käyhkö (left) and Sanna Jokela
+
+    .. figure:: _static/news/news2-edited.png
+      :target: https://csc-training.github.io/geocomputing_course/index.html
+
+      .. 
+
+      CSC concluded the Geocomputing training with Puhti supercomputer on 12.-13.10.2023.
+      Check the open material
+
+    .. figure:: _static/news/news3-edited.png
+      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/opening_first_day.html
+
+      .. 
+
+      The kick-off opening event introduced the partners and the them on 25.-26.09.2023.
+      Find the partner's presentation online
+
+
 Sign up
 ==========
 
-.. raw:: html
-
-    <div>
-
-
-    <p> Register your participation as your suitable role in the course.</p>
-    
-    </div>
-
 .. attention:: 
     
-    Register before the **20.09.2023**
+    Registration is closed!
+..
+  .. raw:: html
+    
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                  <div class="card text-center intro-card shadow">
+                    <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                      <div class="card-body flex-fill">
+                        <h5 class="card-title">Researchers and Students</h5>
+                          <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2023</p>
+..
+  .. container:: custom-button
 
-.. raw:: html
-  
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+    `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
+
+..
+  .. raw:: html
+
+                      </div>
+                </div>
+              </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
                 <div class="card text-center intro-card shadow">
-                  <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                    <div class="card-body flex-fill">
-                      <h5 class="card-title">Researchers and Students</h5>
-                        <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2023</p>
+                <img src="_static/students.png" class="card-img-top" alt="students image">
+                <div class="card-body flex-fill">
+                    <h5 class="card-title">Partners and Institutions</h5>
+                    <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
+..
+  .. container:: custom-button
 
-.. container:: custom-button
+    `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
+..
+  .. raw:: html
 
-   `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
-
-.. raw:: html
-
-                     </div>
-               </div>
-            </div>
-         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-               <div class="card text-center intro-card shadow">
-               <img src="_static/students.png" class="card-img-top" alt="students image">
-               <div class="card-body flex-fill">
-                  <h5 class="card-title">Partners and Institutions</h5>
-                  <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
-
-.. container:: custom-button
-
-   `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
-
-.. raw:: html
-
-               </div>
-               </div>
-            </div>
-         </div>
-   </div>
+                </div>
+                </div>
+              </div>
+          </div>
+    </div>
 
 
 
@@ -189,7 +215,6 @@ Trusted partners
    Researchers and Students<tabs/researchers>
    Full schedule<tabs/schedule>
    Kick-off meeting<tabs/kick_off>
-   Accomodation<tabs/accommodation>   
    Materials & Info<tabs/materials/index>
 
 

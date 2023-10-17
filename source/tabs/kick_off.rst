@@ -14,12 +14,12 @@ please confirm your participation by signing up from the link below.
 
 
 
+..
+    .. admonition:: Confirmation!
 
-.. admonition:: Confirmation!
-
-    - This confirmation is needed for the *General public* to participate the opening event
-    - Venue at A Grid: `room A108b and room A111a (Aalto University, Otakaari 5) <kick_off.html#venue-s-location>`_
-    - **Deadline** by Friday 22nd September noon
+        - This confirmation is needed for the *General public* to participate the opening event
+        - Venue at A Grid: `room A108b and room A111a (Aalto University, Otakaari 5) <kick_off.html#venue-s-location>`_
+        - **Deadline** by Friday 22nd September noon
 
 ..                        .. button-link:: https://forms.gle/9re4Gc82XVsNMdKY6
                                 :color: primary
