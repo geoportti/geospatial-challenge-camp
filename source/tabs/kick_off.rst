@@ -7,11 +7,16 @@ During the kick-off meeting of the **Geospatial Challenge Camp**, anyone can joi
 where the theme **Health and Wellbeing** will be presented. The partners of the camp will present their perspectives 
 and introduce their challenges.
 
-Join us! If you are interested to join as a visitor to the *Geospatial Challenge Camp Kick-off event* 
-(i.e. if you are not officially participating or taking the course), 
-please confirm your participation by signing up from the link below.
+.. admonition:: Parner's presentations!
 
+        - Find the presentation of this past event in our *Materials & Info* section here:
 
+        .. button-link:: tabs/materials/opening_first_day.html
+                :color: primary
+                :shadow:
+                :align: center
+
+                👉 Online presentations
 
 
 ..

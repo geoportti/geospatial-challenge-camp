@@ -215,6 +215,7 @@ Trusted partners
    Researchers and Students<tabs/researchers>
    Full schedule<tabs/schedule>
    Kick-off meeting<tabs/kick_off>
+   Mid-term meeting<tabs/mid_term>
    Materials & Info<tabs/materials/index>
 
 
