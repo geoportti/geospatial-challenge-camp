@@ -1,9 +1,9 @@
-Opening event
+Kick-off event
 ===============
 Check the highlight moments of the kick-off opening event held on 25.-26.09.2023
 
 Photo gallery
-------------
+---------------
 
 .. carousel::
     :show_controls:
