@@ -48,5 +48,7 @@ Materials
    :hidden:
 
    opening_album
+   midterm_album
+
 
 
