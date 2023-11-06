@@ -216,6 +216,7 @@ Trusted partners
    Full schedule<tabs/schedule>
    Kick-off meeting<tabs/kick_off>
    Mid-term meeting<tabs/mid_term>
+   Final event<tabs/final_event>
    Materials & Info<tabs/materials/index>
 
 
