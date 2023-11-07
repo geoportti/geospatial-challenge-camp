@@ -5,6 +5,16 @@ During the Mid-term meeting of the **Geospatial Challenge Camp 2023** the teams 
 prototyping phase of their ideas for **Health and Wellbeing**. 
 Also, the teams will start working on their *Project Plan* for the solution implementation next to their mentors.
 
+.. admonition:: Group's presentations!
+
+        - Find the presentation of the groups in *Materials & Info* section here:
+
+        .. button-link:: tabs/materials/mid_term_presentations.html
+                :color: primary
+                :shadow:
+                :align: center
+
+                👉 Online presentations
 ..
     .. admonition:: Confirmation!
 

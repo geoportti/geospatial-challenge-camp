@@ -4,17 +4,17 @@ Programme
 During the Final event of the **Geospatial Challenge Camp 2023** the teams will pitch their solutions 
 for tackling issues in the **Health and Wellbeing** sector. 
 
-..
-    .. admonition:: Confirmation!
 
-            - You can confirm your participation using the next form:
+.. admonition:: Sign up!
 
-            .. button-link:: https://docs.google.com/forms/d/e/1FAIpQLSev0BpWInUDxThUICMVLvb00EBnmvAnTmqALwGXwEKXeQHtzA/viewform
-                    :color: primary
-                    :shadow:
-                    :align: center
+        - Join the final event using the next form:
 
-                    👉 Registration form!
+        .. button-link:: https://docs.google.com/forms/d/e/1FAIpQLSeNprIzTVK8-bgN1ZcsBYYem01tMV5uFjEEkWKSE4A6TO-Nbg/viewform
+                :color: primary
+                :shadow:
+                :align: center
+
+                👉 Sign up form!
 
 
 Detailed schedule
