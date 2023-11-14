@@ -4,19 +4,49 @@ Programme
 During the Final event of the **Geospatial Challenge Camp 2023** the teams will pitch their solutions 
 for tackling issues in the **Health and Wellbeing** sector. 
 
+The groups will pitch their solution related to "Urban planning for sustainable tomorrow" 
+focused in a climate risk assessment tool for urban planning. Then, "Confortable travel for everyone" 
+focused in route planning for travelers with sensitive sensory needs. Finally, "Enhancing healthcare accessibility" 
+focused on improving the location and accessibility of health care services.
 
-.. admonition:: Sign up!
 
-        - Join the final event using the next form:
+..
+    .. admonition:: Sign up!
 
+            - Join the final event using the next form:
+
+            .. button-link:: https://docs.google.com/forms/d/e/1FAIpQLSeNprIzTVK8-bgN1ZcsBYYem01tMV5uFjEEkWKSE4A6TO-Nbg/viewform
+                    :color: primary
+                    :shadow:
+                    :align: center
+
+                    👉 Sign up form!
+
+
+.. grid:: 2
+    :gutter: 5
+
+    .. grid-item-card:: :fas:`briefcase` Sign up
+        :text-align: center
+        
         .. button-link:: https://docs.google.com/forms/d/e/1FAIpQLSeNprIzTVK8-bgN1ZcsBYYem01tMV5uFjEEkWKSE4A6TO-Nbg/viewform
-                :color: primary
-                :shadow:
-                :align: center
+            :color: primary
+            :shadow:
+            :click-parent:           
 
-                👉 Sign up form!
+            👉 Fill this form!
 
+    .. grid-item-card:: :fas:`file` Flyer event
+        :text-align: center
+        
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/Final_event_advertisement.pptx.pdf
+            :color: primary
+            :shadow:
+            :click-parent:           
 
+            Download
+
+    
 Detailed schedule
 --------------------
 Refresh this website with *Ctrl + F5* for new updates.
