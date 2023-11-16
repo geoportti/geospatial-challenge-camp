@@ -29,15 +29,34 @@ focused on improving the location and accessibility of health care services.
     .. grid-item-card:: :fas:`briefcase` Sign up
         :text-align: center
         
+        Use this form if you are an internal participants like **course participant or a key-mentor**.
+
         .. button-link:: https://docs.google.com/forms/d/e/1FAIpQLSeNprIzTVK8-bgN1ZcsBYYem01tMV5uFjEEkWKSE4A6TO-Nbg/viewform
             :color: primary
             :shadow:
             :click-parent:           
 
-            👉 Fill this form!
+            👉 Form for internal participants!
+
+    .. grid-item-card:: :fas:`key` Public sign up
+        :text-align: center
+        
+        Use this form if you are joining the event as general **public audience**
+
+        .. button-link:: https://forms.gle/D8sUy22UXMhwV8xG7
+            :color: primary
+            :shadow:
+            :click-parent:           
+
+            👉 Form for public audience!
+
+.. grid:: 1
+    :gutter: 5
 
     .. grid-item-card:: :fas:`file` Flyer event
         :text-align: center
+
+        Download the schedule and the solution ideas.
         
         .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/Final_event_advertisement.pptx.pdf
             :color: primary
@@ -45,6 +64,7 @@ focused on improving the location and accessibility of health care services.
             :click-parent:           
 
             Download
+
 
     
 Detailed schedule
