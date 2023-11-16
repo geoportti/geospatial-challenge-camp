@@ -39,6 +39,13 @@ The Geospatial Challenge Camp is ongoing! Check the lastest news about the proce
     :show_indicators:
     :show_dark:
 
+    .. figure:: _static/news/news4-edited.png
+      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html 
+
+      .. 
+
+      Stakeholders and public audience are welcome to join the Final Event and see the solution ideas of the **Geospatial Challenge Camp**
+
     .. figure:: _static/news/news1-edited.png
       :target: https://locationinnovationhub.eu/en/news/research-teams-develop-new-solutions-for-the-health-and-well-being-sector-in-ten-weeks-966/
 
