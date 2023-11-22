@@ -58,7 +58,7 @@ focused on improving the location and accessibility of health care services.
 
         Download the schedule and the solution ideas.
         
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/Final_event_advertisement.pptx.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/Final%20event%20advertisement.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:           
