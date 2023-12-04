@@ -32,12 +32,19 @@
 
 Latest news
 ======================
-The Geospatial Challenge Camp is ongoing! Check the lastest news about the process.
+The Geospatial Challenge Camp has ended! Click on the news images to find the online material.
 
 .. carousel::
     :show_controls:
     :show_indicators:
     :show_dark:
+
+    .. figure:: _static/news/news5-edited.png
+      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/final_presentations.html
+
+      .. 
+
+      Solutions pitching at the final event of the Geospatial Challenge Camp 2023
 
     .. figure:: _static/news/news4-edited.png
       :target: https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html 

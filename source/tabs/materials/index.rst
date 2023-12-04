@@ -28,6 +28,13 @@ Materials
 
 .. toctree::
    :maxdepth: 2
+   :caption: Final event
+   :hidden:
+
+   final_presentations
+
+.. toctree::
+   :maxdepth: 2
    :caption: Helpful sources
    :hidden:
 
