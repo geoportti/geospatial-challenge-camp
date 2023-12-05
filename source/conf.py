@@ -67,7 +67,7 @@ html_theme_options = {
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Final event on 01.12.2023!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Geospatial Challenge Camp 2023 has finished. Thank you all!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match

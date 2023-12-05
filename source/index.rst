@@ -1,4 +1,4 @@
-.. figure:: _static/banner_final.png
+.. figure:: _static/banner_end.png
 
 
 
