@@ -39,6 +39,13 @@ The Geospatial Challenge Camp has ended! Click on the news images to find the on
     :show_indicators:
     :show_dark:
 
+    .. figure:: _static/news/news6-edited.png
+      :target: https://positio-magazine.eu/2023/12/geospatial-challenge-camps-ideas-for-the-health-and-well-being-sector-surprised-positively/
+
+      .. 
+
+      POSITIO Magazine article published explaining the potential of the Health solutions obtained from the Geospatial Challenge Camp 2023
+
     .. figure:: _static/news/news5-edited.png
       :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/final_presentations.html
 
