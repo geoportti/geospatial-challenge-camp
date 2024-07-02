@@ -54,7 +54,8 @@ html_context = {
 }
 
 # ----- versioning
-json_url = 'https://challenge-camp.geoportti.fi/en/latest/_static/switcher.json'
+# json_url = 'https://challenge-camp.geoportti.fi/en/latest/_static/switcher.json'
+json_url = 'https://raw.githubusercontent.com/geoportti/geospatial-challenge-camp/main/source/_static/switcher.json'
 
 
 # version_match = os.environ.get("READTHEDOCS_VERSION")
