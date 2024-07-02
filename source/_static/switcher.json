@@ -1,10 +1,11 @@
 [
     {
-        "version": "latest",
-        "url": "https://challenge-camp.geoportti.fi/en/latest/"
+        "name": "gcc2023",
+        "version": "2023",
+        "url": "https://challenge-camp.geoportti.fi/en/gcc-2023/"
     },
     {
-        "version": "dev",
-        "url": "https://challenge-camp.geoportti.fi/en/dev/"
+        "version": "latest",
+        "url": "https://challenge-camp.geoportti.fi/en/latest/"
     }
 ]
