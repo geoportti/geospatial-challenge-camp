@@ -231,10 +231,10 @@ Trusted partners
 ..    :hidden:
 
 
-..    Theme<tabs/theme>
-..    Partners<tabs/partners>
-..    Researchers and Students<tabs/researchers>
-..    Full schedule<tabs/schedule>
+   Theme<tabs/theme>
+  ..  Partners<tabs/partners>
+  ..  Researchers and Students<tabs/researchers>
+  ..  Full schedule<tabs/schedule>
 ..    Kick-off meeting<tabs/kick_off>
 ..    Mid-term meeting<tabs/mid_term>
 ..    Final event<tabs/final_event>
