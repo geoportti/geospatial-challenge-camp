@@ -53,10 +53,13 @@ html_context = {
    "default_mode": "light"
 }
 
+# ----- versioning
 json_url = 'https://challenge-camp.geoportti.fi/en/latest/_static/switcher.json'
 
-version_match = os.environ.get("READTHEDOCS_VERSION")
-# version_match = "latest"
+
+# version_match = os.environ.get("READTHEDOCS_VERSION")
+version_match = "Choose version"
+
 
 html_theme_options = {
     'navbar_align': 'content', 
