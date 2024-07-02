@@ -225,10 +225,10 @@ Trusted partners
 
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Contents:
-..    :hidden:
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
 
 
    Theme<tabs/theme>
