@@ -1,4 +1,4 @@
-.. figure:: _static/banner_end.png
+.. figure:: _static/banner_2025.jpg
 
 
 
@@ -6,21 +6,16 @@
     :gutter: 2
 
     .. grid-item-card:: :fas:`rocket` Why Geospatial Challenge Camp?
-         :link: tabs/theme.html
+         :link: index.html#latest-news
 
          Geospatial Challenge Camp aims at engaging young scientists and students 
          to solve real-world sustainability challenges with digital data and 
-         location technologies. In 2023, the topic of the challenge is 
-         *Health and Wellbeing*.
+         location technologies. Theme of 2025 to be announced soon!
 
     .. grid-item-card:: :fas:`bell` When?
-        :link: tabs/schedule.html
+        :link: index.html#sign-up
 
-        Starting on September 25-26th, 2023 with a kick-off event and 
-        closing on December 1st, 2023. Multi-disciplinary teams of 
-        young scientists work in close collaboration with different 
-        stakeholders to co-create digital and social innovations 
-        related to our health and wellbeing challenges.
+        Spring 2025! Details coming soon!
 
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
          :link: index.html#sign-up
@@ -32,57 +27,57 @@
 
 Latest news
 ======================
-The Geospatial Challenge Camp has ended! Click on the news images to find the online material.
+The Geospatial Challenge Camp 2025 is coming soon!  Take a look the event archive.
 
 .. carousel::
     :show_controls:
     :show_indicators:
     :show_dark:
 
-    .. figure:: _static/news/news6-edited.png
-      :target: https://positio-magazine.eu/2023/12/geospatial-challenge-camps-ideas-for-the-health-and-well-being-sector-surprised-positively/
+    .. figure:: _static/news/newsn1.png
+      :target: https://challenge-camp.geoportti.fi/en/v2023/tabs/materials/final_presentations.html
 
       .. 
 
-      POSITIO Magazine article published explaining the potential of the Health solutions obtained from the Geospatial Challenge Camp 2023
+      Pitching solutions event at Geospatial Challenge Camp 2023!
 
-    .. figure:: _static/news/news5-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/final_presentations.html
+    .. .. figure:: _static/news/news5-edited.png
+    ..   :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/final_presentations.html
 
-      .. 
+    ..   .. 
 
-      Solutions pitching at the final event of the Geospatial Challenge Camp 2023
+    ..   Solutions pitching at the final event of the Geospatial Challenge Camp 2023
 
-    .. figure:: _static/news/news4-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html 
+    .. .. figure:: _static/news/news4-edited.png
+    ..   :target: https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html 
 
-      .. 
+    ..   .. 
 
-      Stakeholders and public audience are welcome to join the Final Event and see the solution ideas of the **Geospatial Challenge Camp**
+    ..   Stakeholders and public audience are welcome to join the Final Event and see the solution ideas of the **Geospatial Challenge Camp**
 
-    .. figure:: _static/news/news1-edited.png
-      :target: https://locationinnovationhub.eu/en/news/research-teams-develop-new-solutions-for-the-health-and-well-being-sector-in-ten-weeks-966/
+    .. .. figure:: _static/news/news1-edited.png
+    ..   :target: https://locationinnovationhub.eu/en/news/research-teams-develop-new-solutions-for-the-health-and-well-being-sector-in-ten-weeks-966/
 
-      .. 
+    ..   .. 
 
-      Research teams develop new solutions for the Health and Well-being sector in GCC2023.
-      Niina Käyhkö (left) and Sanna Jokela
+    ..   Research teams develop new solutions for the Health and Well-being sector in GCC2023.
+    ..   Niina Käyhkö (left) and Sanna Jokela
 
-    .. figure:: _static/news/news2-edited.png
-      :target: https://csc-training.github.io/geocomputing_course/index.html
+    .. .. figure:: _static/news/news2-edited.png
+    ..   :target: https://csc-training.github.io/geocomputing_course/index.html
 
-      .. 
+    ..   .. 
 
-      CSC concluded the Geocomputing training with Puhti supercomputer on 12.-13.10.2023.
-      Check the open material
+    ..   CSC concluded the Geocomputing training with Puhti supercomputer on 12.-13.10.2023.
+    ..   Check the open material
 
-    .. figure:: _static/news/news3-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/opening_first_day.html
+    .. .. figure:: _static/news/news3-edited.png
+    ..   :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/opening_first_day.html
 
-      .. 
+    ..   .. 
 
-      The kick-off opening event introduced the partners and the them on 25.-26.09.2023.
-      Find the partner's presentation online
+    ..   The kick-off opening event introduced the partners and the them on 25.-26.09.2023.
+    ..   Find the partner's presentation online
 
 
 Sign up
@@ -90,7 +85,7 @@ Sign up
 
 .. attention:: 
     
-    Registration is closed!
+    Coming soon!
 ..
   .. raw:: html
     
@@ -122,7 +117,8 @@ Sign up
 ..
   .. container:: custom-button
 
-    `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
+    `Sign Up <index.html#sign-up>`__
+    
 ..
   .. raw:: html
 
@@ -180,29 +176,9 @@ Trusted partners
     :show_indicators:
     :show_dark:
 
-    .. figure:: _static/logos/geoforum_c.png
-
-      www.geoforum.fi
-
-    .. figure:: _static/logos/healthhub_c.png
-      
-      www.healthhub.fi
-
-    .. figure:: _static/logos/csc_c.png
+    .. figure:: _static/logos/geoportti_c.png
          
-      www.csc.fi
-
-    .. figure:: _static/logos/gispo_c.png
-         
-      www.gispo.fi
-
-    .. figure:: _static/logos/syke_c.png
-         
-      www.syke.fi
-
-    .. figure:: _static/logos/varha_c.png
-         
-      www.varha.fi
+      www.geoportti.fi
 
     .. figure:: _static/logos/uturku_c.png
          
@@ -216,29 +192,53 @@ Trusted partners
          
       www.aalto.fi
 
-    .. figure:: _static/logos/geoportti_c.png
+    
+
+    .. .. figure:: _static/logos/geoforum_c.png
+
+    ..   www.geoforum.fi
+
+    .. .. figure:: _static/logos/healthhub_c.png
+      
+    ..   www.healthhub.fi
+
+    .. .. figure:: _static/logos/csc_c.png
          
-      www.geoportti.fi
+    ..   www.csc.fi
+
+    .. .. figure:: _static/logos/gispo_c.png
+         
+    ..   www.gispo.fi
+
+    .. .. figure:: _static/logos/syke_c.png
+         
+    ..   www.syke.fi
+
+    .. .. figure:: _static/logos/varha_c.png
+         
+    ..   www.varha.fi
+
+
 
    
 
 
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :hidden:
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Contents:
+..    :hidden:
 
 
-   Theme<tabs/theme>
-   Partners<tabs/partners>
-   Researchers and Students<tabs/researchers>
-   Full schedule<tabs/schedule>
-   Kick-off meeting<tabs/kick_off>
-   Mid-term meeting<tabs/mid_term>
-   Final event<tabs/final_event>
-   Materials & Info<tabs/materials/index>
+..    Theme<tabs/theme>
+..    Partners<tabs/partners>
+..    Researchers and Students<tabs/researchers>
+..    Full schedule<tabs/schedule>
+..    Kick-off meeting<tabs/kick_off>
+..    Mid-term meeting<tabs/mid_term>
+..    Final event<tabs/final_event>
+..    Materials & Info<tabs/materials/index>
 
 
 
