@@ -53,9 +53,10 @@ html_context = {
    "default_mode": "light"
 }
 
-json_url = '_static\switcher.json'
+json_url = 'https://challenge-camp.geoportti.fi/en/latest/_static/switcher.json'
 
-version_match = "v1.0"
+# version_match = os.environ.get("READTHEDOCS_VERSION")
+version_match = "latest"
 
 html_theme_options = {
     'navbar_align': 'content', 
@@ -64,7 +65,7 @@ html_theme_options = {
     "header_links_before_dropdown": 8,
     'navbar_end': ['navbar-icon-links', 'theme-switcher'], # , 
     'footer_start':['search-field' , "copyright", ], # 
-    'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
+    'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
     'announcement': 'Geospatial Challenge Camp 2023 has finished. Thank you all!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
