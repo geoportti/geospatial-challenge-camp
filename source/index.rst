@@ -82,53 +82,33 @@ The Geospatial Challenge Camp 2025 is coming soon!  Take a look the event archiv
 
 Sign up
 ==========
-
-.. attention:: 
     
-    .. Coming soon!
+.. grid:: 2
+  :gutter: 2
 
-.. raw:: html
-  
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                <div class="card text-center intro-card shadow">
-                  <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                    <div class="card-body flex-fill">
-                      <h5 class="card-title">Researchers and Students</h5>
-                        <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2023</p>
+  .. grid-item-card:: :fas:`rocket` Researchers and Students
+      :img-top: _static/students.png
 
-.. .. container:: custom-button
+      Read more about the aims, important dates and registration of the Challenge Camp 2023
 
-..   `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
+      .. button-link:: tabs/researchers.html 
+        :color: primary
+        :shadow:
+        :align: center
+              
+          Sign up!
 
+  .. grid-item-card:: :fas:`bell` Partners and Institutions
+      :img-top: _static/researchers.png
 
-.. raw:: html
+      Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!
 
-                    </div>
-              </div>
-            </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-              <div class="card text-center intro-card shadow">
-              <img src="_static/students.png" class="card-img-top" alt="students image">
-              <div class="card-body flex-fill">
-                  <h5 class="card-title">Partners and Institutions</h5>
-                  <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
-
-.. .. container:: custom-button
-
-..   `Sign Up <index.html#sign-up>`__
-  
-
-.. raw:: html
-
-              </div>
-              </div>
-            </div>
-        </div>
-  </div>
-
-
+      .. button-link:: tabs/partners.html
+        :color: primary
+        :shadow:
+        :align: center
+              
+           Sign up 
 
 
 Overview
@@ -232,9 +212,9 @@ Trusted partners
 
 
    Theme<tabs/theme>
-
-..    Partners<tabs/partners>
-..    Researchers and Students<tabs/researchers>
+   Researchers and Students<tabs/researchers>
+   Partners<tabs/partners>
+   
 ..    Full schedule<tabs/schedule>
 ..    Kick-off meeting<tabs/kick_off>
 ..    Mid-term meeting<tabs/mid_term>
