@@ -1,4 +1,4 @@
-.. figure:: ../_static/call_researchers.png
+.. figure:: ../_static/call_researchers_new.png
 
 Researchers and Students
 =============================
@@ -13,9 +13,9 @@ Sign up
 
 .. attention:: 
 
-    Registration is closed!
-..
-    .. button-link:: https://forms.gle/5NfP2RqVT1fuiyEU7
+    Registration is opened!
+
+    .. button-link:: https://forms.gle/CVKqTxj8JWmiWDu47
             :color: primary
             :shadow:
             :align: center
@@ -45,7 +45,8 @@ Target audience and prerequisites
         Students with diverse backgrounds are encouraged to apply 
         (e.g. geography, IT, design, engineering, environmental sciences, 
         social sciences, communications, etc) and also scientists and students 
-        specializing on the theme of the challenge **Health and Wellbeing**
+        specializing on the theme of the challenge TO ADD
+        
 
     .. grid-item-card:: :fas:`person` Places available
 

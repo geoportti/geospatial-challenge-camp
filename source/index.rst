@@ -1,4 +1,4 @@
-.. figure:: _static/banner_2025.jpg
+.. figure:: _static/banner_new2025.png
 
 
 
@@ -94,7 +94,7 @@ Sign up
       .. button-link:: tabs/researchers.html 
         :color: primary
         :shadow:
-        :align: center
+        :expand: 
               
           Sign up!
 
@@ -106,7 +106,7 @@ Sign up
       .. button-link:: tabs/partners.html
         :color: primary
         :shadow:
-        :align: center
+        :expand: 
               
            Sign up 
 
