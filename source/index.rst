@@ -1,4 +1,4 @@
-.. figure:: _static/banner_new2025.png
+.. figure:: _static/banner_2025.jpg
 
 
 

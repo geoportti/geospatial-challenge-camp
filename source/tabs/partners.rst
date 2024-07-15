@@ -83,7 +83,7 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Partners
         :text-align: center
         
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/2_Cooperation_flyer.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Cooperation%20flyer_powerpoint.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:           
@@ -93,7 +93,7 @@ For more information
     .. grid-item-card:: :fas:`image` Presentation Partners
         :text-align: center
 
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/1_Call_for_Collaboration_Geospatial_Challenge_Camp_2023.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Call%20for%20Collaboration%20Geospatial%20Challenge%20Camp%202025.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:
@@ -112,7 +112,7 @@ For more information
                 display: block;}
             </style>
 
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcWh4kwx31HR8cp14pZi2TDVi4G5srZvO0drU7Yk4HF340SI4UDDDiCFYP8XfcJA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhzd8UKzNzwS3-bUZff1RXCHB4bnRfnu731SI36B9gA4N08jFQZUoOk2sqkj5hcg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             <hr>
         </ul>
 

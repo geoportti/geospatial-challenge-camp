@@ -46,7 +46,7 @@ Target audience and prerequisites
         (e.g. geography, IT, design, engineering, environmental sciences, 
         social sciences, communications, etc) and also scientists and students 
         specializing on the theme of the challenge TO ADD
-        
+
 
     .. grid-item-card:: :fas:`person` Places available
 
@@ -86,7 +86,7 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Researchers
         :text-align: center
         
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Research%20flyer%20powerpoint.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:           
@@ -96,7 +96,7 @@ For more information
     .. grid-item-card:: :fas:`image` Presentation Researchers
         :text-align: center
 
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Call%20for%20Reseachers%20Geospatial%20Challenge%20Camp%202025.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:
@@ -115,7 +115,7 @@ For more information
                 display: block;}
             </style>
 
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9T7_QSvuuvCHQAoXXvIKPGLizF9ryU6aTWlhUlQT2qdMesL6leJpyanDgMcITzA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpI9TGge4TBXE70JUMn1hGLMEacw1pGcDPJdbEnHEgdLDKG4HnS7yPSu88nPLidA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             <hr>
         </ul>
 
