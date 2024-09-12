@@ -1,10 +1,10 @@
-.. figure:: ./../_static/call_partners.png
+.. figure:: ./../_static/call_partners_new.png
 
 Partners
 ==========
 
-Is your organization looking for a solution? The Geospatial Challenge Camp 2023 
-aims to solve real-world sustainable challenges of **Health and Wellbeing** with 
+Is your organization looking for a solution? The Geospatial Challenge Camp 2025 
+aims to solve real-world sustainable challenges of **TO ADD** with 
 open data and location technologies. Join us and collaborate with us 
 to work together with multidisciplinary team in this 10-week course 
 during September-December 2023.
@@ -12,26 +12,12 @@ during September-December 2023.
 Sign up
 =========
 
-.. .. button-link:: https://forms.gle/Emo8MP8SNZfvcxqJ8
-            :color: primary
-            :shadow:
-            :align: center
-
-                   👉 **Fill in this form**     
-
-.. .. raw:: html 
-    <div>
-
-        <h2> 👉<a href="https://forms.gle/Emo8MP8SNZfvcxqJ8" target="_blank">Complete this Form</a></h2>
-    
-    </div>
-
 
 .. attention:: 
 
-    Registration is closed!
-..
-    .. button-link:: https://forms.gle/Emo8MP8SNZfvcxqJ8
+    Registration is opened!
+
+    .. button-link:: https://forms.gle/aHXMy1oX1EyruGUMA
             :color: primary
             :shadow:
             :align: center
@@ -48,7 +34,7 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 
     .. grid-item-card:: :fas:`heart` Challenge theme owners
 
-        Does your organization have real-world *Health and Wellbeing* problems? 
+        Does your organization have real-world *TO ADD* problems? 
         Is your team willing to solve those problems with open data and location technologies?
 
     .. grid-item-card:: :fas:`database` Digital data providers
@@ -61,8 +47,8 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 
     .. grid-item-card:: :fas:`globe` Policy maker
 
-        Do you have health related information gaps for the improvement of *Decision Making*?
-        Are you willing to find the link between data-driven solutions to public health policy making?
+        Do you have information gaps for the improvement of *Decision Making*?
+        Are you willing to find the link between data-driven solutions to policy making?
 
     .. grid-item-card:: :fas:`zap` Financial sponsors
 
@@ -72,11 +58,9 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 Possible partners
 ==================
 
-- Health care and wellbeing organizations and institutes
-- Wellbeing services counties
+- Organizations and institutes
 - Organizations providing location and statistical information
-- Health and wellbeing companies
-- Companies interested in extending their activities to health and wellbeing domain
+- Companies interested in extending their activities to TO ADD
 - Innovation hubs and actors
 - Cities, municipalities, provinces
 - Enthusiastic volunteers
@@ -99,7 +83,7 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Partners
         :text-align: center
         
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/2_Cooperation_flyer.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Cooperation%20flyer_powerpoint.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:           
@@ -109,7 +93,7 @@ For more information
     .. grid-item-card:: :fas:`image` Presentation Partners
         :text-align: center
 
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/1_Call_for_Collaboration_Geospatial_Challenge_Camp_2023.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Call%20for%20Collaboration%20Geospatial%20Challenge%20Camp%202025.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:
@@ -128,7 +112,7 @@ For more information
                 display: block;}
             </style>
 
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcWh4kwx31HR8cp14pZi2TDVi4G5srZvO0drU7Yk4HF340SI4UDDDiCFYP8XfcJA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhzd8UKzNzwS3-bUZff1RXCHB4bnRfnu731SI36B9gA4N08jFQZUoOk2sqkj5hcg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             <hr>
         </ul>
 
