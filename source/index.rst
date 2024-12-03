@@ -48,36 +48,32 @@ chance to expand their data science solutions into new operative solutions and m
 Sign up
 ==========
 
-.. attention::
+.. raw:: html
 
-    Registration is open!
-
-  .. raw:: html
-
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                  <div class="card text-center intro-card shadow">
-                    <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                      <div class="card-body flex-fill">
-                        <h5 class="card-title">Researchers and Students</h5>
-                          <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2025</p>
+   <div class="container">
+       <div class="row">
+           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+               <div class="card text-center intro-card shadow">
+                 <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                   <div class="card-body flex-fill">
+                     <h5 class="card-title">Researchers and Students</h5>
+                       <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2025</p>
 
   .. container:: custom-button
 
     `Sign Up <https://forms.gle/KN8cGKGeMVqJca7NA>`_
 
-  .. raw:: html
+.. raw:: html
 
-                      </div>
-                </div>
-              </div>
-          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                <div class="card text-center intro-card shadow">
-                <img src="_static/students.png" class="card-img-top" alt="students image">
-                <div class="card-body flex-fill">
-                    <h5 class="card-title">Partners and Institutions</h5>
-                    <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
+                   </div>
+             </div>
+           </div>
+       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+             <div class="card text-center intro-card shadow">
+             <img src="_static/students.png" class="card-img-top" alt="students image">
+             <div class="card-body flex-fill">
+                 <h5 class="card-title">Partners and Institutions</h5>
+                 <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
 
   .. container:: custom-button
 
