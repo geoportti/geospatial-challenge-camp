@@ -130,6 +130,7 @@ Trusted partners
    :caption: Contents:
    :hidden:
 
-   Theme<tabs/theme>
-   Partners<tabs/partners>
-   Researchers and Students<tabs/researchers>
+   Theme <tabs/theme>
+   Partners <tabs/partners>
+   Researchers and Students <tabs/researchers>
+   Schedule <tabs/schedule>
