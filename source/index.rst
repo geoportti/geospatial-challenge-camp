@@ -1,7 +1,5 @@
 .. figure:: _static/banner_end.png
 
-
-
 .. grid:: 1 3 3 3
     :gutter: 2
 
@@ -10,14 +8,14 @@
 
          Geospatial Challenge Camp aims at engaging young scientists and students 
          to solve real-world sustainability challenges with digital data and 
-         location technologies. In 2023, the topic of the challenge is 
+         location technologies. In 2025, the topic of the challenge is
          *Health and Wellbeing*.
 
     .. grid-item-card:: :fas:`bell` When?
         :link: tabs/schedule.html
 
-        Starting on September 25-26th, 2023 with a kick-off event and 
-        closing on December 1st, 2023. Multi-disciplinary teams of 
+        Starting on February 13-14th, 2025 with a kick-off event and
+        closing on May 6th, 2025. Multi-disciplinary teams of
         young scientists work in close collaboration with different 
         stakeholders to co-create digital and social innovations 
         related to our health and wellbeing challenges.
@@ -30,9 +28,74 @@
          Collaborators, read more on how to be involved and match your digital health 
          and well-being information needs and opportunities with us.
 
+Overview
+========
+
+The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
+and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`__ which is one of the
+European Digital Innovation Hubs. The Geospatial Challenge Camp is a 12-week long challenge-based course (5 ECTS)
+that aims to provide participants a chance to tackle relevant real-world challenges in cross-disciplinary teams.
+The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research organizations.
+They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
+
+The course aims to identify and analyze complex location and time-related societal problems that requires the designing
+and building of digital impact-driven solutions, scientists from various disciplines will work together on real-world sustainable solutions.
+Participants will benefit their professional growth regarding the use of data, technology, and application innovations stemming from the Geoportti project.
+
+The challenges will be posed by societal actors, data providers, companies, NGOs and innovation community actors and they will offer to Researchers the
+chance to expand their data science solutions into new operative solutions and make a broader societal impact in Finland and beyond.
+
+Sign up
+==========
+
+.. attention::
+
+    Registration is open!
+
+  .. raw:: html
+
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                  <div class="card text-center intro-card shadow">
+                    <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                      <div class="card-body flex-fill">
+                        <h5 class="card-title">Researchers and Students</h5>
+                          <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2025</p>
+
+  .. container:: custom-button
+
+    `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
+
+  .. raw:: html
+
+                      </div>
+                </div>
+              </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                <div class="card text-center intro-card shadow">
+                <img src="_static/students.png" class="card-img-top" alt="students image">
+                <div class="card-body flex-fill">
+                    <h5 class="card-title">Partners and Institutions</h5>
+                    <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
+
+  .. container:: custom-button
+
+    `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
+
+  .. raw:: html
+
+                </div>
+                </div>
+              </div>
+          </div>
+    </div>
+
 Latest news
 ======================
-The Geospatial Challenge Camp has ended! Click on the news images to find the online material.
+
+Geospatial Challenge Camp 2025 is on its way!
+Below you can read stories (click the image) from the previous Geospatial Challenge Camp that was organized in 2023.
 
 .. carousel::
     :show_controls:
@@ -85,95 +148,9 @@ The Geospatial Challenge Camp has ended! Click on the news images to find the on
       Find the partner's presentation online
 
 
-Sign up
-==========
-
-.. attention:: 
-    
-    Registration is closed!
-..
-  .. raw:: html
-    
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                  <div class="card text-center intro-card shadow">
-                    <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                      <div class="card-body flex-fill">
-                        <h5 class="card-title">Researchers and Students</h5>
-                          <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2023</p>
-..
-  .. container:: custom-button
-
-    `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
-
-..
-  .. raw:: html
-
-                      </div>
-                </div>
-              </div>
-          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                <div class="card text-center intro-card shadow">
-                <img src="_static/students.png" class="card-img-top" alt="students image">
-                <div class="card-body flex-fill">
-                    <h5 class="card-title">Partners and Institutions</h5>
-                    <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
-..
-  .. container:: custom-button
-
-    `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
-..
-  .. raw:: html
-
-                </div>
-                </div>
-              </div>
-          </div>
-    </div>
-
-
-
-
-Overview
-===========
-
-.. raw:: html
-
-   <div>
-
-
-   <p>The <b>Geospatial Challenge Camp</b> is a new skills development and innovation 
-      service of <a href="https://www.geoportti.fi/">Geoportti Research Infrastructure</a>
-      and <a href="https://www.maanmittauslaitos.fi/en/locationinnovationhub">Location Innovation Hub (LIH)</a>
-      , 
-      which is one of the European Digital Innovation Hubs. 
-      The Geospatial Challenge Camp is a 10-week long challenge-based course (5 ECTS) 
-      that aims to provide participants a chance to tackle relevant 
-      real-world challenges in cross-disciplinary teams. 
-      The participants are doctoral and post-doctoral researchers plus master students 
-      from Finnish universities and research organizations. 
-      They will work together in multidisciplinary teams and 
-      collaborate with mentors and stakeholders.
-      </p>
-
-   <p>The course aims to identify and analyze complex location and 
-      time-related societal problems that requires the designing 
-      and building of digital impact-driven solutions, scientists from 
-      various disciplines will work together on real-world sustainable solutions.
-      Participants will benefit their professional growth regarding the use of data, 
-      technology, and application innovations stemming from the Geoportti project.
-      </p>
-
-   <p>The challenges will be posed by societal actors, data providers, companies, 
-      NGOs and innovation community actors and they will offer to Researchers the 
-      chance to expand their data science solutions into new operative solutions 
-      and make a broader societal impact in Finland and beyond.
-   </p>
-   </div>
 
 Trusted partners
-======================
+================
 
 .. carousel::
     :show_controls:
@@ -220,40 +197,18 @@ Trusted partners
          
       www.geoportti.fi
 
-   
-
-
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    :hidden:
 
-
    Theme<tabs/theme>
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
    Full schedule<tabs/schedule>
-   Kick-off meeting<tabs/kick_off>
-   Mid-term meeting<tabs/mid_term>
-   Final event<tabs/final_event>
-   Materials & Info<tabs/materials/index>
+   .. Kick-off meeting<tabs/kick_off>
+   .. Mid-term meeting<tabs/mid_term>
+   .. Final event<tabs/final_event>
+   .. Materials & Info<tabs/materials/index>
 
-
-
-
-
-
-
-
-
-
-
-..
-               Indices and tables
-               ==================
-
-               * :ref:`genindex`
-               * :ref:`modindex`
-               * :ref:`search`
