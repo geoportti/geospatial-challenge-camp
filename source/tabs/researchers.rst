@@ -1,21 +1,21 @@
-.. figure:: ../_static/call_researchers.png
+.. figure:: ../_static/call_researchers_2025.png
 
 Researchers and Students
 =============================
 
-Multi-disciplinary teams of young scientists working in close collaboration with 
-different stakeholders to co-create digital and social innovations with 
+Multi-disciplinary teams of young scientists working in close collaboration with
+different stakeholders to co-create digital and social innovations with
 location data and digital technologies.
 
 Sign up
 =========
 
 
-.. attention:: 
+.. attention::
 
-    Registration is closed!
-..
-    .. button-link:: https://forms.gle/5NfP2RqVT1fuiyEU7
+    Registration is opened!
+
+    .. button-link:: https://forms.gle/CVKqTxj8JWmiWDu47
             :color: primary
             :shadow:
             :align: center
@@ -42,14 +42,15 @@ Target audience and prerequisites
 
     .. grid-item-card:: :fas:`globe` Diverse backgrounds
 
-        Students with diverse backgrounds are encouraged to apply 
-        (e.g. geography, IT, design, engineering, environmental sciences, 
-        social sciences, communications, etc) and also scientists and students 
-        specializing on the theme of the challenge **Health and Wellbeing**
+        Students with diverse backgrounds are encouraged to apply
+        (e.g. geography, IT, design, engineering, environmental sciences,
+        social sciences, communications, etc) and also scientists and students
+        specializing on the theme of the challenge **Health and Wellbeing**.
+
 
     .. grid-item-card:: :fas:`person` Places available
 
-        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp**
+        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp**.
 
 
 Learning objectives
@@ -71,38 +72,38 @@ After the course the students:
 
 Credits
 =========
-Participation and completion of the course is 5 ECTS. PhD and MSc students will be granted the 
-credits by their own home institutions. Students not enrolled at any PhD or MSc programme 
+Participation and completion of the course is 5 ECTS. PhD and MSc students will be granted the
+credits by their own home institutions. Students not enrolled at any PhD or MSc programme
 will need to discuss their arrangements with the challenge camp staff before signing up.
 
 
 For more information
 ========================
 
-.. grid:: 2 
+.. grid:: 2
     :gutter: 5
 
     .. grid-item-card:: :fas:`file` Flyer Researchers
         :text-align: center
-        
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/4_Researchers_flyer.pdf
-            :color: primary
-            :shadow:
-            :click-parent:           
 
-            Download
-
-    .. grid-item-card:: :fas:`image` Presentation Researchers
-        :text-align: center
-
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/3_Call_for_Researchers_Geospatial_Challenge_Camp_2023.pdf
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Research%20flyer%20powerpoint.pptx.pdf
             :color: primary
             :shadow:
             :click-parent:
 
             Download
 
-            
+    .. grid-item-card:: :fas:`image` Presentation Researchers
+        :text-align: center
+
+        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Call%20for%20Reseachers%20Geospatial%20Challenge%20Camp%202025.pptx.pdf
+            :color: primary
+            :shadow:
+            :click-parent:
+
+            Download
+
+
 
 .. raw:: html
 
@@ -114,7 +115,7 @@ For more information
                 display: block;}
             </style>
 
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9T7_QSvuuvCHQAoXXvIKPGLizF9ryU6aTWlhUlQT2qdMesL6leJpyanDgMcITzA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpI9TGge4TBXE70JUMn1hGLMEacw1pGcDPJdbEnHEgdLDKG4HnS7yPSu88nPLidA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             <hr>
         </ul>
 
@@ -126,7 +127,3 @@ Contact us
     .. grid-item-card:: :fas:`bell`
 
         Do you have questions? Send an email to **geospatial-challenge@utu.fi**
-
-
-
-

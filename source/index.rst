@@ -54,7 +54,7 @@ Sign up
   .. grid-item-card:: :fas:`rocket` Researchers and Students
       :img-top: _static/students.png
 
-      Read more about the aims, important dates and registration of the Challenge Camp 2023
+      Read more about the aims, important dates and registration of the Challenge Camp 2025.
 
       .. button-link:: tabs/researchers.html
         :color: primary
