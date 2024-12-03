@@ -12,7 +12,7 @@ Full schedule
 
     * - Weeks 1-2
       - **Challenge introduction**:
-          * __13.-14.2.__ Kick-off event at `Maria 01 Startup Campus <https://maria.io>`__ (13th) and Aalto University (14th)
+          * **13.-14.2. Kick-off event** at `Maria 01 Startup Campus <https://maria.io>`__ (13th) and Aalto University (14th)
           * Introduction to the challenge theme, networking with stakeholders, forming teams
           * A half-a-day public seminar with all the participants and collaborators
           * A 1,5-day workshop with the participants and key mentors
@@ -37,6 +37,6 @@ Full schedule
     * - Weeks 11-12
       - **Finalization**:
           * Online pitching rehearsals and final group status check (all groups)
-          * Final seminar 6.5.2025 and challenge feedback and summary session at Otaniemi, Espoo
+          * **Final seminar 6.5.2025** and challenge feedback and summary session at Otaniemi, Espoo
           * Groups pitch their solutions to the rest of the course, stakeholders, and general audience
 
