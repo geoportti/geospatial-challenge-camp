@@ -1,4 +1,4 @@
-.. figure:: _static/banner_end.png
+.. figure:: _static/banner_2025.png
 
 .. grid:: 1 3 3 3
     :gutter: 2
@@ -48,44 +48,32 @@ chance to expand their data science solutions into new operative solutions and m
 Sign up
 ==========
 
-.. raw:: html
+.. grid:: 2
+  :gutter: 2
 
-   <div class="container">
-       <div class="row">
-           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-               <div class="card text-center intro-card shadow">
-                 <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                   <div class="card-body flex-fill">
-                     <h5 class="card-title">Researchers and Students</h5>
-                       <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2025</p>
+  .. grid-item-card:: :fas:`rocket` Researchers and Students
+      :img-top: _static/students.png
 
-   .. container:: custom-button
+      Read more about the aims, important dates and registration of the Challenge Camp 2023
 
-    `Sign Up <https://forms.gle/KN8cGKGeMVqJca7NA>`_
+      .. button-link:: tabs/researchers.html
+        :color: primary
+        :shadow:
+        :expand:
 
-.. raw:: html
+          Sign up!
 
-                   </div>
-             </div>
-           </div>
-       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-             <div class="card text-center intro-card shadow">
-             <img src="_static/students.png" class="card-img-top" alt="students image">
-             <div class="card-body flex-fill">
-                 <h5 class="card-title">Partners and Institutions</h5>
-                 <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
+  .. grid-item-card:: :fas:`bell` Partners and Institutions
+      :img-top: _static/researchers.png
 
-  .. container:: custom-button
+      Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!
 
-    `Sign Up <https://forms.gle/13p9CtuvC2abkaF48>`__
+      .. button-link:: tabs/partners.html
+        :color: primary
+        :shadow:
+        :expand:
 
-.. raw:: html
-
-             </div>
-             </div>
-           </div>
-       </div>
- </div>
+           Sign up
 
 
 Trusted partners
@@ -144,10 +132,3 @@ Trusted partners
    Theme<tabs/theme>
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
-
-   .. Full schedule<tabs/schedule>
-   .. Kick-off meeting<tabs/kick_off>
-   .. Mid-term meeting<tabs/mid_term>
-   .. Final event<tabs/final_event>
-   .. Materials & Info<tabs/materials/index>
-
