@@ -44,8 +44,8 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
-html_logo = '_static/gcc_menu.png' #gcc_logo.png
-html_title = "Geospatial Challenge Camp 2023"
+html_logo = '_static/gcc_menu.jpeg' # gcc_menu.png, gcc_logo.png
+html_title = "Geospatial Challenge Camp 2025"
 
 html_static_path = ['_static']
 
@@ -72,7 +72,7 @@ html_theme_options = {
     'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Geospatial Challenge Camp 2023 has finished. Thank you all!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Geospatial Challenge Camp 2025 registration is now open!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
