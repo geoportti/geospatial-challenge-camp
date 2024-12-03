@@ -12,7 +12,7 @@
          *Health and Wellbeing*.
 
     .. grid-item-card:: :fas:`bell` When?
-        :link: tabs/schedule.html
+        :link:
 
         Starting on February 13-14th, 2025 with a kick-off event and
         closing on May 6th, 2025. Multi-disciplinary teams of
