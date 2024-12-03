@@ -59,7 +59,7 @@ Sign up
                      <h5 class="card-title">Researchers and Students</h5>
                        <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2025</p>
 
-  .. container:: custom-button
+   .. container:: custom-button
 
     `Sign Up <https://forms.gle/KN8cGKGeMVqJca7NA>`_
 
@@ -86,63 +86,6 @@ Sign up
            </div>
        </div>
  </div>
-
-News
-====
-
-Geospatial Challenge Camp 2025 is on its way!
-Below you can read stories (click the image) from the previous Geospatial Challenge Camp that was organized in 2023.
-
-.. carousel::
-    :show_controls:
-    :show_indicators:
-    :show_dark:
-
-    .. figure:: _static/news/news6-edited.png
-      :target: https://positio-magazine.eu/2023/12/geospatial-challenge-camps-ideas-for-the-health-and-well-being-sector-surprised-positively/
-
-      .. 
-
-      POSITIO Magazine article published explaining the potential of the Health solutions obtained from the Geospatial Challenge Camp 2023
-
-    .. figure:: _static/news/news5-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/final_presentations.html
-
-      .. 
-
-      Solutions pitching at the final event of the Geospatial Challenge Camp 2023
-
-    .. figure:: _static/news/news4-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/final_event.html 
-
-      .. 
-
-      Stakeholders and public audience are welcome to join the Final Event and see the solution ideas of the **Geospatial Challenge Camp**
-
-    .. figure:: _static/news/news1-edited.png
-      :target: https://locationinnovationhub.eu/en/news/research-teams-develop-new-solutions-for-the-health-and-well-being-sector-in-ten-weeks-966/
-
-      .. 
-
-      Research teams develop new solutions for the Health and Well-being sector in GCC2023.
-      Niina Käyhkö (left) and Sanna Jokela
-
-    .. figure:: _static/news/news2-edited.png
-      :target: https://csc-training.github.io/geocomputing_course/index.html
-
-      .. 
-
-      CSC concluded the Geocomputing training with Puhti supercomputer on 12.-13.10.2023.
-      Check the open material
-
-    .. figure:: _static/news/news3-edited.png
-      :target: https://challenge-camp.geoportti.fi/en/latest/tabs/materials/opening_first_day.html
-
-      .. 
-
-      The kick-off opening event introduced the partners and the them on 25.-26.09.2023.
-      Find the partner's presentation online
-
 
 
 Trusted partners

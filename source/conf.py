@@ -11,9 +11,9 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Geospatial Challenge Camp 2023'
-copyright = '2023, Aalto University & University of Turku'
-author = 'Bryan R Vallejo'
+project = 'Geospatial Challenge Camp 2025'
+copyright = 'Geospatial Challenge Camp organizers'
+author = 'Bryan R Vallejo & Henrikki Tenkanen'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
