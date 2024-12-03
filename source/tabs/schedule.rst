@@ -1,139 +1,49 @@
 Full schedule
 ===============
 
-.. raw:: html 
+.. list-table::
+    :widths: 3 8
+    :header-rows: 1
+    :stub-columns: 1
+    :align: left
 
-    <div>
+    * - Weekly timeline
+      - Details
 
-        <p>The course runs for 10 weeks with a following structure:</p>
-        
-        <style>
-            table, th, td {
-                border: 1px solid black;
-                border-collapse: collapse;}
-        </style>
+    * - Week 1-2
+      - - **Challenge introduction**
+        - 13.-14.2. Kick-off event at Maria 01 Startup Campus and at Aalto University
+        - Introduction to the challenge theme, networking with stakeholders, forming teams
+        - A half-a-day public seminar with all the participants and collaborators
+        - A 1,5-day workshop with the participants and key mentors
+        - Getting to know the societal context of the challenge as a team
 
+    * - Week 3
+      - - **Challenge specification**
 
-        <table style="width:100%">
-            <tr>
-            <th>Weekly timeline</th>
-            <th>Details</th>
-            </tr>
+Analyzing the broad challenge, learning insights, and getting familiar with data and tools
+Specification of the team's problem/sub-challenge, gathering resources and contacting stakeholders
+Online mentoring session: short presentations of each team (5-10 min) and feedback discussion on October 5th, between 2-5 pm
+Deadline to submit final actionable problem presentations to Digicampus (Oct 12th noon). Written feedback given on Friday 13th on Digicampus
+12.-13.10 Data science training at CSC (hybrid), not compulsory, but recommended for those experts who work on data processing and automation
+Week 4-5
+Prototyping/ideation phase
 
-            <tr>
-            <td><b>Week 1</b></td>
-            <td>
-                <ul>
-                    <p><b>Challenge introduction phase</b></p>
-                
+Rapid ideation of solutions and testing data and tools
+Online mentoring sessions (All Groups) on October 19th between 2-5 pm - Instructions for prototyping/ideation phase
+Online mentoring sessions (30 min/team) on October 26th between 2-5 pm
+1.11. Mid-term Seminar at the University of Turku with groups and mentors' interaction and feedback day (physical) - Presentation of the solution ideas
+Week 6-9
+Solution-building phase
 
-                <ul>
-                    <li><b>25.-26.9. Kick-off event</b> at Aalto University, Espoo (physical)</li>
+Teams work at their own pace on their solutions based on feedback/mentoring
+Online mentoring sessions (30 min/team) on November 9th, 16th and 23rd between 2-5 pm
+Week 10
+Finalization phase
 
-                    <li><a href="kick_off.html"><b>Find the Kick-off event Programme here!</b></a></li>
-                    
-                    <li>Introduction to the challenge theme, networking with stakeholders, forming teams</li>
-
-                    <li>A half-a-day public seminar with all the participants and collaborators</li>
-
-                    <li>A 1,5-day workshop with the participants and key mentors</li>
-
-                    <li>Getting to know the societal context of the challenge as a team</li>
-
-                </ul>
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Week 2-3</b></td>
-            <td>
-                <ul>
-                    <p><b>Challenge specification phase</b></p>
-                <ul>
-
-                    <li>Analyzing the broad challenge, learning insights, and getting familiar with data and tools</li>
-
-                    <li>Specification of the team's problem/sub-challenge, gathering resources and contacting stakeholders</li>
-
-                    <li><b>Online mentoring session:</b> short presentations of each team (5-10 min) and feedback discussion on <i>October 5th</i>, between 2-5 pm</li>
-
-                    <li><b>Deadline</b> to submit final actionable problem presentations to <i>Digicampus (Oct 12th noon).</i> Written feedback given on Friday 13th on Digicampus</li>
-                    
-                    <li><a href="schedule.html#geocomputing-with-puhti-supercomputer"><b>12.-13.10 Data science training at CSC (hybrid)</b></a>, not compulsory, but recommended for those experts who work on data processing and automation</li>
-
-                </ul>
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Week 4-5</b></td>
-            <td>
-                <ul>
-                    <p><b>Prototyping/ideation phase</b></p>
-
-                <ul>
-
-                    <li>Rapid ideation of solutions and testing data and tools</li>    
-
-                    <li><b>Online mentoring sessions (All Groups)</b> on <i>October 19th</i> between 2-5 pm - Instructions for prototyping/ideation phase</li>                
-                    
-                    <li><b>Online mentoring sessions</b> (30 min/team) on <i>October 26th</i> between 2-5 pm </li>
-
-                    <li><b>1.11. Mid-term Seminar</b> at the University of Turku with groups and mentors' interaction and feedback day (physical) - Presentation of the solution ideas</li>
-                
-                </ul>
-                </ul>
-                
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Week 6-9</b></td>
-            <td>
-                <ul>
-                    <p><b>Solution-building phase</b></p>
-
-                <ul>
-
-                    <li>Teams work at their own pace on their solutions based on feedback/mentoring</li>
-
-                    <li><b>Online mentoring sessions</b> (30 min/team) on <b>November 9th, 16th and 23rd</b> between 2-5 pm </li>
-
-                </ul>
-                </ul>
-            </td>
-            </tr>
-
-            <tr>
-            <td><b>Week 10</b></td>
-            <td>
-                <ul>
-                    <p><b>Finalization phase</b></p>
-
-                <ul>
-
-                    <li><b>Online pitching rehearsals and final group status check</b> (all groups) on <b>November 30th</b> at 2-4 pm </li>
-
-                    <li><b>1.12. Final seminar and challenge feedback and summary session</b> at Otaniemi, Espoo (physical)</li>
-
-                    <li>Groups pitch their solutions to the rest of the course, stakeholders, and general audience</li>
-
-                </ul>
-            </td>
-            </tr>
-            
-        </table>
-
-    </div>
-
-
-.. raw:: html 
-
-    <div>
-        <hr>
-    </div>
+Online pitching rehearsals and final group status check (all groups) on November 30th at 2-4 pm
+1.12. Final seminar and challenge feedback and summary session at Otaniemi, Espoo (physical)
+Groups pitch their solutions to the rest of the course, stakeholders, and general audience
 
 Data Science training at CSC
 ==============================
