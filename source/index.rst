@@ -79,13 +79,13 @@ Sign up
 
     `Sign Up <https://forms.gle/13p9CtuvC2abkaF48>`__
 
-  .. raw:: html
+.. raw:: html
 
-                </div>
-                </div>
-              </div>
-          </div>
-    </div>
+             </div>
+             </div>
+           </div>
+       </div>
+ </div>
 
 News
 ====
@@ -197,12 +197,12 @@ Trusted partners
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :hidden:
 
    Theme<tabs/theme>
    Partners<tabs/partners>
    Researchers and Students<tabs/researchers>
-   Full schedule<tabs/schedule>
+
+   .. Full schedule<tabs/schedule>
    .. Kick-off meeting<tabs/kick_off>
    .. Mid-term meeting<tabs/mid_term>
    .. Final event<tabs/final_event>
