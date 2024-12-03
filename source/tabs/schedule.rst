@@ -11,12 +11,12 @@ Full schedule
       - Details
 
     * - Weeks 1-2
-      - - **Challenge introduction**:
-        - 13.-14.2. Kick-off event at Maria 01 Startup Campus and at Aalto University
-        - Introduction to the challenge theme, networking with stakeholders, forming teams
-        - A half-a-day public seminar with all the participants and collaborators
-        - A 1,5-day workshop with the participants and key mentors
-        - Getting to know the societal context of the challenge as a team
+      - **Challenge introduction**:
+          * 13.-14.2. Kick-off event at Maria 01 Startup Campus and at Aalto University
+          * Introduction to the challenge theme, networking with stakeholders, forming teams
+          * A half-a-day public seminar with all the participants and collaborators
+          * A 1,5-day workshop with the participants and key mentors
+          * Getting to know the societal context of the challenge as a team
 
     * - Week 3
       - - **Challenge specification**:
