@@ -1,19 +1,19 @@
 .. figure:: ../_static/call_researchers_2025.png
 
 Researchers and Students
-=============================
+========================
 
 Multi-disciplinary teams of young scientists working in close collaboration with
 different stakeholders to co-create digital and social innovations with
 location data and digital technologies.
 
 Sign up
-=========
+-------
 
 
 .. attention::
 
-    Registration is opened!
+    Registration is open!
 
     .. button-link:: https://forms.gle/CVKqTxj8JWmiWDu47
             :color: primary
@@ -24,25 +24,25 @@ Sign up
 
 
 Target audience and prerequisites
-=====================================
+---------------------------------
 
 .. grid:: 2
     :gutter: 4
 
     .. grid-item-card:: :fas:`mortar-board` Participants
 
-        Primarily for **PhD students and early-career scientists** at universities and research organizations in Finland
+        Primarily for **PhD students and early-career scientists** at universities and research organizations in Finland.
 
     .. grid-item-card:: :fas:`rocket` Other participants
 
-        MSc-level students specializing in geospatial sciences/geoinformatics are also encouraged
+        MSc-level students specializing in geospatial sciences/geoinformatics are also encouraged to apply.
 
 .. grid:: 2
     :gutter: 4
 
     .. grid-item-card:: :fas:`globe` Diverse backgrounds
 
-        Students with diverse backgrounds are encouraged to apply
+        **Students with diverse backgrounds are encouraged to apply**
         (e.g. geography, IT, design, engineering, environmental sciences,
         social sciences, communications, etc) and also scientists and students
         specializing on the theme of the challenge **Health and Wellbeing**.
@@ -50,11 +50,11 @@ Target audience and prerequisites
 
     .. grid-item-card:: :fas:`person` Places available
 
-        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp**.
+        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp.
 
 
 Learning objectives
-=====================
+-------------------
 
 - Students will work in multidisciplinary teams to identify and analyze complex locations and time-related societal challenges
 - Aim is to design geospatial data and technology solutions from real-world challenges which could have sustainability impacts for the users of the solution and for the society at large
@@ -62,7 +62,8 @@ Learning objectives
 - Teams will present their ideas in the final seminar to the stakeholders, other teams and general audience
 
 Learning outcomes
-=====================
+-----------------
+
 After the course the students:
 
 - have improved scientific skills in conceptualizing complex location-related problems in the society, and better understanding of how these problems can be tackled with geospatial data, geoprocessing, automation and digital technologies
@@ -71,14 +72,15 @@ After the course the students:
 - have improved confidence to work in a multi-skilled team, knowing how to assess and communicate progress and results of the team work to stakeholders with diverse backgrounds
 
 Credits
-=========
+-------
+
 Participation and completion of the course is 5 ECTS. PhD and MSc students will be granted the
 credits by their own home institutions. Students not enrolled at any PhD or MSc programme
 will need to discuss their arrangements with the challenge camp staff before signing up.
 
 
 For more information
-========================
+--------------------
 
 .. grid:: 2
     :gutter: 5
@@ -86,7 +88,7 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Researchers
         :text-align: center
 
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Research%20flyer%20powerpoint.pptx.pdf
+        .. button-link::
             :color: primary
             :shadow:
             :click-parent:
@@ -96,7 +98,7 @@ For more information
     .. grid-item-card:: :fas:`image` Presentation Researchers
         :text-align: center
 
-        .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/GCC2025/Call%20for%20Reseachers%20Geospatial%20Challenge%20Camp%202025.pptx.pdf
+        .. button-link::
             :color: primary
             :shadow:
             :click-parent:
@@ -120,7 +122,7 @@ For more information
         </ul>
 
 Contact us
-============
+----------
 
 .. grid:: 1
 
