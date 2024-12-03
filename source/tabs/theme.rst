@@ -24,5 +24,5 @@ Get to know deeply the sub-themes and the problems you can solve under the umbre
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQu3CgQUS4kyJW_7ZdnqZvvrOTXGNt-YZTpGYX_apxqIPuNsF5Gn7Q__27UyCxzCA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1248" height="701" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQu3CgQUS4kyJW_7ZdnqZvvrOTXGNt-YZTpGYX_apxqIPuNsF5Gn7Q__27UyCxzCA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="624" height="365" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
