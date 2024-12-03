@@ -65,7 +65,7 @@ Sign up
 
   .. container:: custom-button
 
-    `Sign Up <https://forms.gle/5NfP2RqVT1fuiyEU7>`_
+    `Sign Up <https://forms.gle/KN8cGKGeMVqJca7NA>`_
 
   .. raw:: html
 
@@ -81,7 +81,7 @@ Sign up
 
   .. container:: custom-button
 
-    `Sign Up <https://forms.gle/Emo8MP8SNZfvcxqJ8>`__
+    `Sign Up <https://forms.gle/13p9CtuvC2abkaF48>`__
 
   .. raw:: html
 
@@ -91,8 +91,8 @@ Sign up
           </div>
     </div>
 
-Latest news
-======================
+News
+====
 
 Geospatial Challenge Camp 2025 is on its way!
 Below you can read stories (click the image) from the previous Geospatial Challenge Camp that was organized in 2023.
