@@ -14,7 +14,7 @@ Sign up
 
 .. attention::
 
-    Registration is opened!
+    Registration is open!
 
     .. button-link:: https://forms.gle/aHXMy1oX1EyruGUMA
             :color: primary
