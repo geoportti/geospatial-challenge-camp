@@ -27,7 +27,7 @@ Full schedule
     * - Weeks 4-6
       - **Prototyping/ideation**:
           * Rapid ideation of solutions and testing data and tools
-          * Mid-term Seminar at the University of Turku with groups and mentors' interaction and feedback day (physical) -
+          * **28.3. Mid-term Seminar** at the University of Turku with groups and mentors' interaction and feedback day (physical) -
           * Presentation of the solution ideas
 
     * - Weeks 7-10
