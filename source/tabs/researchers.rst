@@ -50,7 +50,8 @@ Target audience and prerequisites
 
     .. grid-item-card:: :fas:`person` Places available
 
-        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp.
+        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp. Confirmation for accepted applicants
+        will be sent on 28th January 2025.
 
 
 Learning objectives
