@@ -79,6 +79,10 @@ Participation and completion of the course is 5 ECTS. PhD and MSc students will 
 credits by their own home institutions. Students not enrolled at any PhD or MSc programme
 will need to discuss their arrangements with the challenge camp staff before signing up.
 
+Previous experiences
+--------------------
+
+See the videos below for researchers' experiences from previous years.
 
 For more information
 --------------------
