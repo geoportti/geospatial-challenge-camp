@@ -1,0 +1,17 @@
+name: challenge-camp
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11.6
+  - sphinx==7.1.2
+  - requests==2.28.1
+  - matplotlib
+  - pydata-sphinx-theme
+  - sphinx-togglebutton
+  - ipython
+  - pip
+  - pip:
+      - sphinx-carousel
+      - sphinx_design
