@@ -26,7 +26,11 @@ Sign up
 Partner info webinar
 --------------------
 
+What does the camp offer for partners? And what is expected from a partner? See the webinar below.
 
+.. raw:: html
+
+    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21a7627e-2935-46a9-bf8a-b26c00bd6051&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="partnerinfo2025" ></iframe>
 
 Partner activities
 ------------------
