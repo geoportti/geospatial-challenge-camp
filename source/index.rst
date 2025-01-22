@@ -79,6 +79,8 @@ Sign up
 Trusted partners
 ================
 
+.. figure:: _static/logos/partner_logos.png
+
 .. carousel::
     :show_controls:
     :show_indicators:
