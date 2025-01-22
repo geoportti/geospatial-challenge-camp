@@ -86,11 +86,11 @@ See the videos below for researchers' experiences from previous years.
 
 .. raw:: html
 
-    <>
+    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=099463ff-6c52-4335-bc4e-b26c00c82451&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Venla Aaltonen" ></iframe>
 
 .. raw:: html
 
-    <>
+    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0f75382f-2358-4a27-a172-b26c00c8273a&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Joha Jämsä" ></iframe>
 
 For more information
 --------------------
