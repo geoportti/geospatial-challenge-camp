@@ -13,14 +13,7 @@ Sign up
 
 .. attention::
 
-    Registration is open! **Deadline** for applying to the course is Fri January 24th, 2025.
-
-    .. button-link:: https://forms.gle/CVKqTxj8JWmiWDu47
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register using this Form by 24.1.2025
+    Registration is now closed!
 
 
 Target audience and prerequisites
