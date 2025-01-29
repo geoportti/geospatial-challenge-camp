@@ -44,7 +44,7 @@ Refresh this website with *Ctrl + F5* for new updates.
         <iframe src="https://docs.google.com/document/d/e/2PACX-1vSoyCqpnb2hgLfEdpxltZXdAiQO2HCFPWEgv1uhFTrEd_ht1g0L0IfQD5I0Q7vMGg/pub?embedded=true"
             frameborder=0 
             width="900" 
-            height="2800" 
+            height="2000"
             allowfullscreen="true"  
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">
