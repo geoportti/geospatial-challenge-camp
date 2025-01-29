@@ -7,16 +7,17 @@ During the kick-off meeting of the **Geospatial Challenge Camp**, anyone can joi
 where the theme **Health and Wellbeing** will be presented. The partners of the camp will present their perspectives 
 and introduce their challenges.
 
-.. admonition:: Partner's presentations!
+..
+    .. admonition:: Partner's presentations!
 
         - Find the presentation of this past event in our *Materials & Info* section here:
 
-        .. button-link:: tabs/materials/opening_first_day.html
-                :color: primary
-                :shadow:
-                :align: center
+..                        .. button-link:: tabs/materials/opening_first_day.html
+                                :color: primary
+                                :shadow:
+                                :align: center
 
-                👉 Online presentations
+                                👉 Online presentations
 
 
 ..
@@ -40,7 +41,7 @@ Refresh this website with *Ctrl + F5* for new updates.
 .. raw:: html
 
     <div>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRnheqc7Dt8VNbRnKnKWTmpMzf1VbhchNeuYdXsar-nkmlAE_K-uDKTkM0-8pFQgiAcjEc3v1WpJzwo/pub?embedded=true" 
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vSoyCqpnb2hgLfEdpxltZXdAiQO2HCFPWEgv1uhFTrEd_ht1g0L0IfQD5I0Q7vMGg/pub?embedded=true"
             frameborder=0 
             width="900" 
             height="2800" 
@@ -62,7 +63,7 @@ Kick-off opening event thursday program will be held on **Lapinlahdenkatu 16 - M
     <hr>
     <iframe
 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.87705944301456!2d24.82942086972525!3d60.18887156516028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df5ec3a23e00d%3A0x7a9cfd16b7a012cc!2sA%20Grid%2C%20Old%20Electrical%20Engineering%2C%20OK5!5e0!3m2!1sen!2sfi!4v1694613977538!5m2!1sen!2sfi"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.8112832991014!2d24.92052142980705!3d60.167302967252525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920a35c5e18a89%3A0xe53eb9d6eee730d2!2sMaria%2001!5e0!3m2!1sfi!2sfi!4v1738156740398!5m2!1sfi!2sfi"
     width="100%"
     height="500"
     style="border:0;"
