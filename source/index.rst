@@ -92,3 +92,4 @@ Trusted partners
    Schedule <tabs/schedule>
    Kick-off meeting <tabs/kick_off>
    Mid-Term meeting <tabs/mid_term>
+   Final Event <tabs/final_event>
