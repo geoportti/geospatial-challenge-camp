@@ -1,4 +1,4 @@
-.. figure:: _static/banner_2025.png
+.. figure:: _static/banner_2026.png
 
 .. grid:: 1 3 3 3
     :gutter: 2
