@@ -84,17 +84,12 @@ Trusted partners
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :hidden:
 
    Theme <tabs/theme>
    Partners <tabs/partners>
    Researchers and Students <tabs/researchers>
    Schedule <tabs/schedule>
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Schedule:
-   :hidden:
-
-   Kick-off meeting <tabs/kick_off>
-   Mid-Term meeting <tabs/mid_term>
-   Final Event <tabs/final_event>
+   .. Kick-off meeting <tabs/kick_off>
+   .. Mid-Term meeting <tabs/mid_term>
+   .. Final Event <tabs/final_event>
