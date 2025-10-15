@@ -90,6 +90,3 @@ Trusted partners
    Partners <tabs/partners>
    Researchers and Students <tabs/researchers>
    Schedule <tabs/schedule>
-   .. Kick-off meeting <tabs/kick_off>
-   .. Mid-Term meeting <tabs/mid_term>
-   .. Final Event <tabs/final_event>
