@@ -8,32 +8,32 @@
 
          Geospatial Challenge Camp aims at engaging young scientists and students 
          to solve real-world sustainability challenges with digital data and 
-         location technologies. In 2025, the topic of the challenge is
-         *Health and Wellbeing*.
+         location technologies. In 2026, the topic of the challenge is
+         *Sustainable Mobility and Transportation*.
 
     .. grid-item-card:: :fas:`bell` When?
         :link: tabs/schedule.html
 
-        Starting on February 13-14th, 2025 with a kick-off event and
-        closing on May 6th, 2025. Multi-disciplinary teams of
+        Starting on February 12-13th, 2026 with a kick-off event and
+        closing on May 11th, 2026. Multi-disciplinary teams of
         young scientists work in close collaboration with different 
         stakeholders to co-create digital and social innovations 
-        related to our health and wellbeing challenges.
+        related to our sustainable mobility and transportation challenges.
 
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
          :link: index.html#sign-up
 
          Researchers and students, check below how to sign-up for the Geospatial Challenge Camp 
          to boost your digital data and innovations skills and enlarge your networks.
-         Collaborators, read more on how to be involved and match your digital health 
-         and well-being information needs and opportunities with us.
+         Collaborators, read more on how to be involved and match your mobility 
+         and transportation needs and opportunities with us.
 
 Overview
 ========
 
 The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
 and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`__ which is one of the
-European Digital Innovation Hubs. The Geospatial Challenge Camp is a 12-week long challenge-based course (5 ECTS)
+European Digital Innovation Hubs. The Geospatial Challenge Camp is a 13-week long challenge-based course (5 ECTS)
 that aims to provide participants a chance to tackle relevant real-world challenges in cross-disciplinary teams.
 The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research organizations.
 They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
@@ -54,7 +54,7 @@ Sign up
   .. grid-item-card:: :fas:`rocket` Researchers and Students
       :img-top: _static/students.png
 
-      Read more about the aims, important dates and registration of the Challenge Camp 2025.
+      Read more about the aims, important dates and registration of the Challenge Camp 2026.
 
       .. button-link:: tabs/researchers.html
         :color: primary
