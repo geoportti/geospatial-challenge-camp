@@ -1,4 +1,4 @@
-.. figure:: ../_static/call_researchers_2025.png
+.. figure:: ../_static/call_researchers_2026.png
 
 Researchers and Students
 ========================
@@ -13,7 +13,7 @@ Sign up
 
 .. attention::
 
-    Registration is now closed!
+    Registration coming soon!
 
 
 Target audience and prerequisites
@@ -134,4 +134,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Send an email to **geospatial-challenge@utu.fi**
+        Do you have questions? Send an email to **anna.saarinen@helsinki.fi**

@@ -1,20 +1,20 @@
-.. figure:: ./../_static/call_partners_2025.png
+.. figure:: ./../_static/call_partners_2026.png
 
 Partners
 ========
 
-Is your organization looking for a solution? The Geospatial Challenge Camp 2025
-aims to solve real-world sustainable challenges of **Health and Wellbeing** with 
+Is your organization looking for a solution? The Geospatial Challenge Camp 2026
+aims to solve real-world sustainable challenges of **Sustainable Mobility and Transportation** with 
 open data and location technologies. Join us and collaborate with us 
-to work together with multidisciplinary team in this 12-week course
-during February-May, 2025.
+to work together with multidisciplinary team in this 13-week course
+during February-May, 2026.
 
 Sign up
 -------
 
 .. attention::
 
-    Registration is open!
+    Registration coming soon!
 
     .. button-link:: https://forms.gle/aHXMy1oX1EyruGUMA
             :color: primary
@@ -133,4 +133,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Do you want to talk with us? Send an email to **geospatial-challenge@utu.fi**
+        Do you have questions? Do you want to talk with us? Send an email to **anna.saarinen@helsinki.fi**

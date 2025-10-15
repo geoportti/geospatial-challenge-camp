@@ -11,7 +11,7 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Geospatial Challenge Camp 2025'
+project = 'Geospatial Challenge Camp 2026'
 copyright = 'Geospatial Challenge Camp organizers'
 author = 'Bryan R Vallejo & Henrikki Tenkanen'
 release = '1.0'
@@ -45,7 +45,7 @@ exclude_patterns = []
 
 html_theme = "pydata_sphinx_theme"
 html_logo = '_static/gcc_menu.jpeg' # gcc_menu.png, gcc_logo.png
-html_title = "Geospatial Challenge Camp 2025"
+html_title = "Geospatial Challenge Camp 2026"
 
 html_static_path = ['_static']
 
@@ -72,7 +72,7 @@ html_theme_options = {
     'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Geospatial Challenge Camp 2025 registration for researchers is now closed!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Geospatial Challenge Camp 2026 Coming Soon!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match

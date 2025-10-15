@@ -1,4 +1,4 @@
-.. figure:: ./../_static/theme.png
+.. figure:: ./../_static/theme_2025.png
 
 Theme
 =======
@@ -19,7 +19,7 @@ Possible application areas include:
 Sub-themes
 ============
 
-Get to know deeply the sub-themes and the problems you can solve under the umbrella of **Health and Wellbeing**
+Get to know deeply the sub-themes and the problems you can solve under the umbrella of **Sustainable Mobility and Transportation**
 
 
 .. raw:: html
