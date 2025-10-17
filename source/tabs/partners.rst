@@ -62,7 +62,7 @@ Possible partners
 We offer
 --------
 
-- New digital solutions to real-world health and well-being problems
+- New digital solutions to real-world sustainable mobility and transportation problems
 - Working with young talented researchers and novel data processing
 - Refined and new digital high-value data sets
 - Stronger professional networks with location and tech experts
