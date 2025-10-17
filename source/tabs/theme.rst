@@ -1,4 +1,4 @@
-.. figure:: ./../_static/theme_2025.png
+.. figure:: ./../_static/theme_2026.png
 
 Theme
 =======
@@ -14,7 +14,7 @@ move toward more sustainable and connected everyday geographies.
 Possible application areas include:
 
 - **Active Travel**: How can walking and cycling become safer, more attractive, and better integrated into daily mobility?
-- **Shared Mobility**: How can shared bikes, scooters, and other vehicles, together with integrated Mobility as a Service platforms, reduce car dependency and improve accessibility across regions and user groups?
+- **Shared Mobility and Mobility as a Service (MaaS)**: How can shared bikes, scooters, and other vehicles, together with integrated Mobility as a Service platforms, reduce car dependency and improve accessibility across regions and user groups?
 - **Public Transport**: How can buses, trams, and metros become more efficient, inclusive, and connected to other modes of travel?
 - **Electrification**: How can the shift toward electric mobility transform urban energy use and infrastructure?
 - **Smart Mobility**: How can data, AI, and digital tools help optimize movement and enhance travel experiences?
