@@ -16,22 +16,6 @@ Sign up
 
     Registration coming soon!
 
-    .. button-link:: https://forms.gle/aHXMy1oX1EyruGUMA
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register using this Form
-
-Partner info webinar
---------------------
-
-What does the camp offer for partners? And what is expected from a partner? See the webinar below.
-
-.. raw:: html
-
-    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21a7627e-2935-46a9-bf8a-b26c00bd6051&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="partnerinfo2025" ></iframe>
-
 Partner activities
 ------------------
 
@@ -42,12 +26,12 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 
     .. grid-item-card:: :fas:`heart` Challenge theme owners
 
-        Does your organization have real-world *Health and Wellbeing* problems? 
+        Does your organization have real-world *Sustainable Mobility and Transportation* problems? 
         Is your team willing to solve those problems with open data and location technologies?
 
     .. grid-item-card:: :fas:`database` Digital data providers
 
-        Does your organization have digital health related *Location Data*?
+        Does your organization have digital mobility related *Location Data*?
         Would you offer this data to multidisciplinary teams for exploration and innovation?
 
 .. grid:: 2
@@ -55,8 +39,8 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 
     .. grid-item-card:: :fas:`globe` Policy maker
 
-        Do you have health related information gaps for the improvement of *Decision Making*?
-        Are you willing to find the link between data-driven solutions to public health policy making?
+        Do you have mobility and transporation related information gaps for the improvement of *Decision Making*?
+        Are you willing to find the link between data-driven solutions and sustainable mobility policy making?
 
     .. grid-item-card:: :fas:`zap` Financial sponsors
 
@@ -66,12 +50,12 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 Possible partners
 -----------------
 
-- Health care and wellbeing organizations and institutes
-- Wellbeing services counties
+- Sustainable mobility and transportation organizations and institutes
 - Organizations providing location and statistical information
-- Health and wellbeing companies
-- Companies interested in extending their activities to health and wellbeing domain
+- Regional transport authorities and mobility companies
+- Companies interested in extending their activities to sustainable mobility and transportation domain
 - Innovation hubs and actors
+- Public sector bodies and NGOs working on sustainable transport or accessibility
 - Cities, municipalities, provinces
 - Enthusiastic volunteers
 
@@ -83,49 +67,6 @@ We offer
 - Refined and new digital high-value data sets
 - Stronger professional networks with location and tech experts
 
-
-For more information
---------------------
-
-.. grid:: 2 
-    :gutter: 5
-
-    .. grid-item-card:: :fas:`file` Flyer Partners
-        :text-align: center
-        
-        .. button-link::
-            :color: primary
-            :shadow:
-            :click-parent:           
-
-            Download
-
-    .. grid-item-card:: :fas:`image` Presentation Partners
-        :text-align: center
-
-        .. button-link::
-            :color: primary
-            :shadow:
-            :click-parent:
-
-            Download
-
-            
-
-.. raw:: html
-
-    <div>
-            <hr>
-            <style>
-                iframe {
-                margin:auto;
-                display: block;}
-            </style>
-
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhzd8UKzNzwS3-bUZff1RXCHB4bnRfnu731SI36B9gA4N08jFQZUoOk2sqkj5hcg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            <hr>
-        </ul>
-
 Contact us
 ----------
 
@@ -133,4 +74,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Do you want to talk with us? Send an email to **anna.saarinen@helsinki.fi**
+        Do you have questions? Do you want to talk with us? Send an email to **geospatial-challenge@helsinki.fi**

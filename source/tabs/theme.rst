@@ -3,26 +3,31 @@
 Theme
 =======
 
+Mobility is an essential aspect of all societies, shaping how people access opportunities, services, and social connections. 
+However, it also brings challenges related to environmental impact, congestion, equity, public health, and other societal concerns. 
+Sustainable mobility seeks to understand and reimagine these dynamics through spatial, social, and environmental lenses, fostering 
+movement that supports well-being, inclusivity, and ecological balance.
 
-The challenge is to work towards integrating health and location data to support analysis and improvement of health and wellbeing.
+This year's Challenge Camp invites participants to explore creative geospatial solutions and ideas that can transform how we 
+move toward more sustainable and connected everyday geographies.
+
 Possible application areas include:
 
-- **Accessibility**: Are the health services well distributed in space for the access of citizens?
-- **Epidemiology**: How to avoid massive spatial spread of diseases?
-- **Lifestyle**: What are the most healthy habits that the city can provide to the lifestyle?
-- **Life Quality**: How good is the satisfaction of citizens in relation to their health?
-- **Public Health**: How well planned is the public health for citizens in a rapid urbanization?
-- **Environment**: How the pollution is affecting the health of citizens and how we can decrease it?
-- **Accident Prevention**: How to measure and prevent the accidents that affects health and wellbeing?
-- **Logistics**: Are medical resources well distributed?
+- **Active Travel**: How can walking and cycling become safer, more attractive, and better integrated into daily mobility?
+- **Shared Mobility**: How can shared bikes, scooters, and other vehicles, together with integrated Mobility as a Service platforms, reduce car dependency and improve accessibility across regions and user groups?
+- **Public Transport**: How can buses, trams, and metros become more efficient, inclusive, and connected to other modes of travel?
+- **Electrification**: How can the shift toward electric mobility transform urban energy use and infrastructure?
+- **Smart Mobility**: How can data, AI, and digital tools help optimize movement and enhance travel experiences?
+- **Infrastructure**: How can we design and maintain infrastructure that supports sustainable and multimodal mobility?
+- **Resilience**:How can transport systems adapt to climate change and withstand environmental or social disruptions?
+- **Accessibility and Environmental Justice**: Who benefits from sustainable mobility, and how can we ensure fair access and distribution of the environmental benefits and burdens?
+- **Mobility Behavior**: How do lifestyles, social norms, and new work patterns influence travel choices and sustainability?
+- **Green Environments**: How can green spaces and nature be integrated into mobility networks to improve comfort, health, and well-being?
+
 
 Sub-themes
 ============
 
-Get to know deeply the sub-themes and the problems you can solve under the umbrella of **Sustainable Mobility and Transportation**
-
-
-.. raw:: html
-
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQu3CgQUS4kyJW_7ZdnqZvvrOTXGNt-YZTpGYX_apxqIPuNsF5Gn7Q__27UyCxzCA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="624" height="365" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+The camp will focus on a set of subthemes that highlight different dimensions of sustainable mobility, offering inspiration 
+for diverse perspectives and approaches. These subthemes may evolve and expand as new partners and collaborators join the initiative.
 

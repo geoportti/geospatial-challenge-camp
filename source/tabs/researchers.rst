@@ -38,13 +38,12 @@ Target audience and prerequisites
         **Students with diverse backgrounds are encouraged to apply**
         (e.g. geography, IT, design, engineering, environmental sciences,
         social sciences, communications, etc) and also scientists and students
-        specializing on the theme of the challenge **Health and Wellbeing**.
+        specializing on the theme of the challenge **Sustainable Mobility and Transportation**.
 
 
     .. grid-item-card:: :fas:`person` Places available
 
-        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp. Confirmation for accepted applicants
-        will be sent on 28th January 2025.
+        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp. A confirmation email will be sent for accepted applicants.
 
 
 Learning objectives
@@ -112,21 +111,6 @@ For more information
             Download
 
 
-
-.. raw:: html
-
-    <div>
-            <hr>
-            <style>
-                iframe {
-                margin:auto;
-                display: block;}
-            </style>
-
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpI9TGge4TBXE70JUMn1hGLMEacw1pGcDPJdbEnHEgdLDKG4HnS7yPSu88nPLidA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            <hr>
-        </ul>
-
 Contact us
 ----------
 
@@ -134,4 +118,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Send an email to **anna.saarinen@helsinki.fi**
+        Do you have questions? Send an email to **geospatial-challenge@helsinki.fi**
