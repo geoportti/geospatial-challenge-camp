@@ -9,16 +9,16 @@
          Geospatial Challenge Camp aims at engaging young scientists and students 
          to solve real-world sustainability challenges with digital data and 
          location technologies. In 2026, the topic of the challenge is
-         *Sustainable Mobility and Transportation*.
+         **Sustainable Mobility and Transportation**.
 
     .. grid-item-card:: :fas:`bell` When?
         :link: tabs/schedule.html
 
-        Starting on February 12-13th, 2026 with a kick-off event and
-        closing on May 11th, 2026. Multi-disciplinary teams of
+        Starting on February 12-13, 2026 with a kick-off event and
+        closing on May 11, 2026. Multi-disciplinary teams of
         young scientists work in close collaboration with different 
         stakeholders to co-create digital and social innovations 
-        related to our sustainable mobility and transportation challenges.
+        related to sustainable mobility and transportation challenges.
 
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
          :link: index.html#sign-up
@@ -32,11 +32,10 @@ Overview
 ========
 
 The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
-and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`__ which is one of the
-European Digital Innovation Hubs. The Geospatial Challenge Camp is a 13-week long challenge-based course (5 ECTS)
-that aims to provide participants a chance to tackle relevant real-world challenges in cross-disciplinary teams.
-The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research organizations.
-They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
+which is a a Finnish national research infrastructure providing geospatial data, tools, and computing resources for research and education.
+The Geospatial Challenge Camp is a 13-week long challenge-based course (5 ECTS) that aims to provide participants a chance to tackle relevant real-world 
+challenges in cross-disciplinary teams. The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research 
+organizations. They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
 
 The course aims to identify and analyze complex location and time-related societal problems that requires the designing
 and building of digital impact-driven solutions, scientists from various disciplines will work together on real-world sustainable solutions.

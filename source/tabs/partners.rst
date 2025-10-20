@@ -4,7 +4,7 @@ Partners
 ========
 
 Is your organization looking for a solution? The Geospatial Challenge Camp 2026
-aims to solve real-world sustainable challenges of **Sustainable Mobility and Transportation** with 
+aims to solve real-world sustainable challenges of **Mobility and Transportation** with 
 open data and location technologies. Join us and collaborate with us 
 to work together with multidisciplinary team in this 13-week course
 during February-May, 2026.
@@ -31,7 +31,7 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
 
     .. grid-item-card:: :fas:`database` Digital data providers
 
-        Does your organization have digital mobility related *Location Data*?
+        Does your organization have digital mobility and transportation related *Location Data*?
         Would you offer this data to multidisciplinary teams for exploration and innovation?
 
 .. grid:: 2
@@ -40,7 +40,7 @@ As a Partner you can support the Geospatial Challenge Camp in the next activitie
     .. grid-item-card:: :fas:`globe` Policy maker
 
         Do you have mobility and transporation related information gaps for the improvement of *Decision Making*?
-        Are you willing to find the link between data-driven solutions and sustainable mobility policy making?
+        Are you willing to find the link between data-driven solutions and sustainable policy making?
 
     .. grid-item-card:: :fas:`zap` Financial sponsors
 

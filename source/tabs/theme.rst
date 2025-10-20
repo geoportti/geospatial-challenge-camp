@@ -19,7 +19,7 @@ Possible application areas include:
 - **Electrification**: How can the shift toward electric mobility transform urban energy use and infrastructure?
 - **Smart Mobility**: How can data, AI, and digital tools help optimize movement and enhance travel experiences?
 - **Infrastructure**: How can we design and maintain infrastructure that supports sustainable and multimodal mobility?
-- **Resilience**:How can transport systems adapt to climate change and withstand environmental or social disruptions?
+- **Resilience**: How can transport systems adapt to climate change and withstand environmental or social disruptions?
 - **Accessibility and Environmental Justice**: Who benefits from sustainable mobility, and how can we ensure fair access and distribution of the environmental benefits and burdens?
 - **Mobility Behavior**: How do lifestyles, social norms, and new work patterns influence travel choices and sustainability?
 - **Green Environments**: How can green spaces and nature be integrated into mobility networks to improve comfort, health, and well-being?
@@ -28,6 +28,11 @@ Possible application areas include:
 Sub-themes
 ============
 
-The camp will focus on a set of subthemes that highlight different dimensions of sustainable mobility, offering inspiration 
-for diverse perspectives and approaches. These subthemes may evolve and expand as new partners and collaborators join the initiative.
+The camp will focus on a set of subthemes that highlight different dimensions of sustainable mobility and transportation, offering inspiration 
+for diverse perspectives and approaches. These sub-themes may evolve and expand as new partners and collaborators join the initiative.
 
+.. grid:: 1
+
+    .. grid-item-card:: :fas:`bell`
+
+            More details about the sub-themes coming soon.
