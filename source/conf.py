@@ -98,7 +98,7 @@ html_theme_options = {
 # -------> navigation bar elements on left
 
 html_sidebars = {
-    "**": [ "sidebar-nav-bs.html"],,
+    "**": [ "sidebar-nav-bs.html"],
 }
 
 
