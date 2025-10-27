@@ -61,7 +61,7 @@ Learning outcomes
 After completing the course, participants will:
 
 - Have enhanced scientific skills in conceptualizing complex, location-related societal challenges, with a stronger understanding of how these challenges can be addressed using geospatial data, geoprocessing, automation, and digital technologies.
-- Develop technical, hands-on competencies to identify, utilize, assess, process, and enrich geospatial data and digital technologies in designing solutions that meet the needs of challenge stakeholders.
+- Be able to develop technical, hands-on skills in geospatial data and digital technologies for designing solutions that address real-world challenges and stakeholder needs
 - Be able to plan and manage teamwork over several weeks, establishing sub-goals, milestones, and deliverables, while recognizing the roles and responsibilities of team members in relation to overall project outcomes.
 - Gain confidence in working within multidisciplinary teams, including assessing progress, communicating results effectively, and engaging with stakeholders from diverse backgrounds.
 

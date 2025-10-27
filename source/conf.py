@@ -96,10 +96,9 @@ html_theme_options = {
 
 # -------> navigation bar elements on left
 
-html_sidebars = {
-    "**": [ "sidebar-nav-bs.html"],
-    "page-with-empty-sidebar": [],
-}
+#html_sidebars = {
+#    "**": [ "sidebar-nav-bs.html"],,
+#}
 
 
 # --------> custom static files
