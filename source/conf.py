@@ -98,6 +98,7 @@ html_theme_options = {
 
 html_sidebars = {
     "**": [ "sidebar-nav-bs.html"],
+    "page-with-empty-sidebar": [],
 }
 
 

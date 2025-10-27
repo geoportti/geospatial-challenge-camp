@@ -3,9 +3,10 @@
 Researchers and Students
 ========================
 
-Multi-disciplinary teams of young scientists working in close collaboration with
-different stakeholders to co-create digital and social innovations with
-location data and digital technologies.
+Participants collaborate in multidisciplinary teams with 
+stakeholders to co-create digital and societal innovations using 
+geospatial data and digital technologies.
+
 
 Sign up
 -------
@@ -13,7 +14,7 @@ Sign up
 
 .. attention::
 
-    Registration coming soon!
+    Registration will open soon.
 
 
 Target audience and prerequisites
@@ -24,52 +25,53 @@ Target audience and prerequisites
 
     .. grid-item-card:: :fas:`mortar-board` Participants
 
-        Primarily for **PhD students and early-career scientists** at universities and research organizations in Finland.
+        Primarily intended for **PhD students and early-career scientists** from universities and research organizations in Finland.
 
     .. grid-item-card:: :fas:`rocket` Other participants
 
-        MSc-level students specializing in geospatial sciences/geoinformatics are also encouraged to apply.
+        MSc students specializing in geoinformatics, geospatial sciences, or related fields are also encouraged to apply.
 
 .. grid:: 2
     :gutter: 4
 
     .. grid-item-card:: :fas:`globe` Diverse backgrounds
 
-        **Students with diverse backgrounds are encouraged to apply**
-        (e.g. geography, IT, design, engineering, environmental sciences,
-        social sciences, communications, etc) and also scientists and students
-        specializing on the theme of the challenge **Sustainable Mobility and Transportation**.
-
+        **Applicants from diverse backgrounds are encouraged to apply**, including
+        geography, information technology, design, engineering, environmental sciences, social sciences, and communications.
+        Researchers and students focusing on topics related to **Sustainable Mobility and Transportation** are 
+        particularly encouraged to participate.  
 
     .. grid-item-card:: :fas:`person` Places available
 
-        Maximum **30 Researchers and Students** will be accepted to the Challenge Camp. A confirmation email will be sent for accepted applicants.
+        Up to **30 researchers and students** will be accepted to the Geospatial Challenge Camp.  
+        A confirmation email will be sent to all selected participants. 
 
 
 Learning objectives
 -------------------
 
-- Students will work in multidisciplinary teams to identify and analyze complex locations and time-related societal challenges
-- Aim is to design geospatial data and technology solutions from real-world challenges which could have sustainability impacts for the users of the solution and for the society at large
-- Camp will link scientists from various disciplines with societal actors, data providers, companies, NGOs and innovation community actors
-- Teams will present their ideas in the final seminar to the stakeholders, other teams and general audience
+- Students will work in multidisciplinary teams to identify and analyze complex societal challenges related to location and time
+- The aim is to design geospatial data- and technology-based solutions addressing real-world problems, with potential sustainability impacts for both users and society at large
+- The camp will connect researchers from diverse disciplines with societal actors, data providers, companies, NGOs, and innovation community stakeholders
+- Teams will present their solutions at the final public seminar to stakeholders, other teams, and the broader audience
 
 Learning outcomes
 -----------------
 
-After the course the students:
+After completing the course, participants will:
 
-- have improved scientific skills in conceptualizing complex location-related problems in the society, and better understanding of how these problems can be tackled with geospatial data, geoprocessing, automation and digital technologies
-- have technical, hands-on competencies to identify, use, assess, process and enrich geospatial data and digital technologies for their solution provision simultaneously addressing needs posed by the stakeholders of the challenge
-- can plan and manage team work over several weeks with their own sub goals, milestones and deliverables, and recognize the roles and responsibilities of members in a project team, linked with the team deliverables
-- have improved confidence to work in a multi-skilled team, knowing how to assess and communicate progress and results of the team work to stakeholders with diverse backgrounds
+- Have enhanced scientific skills in conceptualizing complex, location-related societal challenges, with a stronger understanding of how these challenges can be addressed using geospatial data, geoprocessing, automation, and digital technologies.
+- Develop technical, hands-on competencies to identify, utilize, assess, process, and enrich geospatial data and digital technologies in designing solutions that meet the needs of challenge stakeholders.
+- Be able to plan and manage teamwork over several weeks, establishing sub-goals, milestones, and deliverables, while recognizing the roles and responsibilities of team members in relation to overall project outcomes.
+- Gain confidence in working within multidisciplinary teams, including assessing progress, communicating results effectively, and engaging with stakeholders from diverse backgrounds.
+
 
 Credits
 -------
 
-Participation and completion of the course is 5 ECTS. PhD and MSc students will be granted the
-credits by their own home institutions. Students not enrolled at any PhD or MSc programme
-will need to discuss their arrangements with the challenge camp staff before signing up.
+Participation and completion of the course is 5 ECTS. PhD and MSc students will receive
+credits from their respective home institutions. Students not enrolled in a PhD or MSc programme
+should discuss the credit arrangements with the Challenge Camp staff prior to registration.
 
 Previous experiences
 --------------------
@@ -118,4 +120,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Send an email to **geospatial-challenge@helsinki.fi**
+        For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**

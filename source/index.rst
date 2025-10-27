@@ -6,7 +6,7 @@
     .. grid-item-card:: :fas:`rocket` Why Geospatial Challenge Camp?
          :link: tabs/theme.html
 
-         Geospatial Challenge Camp engages early-career researchers and students
+         The Geospatial Challenge Camp engages early-career researchers and students
          in addressing real-world sustainability challenges through the use of digital data and
          location technologies. In 2026, the theme of the challenge is
          **Sustainable Mobility and Transportation**.
@@ -15,8 +15,7 @@
         :link: tabs/schedule.html
 
         The camp begins with an on-site kick-off event on February 12–13, 2026, and concludes with a public final event on May 11, 2026, 
-        where teams present their results.
-        Multidisciplinary teams of early-career researchers will collaborate closely with stakeholders
+        where teams present their results. Multidisciplinary teams of early-career researchers will collaborate closely with stakeholders
         to co-create digital and societal innovations that advance sustainable mobility and transportation.
 
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
@@ -31,16 +30,15 @@ Overview
 
 The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
 which is a Finnish national research infrastructure providing geospatial data, tools, and computing resources for research and education.
-The Geospatial Challenge Camp is a 13-week, challenge-based course (5 ECTS) that aims to provide participants a chance to tackle relevant real-world 
-challenges in cross-disciplinary teams. The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research 
-organizations. They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
+
+This 13-week, challenge-based course (5 ECTS) gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations 
+the opportunity to tackle real-world challenges in cross-disciplinary teams, collaborating closely with mentors and societal stakeholders.
 
 The course focuses on identifying and analyzing complex societal problems related to location and time, and on designing and developing digital, impact-driven, sustainable solutions.
-Participants will enhance their professional skills in using data, technology, and application innovations 
-stemming from the Geoportti project.
+Participants will enhance their professional skills in using data, technology, and application innovations.
 
-The challenges will be posed by societal actors, data providers, companies, NGOs and innovation community actors, offering researchers the opportunity to expand 
-their geospatial and data science solutions into practical applications and create broader societal impact in Finland and beyond.
+Challenges are posed by societal actors, data providers, companies, NGOs, and innovation community actors, offering participants the opportunity to translate 
+geospatial and data science solutions into practical applications and create broader societal impact in Finland and beyond.
 
 Sign up
 ==========
