@@ -28,8 +28,10 @@
 Overview
 ========
 
-The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
-which is a Finnish national research infrastructure providing geospatial data, tools, and computing resources for research and education.
+The Geospatial Challenge Camp is a skills development service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__ , 
+a Finnish national research infrastructure providing geospatial data, tools, and computing resources for research and education, and
+an innovation development service of `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`__ , one of the
+European Digital Innovation Hubs.
 
 This 13-week, challenge-based course (5 ECTS) gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations 
 the opportunity to tackle real-world challenges in cross-disciplinary teams, collaborating closely with mentors and societal stakeholders.

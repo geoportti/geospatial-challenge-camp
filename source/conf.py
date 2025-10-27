@@ -65,7 +65,6 @@ version_match = "Choose version"
 html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': [], #'search-field'
-    'show_nav_level': 0,
     'search_bar_text': '',
     "header_links_before_dropdown": 8,
     'navbar_end': ['navbar-icon-links', 'theme-switcher'], # , 
