@@ -13,8 +13,8 @@ We offer
 
 - Development of new digital solutions addressing real-world challenges in sustainable mobility and transportation
 - Collaboration with talented early-career researchers and access to innovative geospatial and data processing approaches
-- Creation and refinement of digital, high-value geospatial datasets
-- Opportunities to strengthen professional networks with experts in geospatial data, technology, and sustainability
+- Opportunity to work with and refine digital, high-value geospatial datasets
+- Engagement with experts in geospatial data, technology, and sustainability to build professional networks
 
 Sign up
 -------
@@ -72,7 +72,7 @@ For more information
 .. grid:: 2
     :gutter: 5
 
-    .. grid-item-card:: :fas:`file` Flyer Researchers
+    .. grid-item-card:: :fas:`file` Flyer Partners
         :text-align: center
 
         .. button-link:: #
