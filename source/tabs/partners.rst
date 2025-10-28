@@ -66,6 +66,21 @@ Possible partners
 - Cities, municipalities, and provinces
 - Motivated individuals and volunteers interested in contributing to the themes of mobility and transportation
 
+For more information
+--------------------
+
+.. grid:: 2
+    :gutter: 5
+
+    .. grid-item-card:: :fas:`file` Flyer Researchers
+        :text-align: center
+
+        .. button-link:: #
+            :color: primary
+            :shadow:
+            :click-parent:
+
+            Download
 
 Contact us
 ----------

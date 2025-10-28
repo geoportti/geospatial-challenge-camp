@@ -95,23 +95,12 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Researchers
         :text-align: center
 
-        .. button-link:: https://raw.githubusercontent.com/geoportti/geospatial-challenge-camp/refs/heads/main/source/_static/advertisement-documents/2025_Geospatial-challenge-camp-researchers.pdf
+        .. button-link:: #
             :color: primary
             :shadow:
             :click-parent:
 
             Download
-
-    .. grid-item-card:: :fas:`image` Presentation Researchers
-        :text-align: center
-
-        .. button-link:: https://raw.githubusercontent.com/geoportti/geospatial-challenge-camp/refs/heads/main/source/_static/advertisement-documents/2025_Geospatial-Challenge-Camp-researchers-presentation.pdf
-            :color: primary
-            :shadow:
-            :click-parent:
-
-            Download
-
 
 Contact us
 ----------
