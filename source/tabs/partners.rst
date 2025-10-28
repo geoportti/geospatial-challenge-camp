@@ -1,130 +1,86 @@
-.. figure:: ./../_static/call_partners_2025.png
+.. figure:: ./../_static/call_partners_2026.png
 
 Partners
 ========
 
-Is your organization looking for a solution? The Geospatial Challenge Camp 2025
-aims to solve real-world sustainable challenges of **Health and Wellbeing** with 
-open data and location technologies. Join us and collaborate with us 
-to work together with multidisciplinary team in this 12-week course
-during February-May, 2025.
+Is your organization looking for solutions? The Geospatial Challenge Camp 2026 addresses real-world sustainable challenges in 
+**Mobility and Transportation** using open data and location technologies. By joining as a partner, your organization can 
+collaborate directly with researchers and experts to co-create innovative, data-driven solutions during this 13-week course 
+taking place from February to May 2026.
+
+We offer
+--------
+
+- Development of new digital solutions addressing real-world challenges in sustainable mobility and transportation
+- Collaboration with talented early-career researchers and access to innovative geospatial and data processing approaches
+- Opportunity to work with and refine digital, high-value geospatial datasets
+- Engagement with experts in geospatial data, technology, and sustainability to build professional networks
 
 Sign up
 -------
 
 .. attention::
 
-    Registration is open!
-
-    .. button-link:: https://forms.gle/aHXMy1oX1EyruGUMA
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register using this Form
-
-Partner info webinar
---------------------
-
-What does the camp offer for partners? And what is expected from a partner? See the webinar below.
-
-.. raw:: html
-
-    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21a7627e-2935-46a9-bf8a-b26c00bd6051&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="partnerinfo2025" ></iframe>
+    Partner registration will open soon.
 
 Partner activities
 ------------------
 
-As a Partner you can support the Geospatial Challenge Camp in the next activities:
+By joining as a partner, your organization can contribute expertise, data, and support through the following roles:
 
 .. grid:: 2
     :gutter: 4
 
     .. grid-item-card:: :fas:`heart` Challenge theme owners
 
-        Does your organization have real-world *Health and Wellbeing* problems? 
-        Is your team willing to solve those problems with open data and location technologies?
+        Does your organization address real-world challenges in mobility and transportation?
+        Would you like to collaborate with multidisciplinary teams using open data and location-based technologies to develop practical solutions?
 
     .. grid-item-card:: :fas:`database` Digital data providers
 
-        Does your organization have digital health related *Location Data*?
-        Would you offer this data to multidisciplinary teams for exploration and innovation?
+        Does your organization possess digital mobility or transportation-related location data?
+        Would you be willing to make this data available for research and innovation?
 
 .. grid:: 2
     :gutter: 4
 
-    .. grid-item-card:: :fas:`globe` Policy maker
+    .. grid-item-card:: :fas:`globe` Policy makers
 
-        Do you have health related information gaps for the improvement of *Decision Making*?
-        Are you willing to find the link between data-driven solutions to public health policy making?
+        Does your organization face information gaps in mobility and transportation for improved decision-making?
+        Are you interested in linking data-driven insights with sustainable policy development?
 
     .. grid-item-card:: :fas:`zap` Financial sponsors
 
-        Is yor organization interested in supporting the challenge camp and provide *scholarships* 
-        to young scientists? Or perhaps an *award* for the best solution?
+        Is your organization interested in supporting the Geospatial Challenge Camp by contributing to operational costs, such as venue, catering, or the social program?
+        Would you like to provide scholarships or awards for outstanding solutions by early-career researchers?
 
 Possible partners
 -----------------
 
-- Health care and wellbeing organizations and institutes
-- Wellbeing services counties
-- Organizations providing location and statistical information
-- Health and wellbeing companies
-- Companies interested in extending their activities to health and wellbeing domain
+- Organizations and institutes working in mobility, transportation, or sustainability-oriented innovation
+- Organizations providing location-based or statistical data and services
+- Regional transport authorities and mobility service providers
+- Companies aiming to develop or enhance sustainable and data-driven operations
 - Innovation hubs and actors
-- Cities, municipalities, provinces
-- Enthusiastic volunteers
-
-We offer
---------
-
-- New digital solutions to real-world health and well-being problems
-- Working with young talented researchers and novel data processing
-- Refined and new digital high-value data sets
-- Stronger professional networks with location and tech experts
-
+- Public sector bodies and NGOs addressing transport, accessibility, or environmental challenges
+- Cities, municipalities, and provinces
+- Motivated individuals and volunteers interested in contributing to the themes of mobility and transportation
 
 For more information
 --------------------
 
-.. grid:: 2 
+.. grid:: 2
     :gutter: 5
 
     .. grid-item-card:: :fas:`file` Flyer Partners
         :text-align: center
-        
-        .. button-link::
-            :color: primary
-            :shadow:
-            :click-parent:           
 
-            Download
-
-    .. grid-item-card:: :fas:`image` Presentation Partners
-        :text-align: center
-
-        .. button-link::
+        .. button-link:: #
             :color: primary
             :shadow:
             :click-parent:
 
             Download
-
-            
-
-.. raw:: html
-
-    <div>
-            <hr>
-            <style>
-                iframe {
-                margin:auto;
-                display: block;}
-            </style>
-
-            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhzd8UKzNzwS3-bUZff1RXCHB4bnRfnu731SI36B9gA4N08jFQZUoOk2sqkj5hcg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="780" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-            <hr>
-        </ul>
 
 Contact us
 ----------
@@ -133,4 +89,4 @@ Contact us
 
     .. grid-item-card:: :fas:`bell`
 
-        Do you have questions? Do you want to talk with us? Send an email to **geospatial-challenge@utu.fi**
+        For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**

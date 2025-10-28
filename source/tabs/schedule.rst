@@ -1,42 +1,17 @@
 Full schedule
 ===============
 
-.. list-table::
-    :widths: 3 8
-    :header-rows: 1
-    :stub-columns: 1
-    :align: left
+The Challenge Camp runs over 13 weeks and includes three onsite events:
 
-    * - Weekly timeline
-      - Details
+- **Kick-off**: 2 days, 12–13 February
+- **Midterm seminar**: 1 day in March (dates and location to be confirmed)
+- **Final seminar**: half day, 11 May
 
-    * - Weeks 1-2
-      - **Challenge introduction**:
-          * **13.-14.2. Kick-off event** at `Maria 01 Startup Campus <https://maria.io>`__ (13th) and Aalto University (14th)
-          * Introduction to the challenge theme, networking with stakeholders, forming teams
-          * A half-a-day public seminar with all the participants and collaborators
-          * A 1,5-day workshop with the participants and key mentors
-          * Getting to know the societal context of the challenge as a team
+In addition to the onsite events, participants will have weekly 2-hour online sessions, starting once groups have been formed and begin working on their challenges. 
+These online sessions provide guidance, feedback, and collaboration opportunities, complementing the independent work required throughout the course.
 
-    * - Week 3
-      - **Challenge specification**:
-          * Analyzing the broad challenge, learning insights, and getting familiar with data and tools
-          * Specification of the team's problem/sub-challenge, gathering resources and contacting stakeholders
-          * Online mentoring session: short presentations of each team (5-10 min) and feedback discussion
+**Note**: Weeks with onsite events do not have online meetings, and there will be a couple of fully independent weeks for uninterrupted group work.
 
-    * - Weeks 4-6
-      - **Prototyping/ideation**:
-          * Rapid ideation of solutions and testing data and tools
-          * **28.3. Mid-term Seminar** at the University of Turku with groups and mentors' interaction and feedback day (physical) -
-          * Presentation of the solution ideas
+.. attention::
 
-    * - Weeks 7-10
-      - **Solution-building**:
-          * Teams work at their own pace on their solutions based on feedback/mentoring
-
-    * - Weeks 11-12
-      - **Finalization**:
-          * Online pitching rehearsals and final group status check (all groups)
-          * **Final seminar 6.5.2025** and challenge feedback and summary session at Otaniemi, Espoo
-          * Groups pitch their solutions to the rest of the course, stakeholders, and general audience
-
+    More detailed schedule coming soon!
