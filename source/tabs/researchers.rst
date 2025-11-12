@@ -3,10 +3,16 @@
 Researchers and Students
 ========================
 
-Participants collaborate in multidisciplinary teams with 
-stakeholders to co-create digital and societal innovations using 
-geospatial data and digital technologies.
+This 13-week, challenge-based course (5 ECTS) offers doctoral, post-doctoral, and master’s students from 
+universities and research organizations the opportunity to tackle challenges related to the theme in 
+cross-disciplinary teams. Working closely with mentors and societal stakeholders, participants co-create sustainable 
+geospatial solutions that address concrete needs in society. Through this process, they will develop their skills in teamwork, 
+innovation, and stakeholder collaboration while learning to apply digital and spatial technologies for real-world impact.
 
+The course starts with a two-day kickoff event, includes a midterm seminar, and concludes with a public final event where 
+teams present their solutions to stakeholders, peers, and the wider community. Participants are expected to attend all 
+on-site events and take part in weekly facilitated mentoring and group meetings, while additional teamwork is organized 
+independently by each team.
 
 Sign up
 -------
@@ -47,18 +53,10 @@ Target audience and prerequisites
         A confirmation email will be sent to all selected participants. 
 
 
-Learning objectives
--------------------
-
-- Students will work in multidisciplinary teams to identify and analyze complex societal challenges related to location and time
-- The aim is to design geospatial data- and technology-based solutions addressing real-world problems, with potential sustainability impacts for both users and society at large
-- The camp will connect researchers from diverse disciplines with societal actors, data providers, companies, NGOs, and innovation community stakeholders
-- Teams will present their solutions at the final public seminar to stakeholders, other teams, and the broader audience
-
 Learning outcomes
 -----------------
 
-After completing the course, participants will:
+By the end of the course, you will:
 
 - Have enhanced scientific skills in conceptualizing complex, location-related societal challenges, with a stronger understanding of how these challenges can be addressed using geospatial data, geoprocessing, automation, and digital technologies.
 - Be able to develop technical, hands-on skills in geospatial data and digital technologies for designing solutions that address real-world challenges and stakeholder needs

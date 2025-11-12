@@ -21,9 +21,9 @@
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
          :link: index.html#sign-up
 
-         Researchers and students can find below more information on registration and participation in the Geospatial Challenge Camp,
+         *Researchers and students* can find below more information on registration and participation in the Geospatial Challenge Camp,
          an opportunity to strengthen skills in digital data, innovation, and interdisciplinary collaboration.
-         Partners and organizations can learn how to participate and align their mobility and transportation goals with the camp's objectives.
+         *Partners and organizations* can learn how to participate and align their mobility and transportation goals with the camp's objectives.
 
 Overview
 ========
@@ -74,11 +74,15 @@ Sign up
 
            Sign up
 
+.. Partners and Sponsors
+.. ================
 
-Trusted partners
+.. .. figure:: _static/logos/partner_logos.png
+
+Organizers
 ================
 
-.. figure:: _static/logos/partner_logos.png
+.. figure:: _static/logos/organizers_logos.png
 
 .. toctree::
    :maxdepth: 2
