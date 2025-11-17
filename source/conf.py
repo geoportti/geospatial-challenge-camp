@@ -1,8 +1,5 @@
 import os
 
-
-
-
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -12,7 +9,7 @@ import os
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Geospatial Challenge Camp 2026'
-copyright = 'Geospatial Challenge Camp organizers'
+copyright = 'Geospatial Challenge Camp 2026 organizers'
 author = 'Bryan R Vallejo & Henrikki Tenkanen'
 release = '1.0'
 
@@ -37,8 +34,6 @@ extensions = [
 
 templates_path = ['_templates']
 exclude_patterns = []
-
-
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -72,7 +67,7 @@ html_theme_options = {
     'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'Geospatial Challenge Camp 2026 Coming Soon!', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'Geospatial Challenge Camp 2026 is looking for Partners and Participants', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
@@ -93,13 +88,11 @@ html_theme_options = {
    ]
                         }
 
-
 # -------> navigation bar elements on left
 
 html_sidebars = {
     "**": [ "sidebar-nav-bs.html"],
 }
-
 
 # --------> custom static files
 html_static_path = ['_static']

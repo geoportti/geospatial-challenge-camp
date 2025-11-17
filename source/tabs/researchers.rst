@@ -14,14 +14,22 @@ teams present their solutions to stakeholders, peers, and the wider community. P
 on-site events and take part in weekly facilitated mentoring and group meetings, while additional teamwork is organized 
 independently by each team.
 
-Sign up
+Apply to participate
 -------
-
+Submit a brief motivation letter and your relevant background. 
+Up to 30 participants will be accepted and notified once the review process is complete.
 
 .. attention::
 
-    Registration will open soon.
+    Participant application is open!
+    
+    .. button-link:: https://forms.gle/fmXcg7Wm7pTC5hox6
+            :color: primary
+            :shadow:
+            :align: center
 
+            👉 Apply using this Form
+    
 
 Target audience and prerequisites
 ---------------------------------
@@ -105,6 +113,6 @@ Contact us
 
 .. grid:: 1
 
-    .. grid-item-card:: :fas:`bell`
+    .. grid-item-card::
 
         For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
