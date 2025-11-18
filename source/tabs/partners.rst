@@ -6,8 +6,22 @@ Partners
 Is your organization looking for solutions? The Geospatial Challenge Camp 2026 addresses real-world sustainable challenges in 
 **Mobility and Transportation** using open data and location technologies. By joining as a partner, your organization can 
 collaborate directly with researchers and experts to co-create innovative, data-driven solutions during this 13-week course 
-taking place from February to May 2026. Interested in joining as a partner? **Sign up** `here <https://forms.gle/f24mv1fvU6Yu6Eep6>`__ 
-or scroll down for more information.
+taking place from February to May 2026.
+
+Sign up
+-------
+We will contact all respondents shortly after reviewing the forms.
+
+.. attention::
+
+    Partner registration form is open!
+    
+    .. button-link:: https://forms.gle/f24mv1fvU6Yu6Eep6
+            :color: primary
+            :shadow:
+            :align: center
+
+            👉 Register using this form
 
 We offer
 --------
@@ -18,7 +32,7 @@ We offer
 - Engagement with experts in geospatial data, technology, and sustainability to build professional networks
 
 Partner activities
-------------------
+-------------------
 
 By joining as a partner, your organization can contribute expertise, data, and support through the following roles:
 
@@ -69,27 +83,13 @@ For more information
     .. grid-item-card:: :fas:`file` Flyer Partners
         :text-align: center
 
-        .. button-link:: materials/GCC2026_flyer_ENG.pdf
+        .. button-link:: ../_static/advertisement-documents/GCC2026_flyer_ENG.pdf
             :color: primary
             :shadow:
             :click-parent:
 
             Download
 
-Sign up
--------
-We will contact all respondents shortly after reviewing the forms.
-
-.. attention::
-
-    Partner registration form is open!
-    
-    .. button-link:: https://forms.gle/f24mv1fvU6Yu6Eep6
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register using this form
 
 Contact us
 ----------
