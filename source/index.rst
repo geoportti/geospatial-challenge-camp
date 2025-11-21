@@ -74,10 +74,10 @@ Sign up
 
            Sign up
 
-.. Partners and Sponsors
-.. ================
+Partners and Sponsors
+================
 
-.. .. figure:: _static/logos/partner_logos.png
+.. figure:: _static/logos/partners_sponsors_logo.png
 
 Organizers
 ================
