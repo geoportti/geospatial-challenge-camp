@@ -92,12 +92,6 @@ See the videos below for researchers' experiences from previous years.
 
     <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0f75382f-2358-4a27-a172-b26c00c8273a&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Joha Jämsä" ></iframe>
 
-Participant flyer
------------------
-Download the GCC 2026 flyer: 
-`GCC 2026 Flyer <_static/advertisement-documents/GCC2026_flyer_ENG.pdf>`_
-
-
 Contact us
 ----------
 
