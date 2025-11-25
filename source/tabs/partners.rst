@@ -76,8 +76,11 @@ Possible partners
 
 More information
 -------------------
+
 .. grid:: 1
-    .. grid-item-card:: :fas:`file` Flyer Partners
+    :gutter: 5
+
+    .. grid-item-card:: :fas:`file` Flyer for Partners
         :text-align: center
 
         .. button-link:: https://drive.google.com/file/d/1eQs853-94b8dU1yBhfoqFv8ol12F8siC/view?usp=sharing
@@ -85,7 +88,8 @@ More information
             :shadow:
             :click-parent:
 
-            ⬇️ Download partner flyer (PDF)
+            Download (PDF)
+
 
 Contact us
 ----------

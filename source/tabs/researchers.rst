@@ -92,6 +92,22 @@ See the videos below for researchers' experiences from previous years.
 
     <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0f75382f-2358-4a27-a172-b26c00c8273a&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Joha Jämsä" ></iframe>
 
+More information
+-------------------
+
+.. grid:: 1
+    :gutter: 5
+
+    .. grid-item-card:: :fas:`file` Flyer for Participants
+        :text-align: center
+
+        .. button-link:: https://drive.google.com/file/d/1jrsHR1y3mI-DaRi4xcSvX_fdxoHzVZql/view?usp=sharing
+            :color: primary
+            :shadow:
+            :click-parent:
+
+            Download (PDF)
+
 Contact us
 ----------
 
