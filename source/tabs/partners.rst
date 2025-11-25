@@ -76,14 +76,16 @@ Possible partners
 
 More information
 -------------------
+.. grid:: 1
+    .. grid-item-card:: :fas:`file` Flyer Partners
+        :text-align: center
 
-.. raw:: html
+        .. button-link:: https://drive.google.com/file/d/1eQs853-94b8dU1yBhfoqFv8ol12F8siC/view?usp=sharing
+            :color: primary
+            :shadow:
+            :click-parent:
 
-   <p style="text-align:center;">
-       <a href="https://drive.google.com/file/d/1eQs853-94b8dU1yBhfoqFv8ol12F8siC/view?usp=sharing" target="_blank">
-           ⬇️ Download partner flyer (PDF)
-       </a>
-   </p>
+            ⬇️ Download partner flyer (PDF)
 
 Contact us
 ----------
