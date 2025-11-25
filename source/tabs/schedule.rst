@@ -82,7 +82,7 @@ Timetable and co-creation process
                     <b>Ideation/prototyping</b>
                     <li>Rapid ideation of solutions, testing data and tools</li>    
                     <li>Online mentoring</li>
-                    <li><b>25 March 2026 Mid-term seminar</b> (on-site, full day)</li>
+                    <li><b>25 March 2026 Midterm seminar</b> (on-site, full day)</li>
                 </ul>
             </td>
             </tr>

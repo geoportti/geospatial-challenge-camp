@@ -23,13 +23,13 @@ We will contact all respondents shortly after reviewing the forms.
 
             👉 Register using this form
 
-We offer
+We offer the opportunity to:
 --------
 
-- Development of new digital solutions addressing real-world challenges in sustainable mobility and transportation
-- Collaboration with talented early-career researchers and access to innovative geospatial and data processing approaches
-- Opportunity to work with and refine digital, high-value geospatial datasets
-- Engagement with experts in geospatial data, technology, and sustainability to build professional networks
+- **Co-create and test solutions** by guiding multidisciplinary teams as they develop practical, data-driven approaches to mobility and transportation challenges
+- **Gain insights from high-value geospatial data** by exploring diverse datasets and using advanced analysis tools
+- **Strengthen professional networks** by connecting with talented students, early-career researchers, and experts in geospatial information and sustainable development
+- **Showcase expertise and impact** by sharing knowledge, enhancing your organization's visibility, and contributing to real-world solutions
 
 Partner activities
 -------------------
@@ -73,6 +73,17 @@ Possible partners
 - Public sector bodies and NGOs addressing transport, accessibility, or environmental challenges
 - Cities, municipalities, and provinces
 - Motivated individuals and volunteers interested in contributing to the themes of mobility and transportation
+
+More information
+-------------------
+
+.. raw:: html
+
+   <p style="text-align:center;">
+       <a href="https://drive.google.com/file/d/1eQs853-94b8dU1yBhfoqFv8ol12F8siC/view?usp=sharing" target="_blank">
+           ⬇️ Download partner flyer (PDF)
+       </a>
+   </p>
 
 Contact us
 ----------
