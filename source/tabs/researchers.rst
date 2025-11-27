@@ -3,7 +3,7 @@
 Researchers and Students
 ========================
 
-This 13-week, challenge-based course (5 ECTS) offers doctoral, post-doctoral, and master’s students from 
+This 13-week, challenge-based course (5 ECTS) offers master's students, doctoral researchers and post-doctoral researchers from 
 universities and research organizations the opportunity to tackle challenges related to the theme in 
 cross-disciplinary teams. Working closely with mentors and societal stakeholders, participants co-create sustainable 
 geospatial solutions that address concrete needs in society. Through this process, they will develop their skills in teamwork, 
@@ -21,7 +21,7 @@ Up to 30 participants will be accepted and notified once the review process is c
 
 .. attention::
 
-    Participant application is open!
+    Participant applications are now open! Please submit your application by **12 January 2026 (Mon)**.
     
     .. button-link:: https://forms.gle/fmXcg7Wm7pTC5hox6
             :color: primary
@@ -58,7 +58,7 @@ Target audience and prerequisites
     .. grid-item-card:: :fas:`person` Places available
 
         Up to **30 researchers and students** will be accepted to the Geospatial Challenge Camp.  
-        A confirmation email will be sent to all selected participants. 
+        All selected participants will receive a confirmation email by **21 Jan 2026 (Wed)**.
 
 
 Learning objectives
