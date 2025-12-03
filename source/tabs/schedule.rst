@@ -58,7 +58,7 @@ The course runs for 13 weeks with the following structure:
       - **Ideation/prototyping**:
           * Rapid ideation of solutions, testing data and tools
           * **25 March 2026 Midterm seminar** (on-site, full day)
-            * Presentation of the solution ideas and feedback
+          * Presentation of the solution ideas and feedback
 
     * - Weeks 7-11
       - **Solution building**:
@@ -69,4 +69,4 @@ The course runs for 13 weeks with the following structure:
       - **Finalization**:
           * Preparing final outputs
           * **11 May 2026 Final event** (on-site, half a day)
-            * Groups present their solutions to the rest of the course, stakeholders, and public audience
+          * Groups present their solutions to the rest of the course, stakeholders, and public audience
