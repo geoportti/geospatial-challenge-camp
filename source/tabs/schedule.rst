@@ -27,7 +27,7 @@ Timetable and co-creation process
 
 The course runs for 13 weeks with the following structure:
 
-    .. list-table::
+.. list-table::
     :widths: 3 8
     :header-rows: 1
     :stub-columns: 1
