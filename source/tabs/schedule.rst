@@ -25,87 +25,48 @@ More detailed schedule will be announced closer to the beginning of the challeng
 Timetable and co-creation process
 -------
 
-.. raw:: html 
+The course runs for 13 weeks with the following structure:
 
-    <div>
+    .. list-table::
+    :widths: 3 8
+    :header-rows: 1
+    :stub-columns: 1
+    :align: left
 
-        <p>The course runs for 13 weeks with the following structure:</p>
-        
-        <style>
-            table, th, td {
-                border: 1px solid black;
-                border-collapse: collapse;}
-        </style>
+    * - Weekly timeline
+      - Details
 
+    * - Kick-off week
+      - **Kick-off**:
+          * **12-13 February 2026 Kick-off** (on-site, 2 full days)
+          * A half a day public seminar with all the participants and collaborators
+          * A 1,5-day workshop with the participants and key mentors
+          * Introduction to the challenge theme, meeting and networking with stakeholders, forming teams
+    
+    * - Week 1
+      - **Challenge introduction**:
+          * Getting familiar with the context of the challenges
+          * Q&A with challenge owners (online)
 
-        <table style="width:100%">
-            <tr>
-            <th>Weekly timeline</th>
-            <th>Details</th>
-            </tr>
-            <tr>
-            <td><b>Kick-off week</b></td>
-            <td>
-                <ul>
-                    <b>Kick-off</b>
-                    <li><b>12-13 February 2026 Kick-off</b> (on-site, 2 full days)</li>
-                    <li>Introduction to the challenge theme, meeting and networking with stakeholders, forming teams</li>
-                </ul>
-            </td>
-            </tr>
-            <tr>
-            <td><b>Week 1</b></td>
-            <td>
-                <ul>
-                    <b>Challenge introduction</b>
-                    <li>Getting familiar with the context of the challenges</li>
-                    <li>Q&A with challenge owners (online)</li>
-                </ul>
-            </td>
-            </tr>
-            <tr>
-            <td><b>Weeks 2-3</b></td>
-            <td>
-                <ul>
-                    <b>Challenge specification</b>
-                    <li>Exploring the broad challenge, getting familiar with data and tools</li>
-                    <li>Defining each team’s focus/problem</li>
-                    <li>Initial stakeholder contacts as needed</li>
-                    <li>Online mentoring</li>
-                </ul>
-            </td>
-            </tr>
-            <tr>
-            <td><b>Weeks 4-6</b></td>
-            <td>
-                <ul>
-                    <b>Ideation/prototyping</b>
-                    <li>Rapid ideation of solutions, testing data and tools</li>    
-                    <li>Online mentoring</li>
-                    <li><b>25 March 2026 Midterm seminar</b> (on-site, full day)</li>
-                </ul>
-            </td>
-            </tr>
-            <tr>
-            <td><b>Weeks 7-11</b></td>
-            <td>
-                <ul>
-                    <b>Solution building</b>
-                    <li>Teams work at their own pace</li>
-                    <li>Online mentoring for support and check-ins</li>
-                </ul>
-            </td>
-            </tr>
-            <tr>
-            <td><b>Weeks 12-13</b></td>
-            <td>
-                <ul>
-                    <b>Finalization</b>
-                    <li>Preparing final outputs</li>
-                    <li>Groups present their solutions to the rest of the course, stakeholders, and public audience</li>
-                    <li><b>11 May 2026 Final event</b> (on-site, half a day)</li>
-                </ul>
-            </td>
-            </tr>
-        </table>
-    </div>
+    * - Weeks 2-3
+      - **Challenge specification**:
+          * Exploring the broad challenge, getting familiar with data and tools
+          * Defining each team’s focus/problem, gathering resources and contacting stakeholders
+          * Online mentoring
+
+    * - Weeks 4-6
+      - **Ideation/prototyping**:
+          * Rapid ideation of solutions, testing data and tools
+          * **25 March 2026 Midterm seminar** (on-site, full day)
+            * Presentation of the solution ideas and feedback
+
+    * - Weeks 7-11
+      - **Solution building**:
+          * Teams work at their own pace
+          * Online mentoring for support and check-ins
+
+    * - Weeks 12-13
+      - **Finalization**:
+          * Preparing final outputs
+          * **11 May 2026 Final event** (on-site, half a day)
+            * Groups present their solutions to the rest of the course, stakeholders, and public audience
