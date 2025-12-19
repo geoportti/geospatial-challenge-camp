@@ -10,8 +10,8 @@ geospatial solutions that address concrete needs in society. Through this proces
 innovation, and stakeholder collaboration while learning to apply digital and spatial technologies for real-world impact.
 
 The course starts with a two-day kickoff event, includes a midterm seminar, and concludes with a public final event where 
-teams present their solutions to stakeholders, peers, and the wider community. Participants are expected to attend all 
-on-site events and take part in weekly facilitated mentoring and group meetings, while additional teamwork is organized 
+teams present their solutions to stakeholders, peers, and the wider community. **Participants are expected to attend all 
+on-site events in person and take part in weekly facilitated mentoring and group meetings**,** while additional teamwork is organized 
 independently by each team.
 
 Apply to participate
