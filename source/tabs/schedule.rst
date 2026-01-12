@@ -9,7 +9,7 @@ The Challenge Camp runs over 13 weeks and includes three onsite events:
 - **Midterm seminar**:  **25 March 2026**, Turku or Helsinki (location to be confirmed)
 - **Final event**: **11 May 2026**, Porthania Building, PIII, at the City Center Campus, University of Helsinki
 
-In addition to the onsite events, participants will **have weekly 2-hour online sessions**, starting once groups 
+In addition to the onsite events, participants will **have weekly 2-hour online sessions on Wednesdays from 14:00 to 16:00**, starting once groups 
 have been formed and begin working on their challenges. These online sessions provide guidance, feedback, 
 and collaboration opportunities, complementing the independent work required throughout the course.
 

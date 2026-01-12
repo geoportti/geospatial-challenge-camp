@@ -11,17 +11,17 @@ innovation, and stakeholder collaboration while learning to apply digital and sp
 
 The course starts with a two-day kickoff event, includes a midterm seminar, and concludes with a public final event where 
 teams present their solutions to stakeholders, peers, and the wider community. **Participants are expected to attend all 
-on-site events in person and take part in weekly facilitated mentoring and group meetings**, while additional teamwork is organized 
+on-site events in person and take part in weekly facilitated mentoring and group meetings (online) organized on Wednesdays from 14:00 to 16:00**, while additional teamwork is organized 
 independently by each team.
 
 Apply to participate
--------
+========================
 Submit a brief motivation letter and your relevant background. 
 Up to 30 participants will be accepted and notified once the review process is complete.
 
 .. attention::
 
-    Participant applications are now open! Please submit your application by **12 January 2026 (Mon)**.
+    Participant applications are now open! Please submit your application by **21 January 2026 (Wed) (extended)**.
     
     .. button-link:: https://forms.gle/fmXcg7Wm7pTC5hox6
             :color: primary
@@ -32,7 +32,7 @@ Up to 30 participants will be accepted and notified once the review process is c
     
 
 Target audience and prerequisites
----------------------------------
+========================
 
 .. grid:: 2
     :gutter: 4
@@ -58,11 +58,11 @@ Target audience and prerequisites
     .. grid-item-card:: :fas:`person` Places available
 
         Up to **30 researchers and students** will be accepted to the Geospatial Challenge Camp.  
-        All selected participants will receive a confirmation email by **21 Jan 2026 (Wed)**.
+        All selected participants will receive a confirmation email by **23 Jan 2026 (Wed)**.
 
 
 Learning objectives
------------------
+========================
 
 By participating in this course, you will:
 
@@ -73,16 +73,38 @@ By participating in this course, you will:
 - **Strengthen business and solution thinking** to apply these skills in creating innovative, solution-oriented approaches that address real-world challenges and stakeholder needs.
 
 Credits
--------
+========================
 
 Participation and completion of the course is 5 ECTS. PhD and MSc students will receive
 credits from their respective home institutions. Students not enrolled in a PhD or MSc programme
 should discuss the credit arrangements with the Challenge Camp staff prior to registration.
 
 Previous experiences
---------------------
+========================
 
 See the videos below for researchers' experiences from previous years.
+
+2025
+------
+
+.. raw:: html
+
+    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=1b18a5d0-e738-47da-a9e9-9e717d21d7b4" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+
+.. raw:: html
+    
+    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=5021504a-6c30-4a0f-a82b-796a1aa3185a" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+
+.. raw:: html
+
+    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=b4c8b4c3-b0ee-45aa-b2da-36c3658b5b89" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+
+.. raw:: html
+    
+    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=11f671d3-faa3-4b64-9cd3-e4f7d11d2e57" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+
+2023
+-------
 
 .. raw:: html
 
@@ -93,7 +115,7 @@ See the videos below for researchers' experiences from previous years.
     <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0f75382f-2358-4a27-a172-b26c00c8273a&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Joha Jämsä" ></iframe>
 
 More information
--------------------
+================
 
 .. grid:: 1
     :gutter: 5
@@ -109,7 +131,7 @@ More information
             Download (PDF)
 
 Contact us
-----------
+==========
 
 .. grid:: 1
 

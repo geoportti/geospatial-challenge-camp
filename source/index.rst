@@ -74,6 +74,15 @@ Sign up
 
            Sign up
 
+Contact us
+==========
+
+.. grid:: 1
+
+    .. grid-item-card::
+
+        For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
+
 Partners and Sponsors
 ================
 
