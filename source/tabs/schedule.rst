@@ -3,10 +3,10 @@ Full schedule
 
 The Challenge Camp runs over 13 weeks and includes three onsite events:
 
-- **Kick-off**: 2 days, **12–13 February 2026**, at the  City Center Campus, University of Helsinki
+- **Kick-off**: 2 days, **12–13 February 2026**, City Center Campus, University of Helsinki
     - *Day 1*: Porthania Building, P674 (Thursday 12th)
     - *Day 2*: Main Building, Studium 1 (Friday 13th)
-- **Midterm seminar**:  **25 March 2026**, Turku or Helsinki (location to be confirmed)
+- **Midterm seminar**:  **25 March 2026**, Entrepreneurial Hub Konttori, University of Turku
 - **Final event**: **11 May 2026**, Porthania Building, PIII, at the City Center Campus, University of Helsinki
 
 In addition to the onsite events, participants will **have weekly 2-hour online sessions on Wednesdays from 14:00 to 16:00**, starting once groups 
@@ -14,7 +14,6 @@ have been formed and begin working on their challenges. These online sessions pr
 and collaboration opportunities, complementing the independent work required throughout the course.
 
 **Note**: Weeks with onsite events do not have online meetings, and there will be a couple of fully independent weeks for uninterrupted group work. 
-More detailed schedule will be announced closer to the beginning of the challenge camp.
 
 .. raw:: html 
 
@@ -39,7 +38,7 @@ The course runs for 13 weeks with the following structure:
     * - Kick-off week
       - **Kick-off**:
           * **12-13 February 2026 Kick-off** (on-site, 2 full days)
-          * A half a day public seminar with all the participants and collaborators
+          * A half a day seminar with all the participants and collaborators
           * A 1,5-day workshop with the participants and key mentors
           * Introduction to the challenge theme, meeting and networking with stakeholders, forming teams
     
@@ -64,6 +63,7 @@ The course runs for 13 weeks with the following structure:
       - **Solution building**:
           * Teams work at their own pace
           * Online mentoring for support and check-ins
+          * Practice pitching
 
     * - Weeks 12-13
       - **Finalization**:
