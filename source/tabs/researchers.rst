@@ -21,14 +21,7 @@ Up to 30 participants will be accepted and notified once the review process is c
 
 .. attention::
 
-    Participant applications are now open! Please submit your application by **21 January 2026 (Wed) (extended)**.
-    
-    .. button-link:: https://forms.gle/fmXcg7Wm7pTC5hox6
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Apply using this Form
+    The participant application form is now closed. Thank you for your applications!
     
 
 Target audience and prerequisites
@@ -58,7 +51,7 @@ Target audience and prerequisites
     .. grid-item-card:: :fas:`person` Places available
 
         Up to **30 researchers and students** will be accepted to the Geospatial Challenge Camp.  
-        All selected participants will receive a confirmation email by **23 Jan 2026 (Wed)**.
+        All selected participants will receive a confirmation email by **Applicants will be notified by the end of 23 January 2026.**.
 
 
 Learning objectives
