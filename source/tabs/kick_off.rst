@@ -1,7 +1,7 @@
 Programme
 ============
 
-During the **Geospatial Challenge Camp** opening session the theme **Sustainable Mobility and Transportation** will be presented. 
+During the kick-off opening session (DAY 1) the theme **Sustainable Mobility and Transportation** will be presented. 
 The partners of the camp will present their perspectives and introduce their challenges
 
 ..
@@ -49,7 +49,7 @@ Refresh this website with *Ctrl + F5* for new updates.
     </div>
 
 
-Venue's location
+Venues
 ==================
 Kick-off DAY 1 (Thursday) will be held at the **University of Helsinki, 
 Porthania Building, room P674 (6th floor)**, Yliopistonkatu 3, 00170 Helsinki

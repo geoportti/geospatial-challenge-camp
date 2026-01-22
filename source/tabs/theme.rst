@@ -26,9 +26,3 @@ Sub-themes
 
 The camp will focus on a set of subthemes that highlight different dimensions of sustainable mobility and transportation, offering inspiration 
 for diverse perspectives and approaches. These sub-themes may evolve and expand as new partners, collaborators and, challenge topics are confirmed.
-
-.. grid:: 1
-
-    .. grid-item-card:: :fas:`bell`
-
-            More details about the sub-themes will be provided soon.
