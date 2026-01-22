@@ -102,3 +102,4 @@ Organizers
    Partners <tabs/partners>
    Researchers and Students <tabs/researchers>
    Schedule <tabs/schedule>
+   Kick-off <tabs/kick_off>
