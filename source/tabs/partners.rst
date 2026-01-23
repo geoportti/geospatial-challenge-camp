@@ -14,14 +14,7 @@ We will contact all respondents shortly after reviewing the forms.
 
 .. attention::
 
-    Partner registration form is open!
-    
-    .. button-link:: https://forms.gle/f24mv1fvU6Yu6Eep6
-            :color: primary
-            :shadow:
-            :align: center
-
-            👉 Register using this form
+    Partner registration is now closed.
 
 We offer the opportunity to:
 --------
