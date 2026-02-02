@@ -4,7 +4,7 @@ Full schedule
 The Challenge Camp runs over 13 weeks and includes three onsite events:
 
 - **Kick-off**: 2 days, **12–13 February 2026**, City Center Campus, University of Helsinki
-    - *Day 1*: Porthania Building, P674 (Thursday 12th)
+    - *Day 1*: Porthania Building, Urbarium (P114) (Thursday 12th)
     - *Day 2*: Main Building, Studium 1 (Friday 13th)
 - **Midterm seminar**:  **25 March 2026**, Entrepreneurial Hub Konttori, University of Turku
 - **Final event**: **11 May 2026**, Porthania Building, PIII, at the City Center Campus, University of Helsinki

@@ -1,8 +1,8 @@
 Programme
 ============
 
-During the Mid-term meeting of the **Geospatial Challenge Camp 2025** the teams will present the
-prototyping phase of their ideas for **Health and Wellbeing**. 
+During the Mid-term meeting of the **Geospatial Challenge Camp 2026** the teams will present the
+prototyping phase of their ideas for **Mobility and Transportation**. 
 Also, the teams will start working on their *Project Plan* for the solution implementation next to their mentors.
 
 ..
@@ -33,6 +33,8 @@ Also, the teams will start working on their *Project Plan* for the solution impl
 Detailed schedule
 ------------------
 Refresh this website with *Ctrl + F5* for new updates.
+
+.. UPDATE
 
 .. raw:: html
 

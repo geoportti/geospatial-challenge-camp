@@ -1,9 +1,9 @@
 Programme
 ============
 
-During the Final event of the **Geospatial Challenge Camp 2025** the teams will pitch their solutions
-for tackling issues in the **Health and Wellbeing** sector.
-The groups will pitch solutions related to urban heat islands, air pollution and emergency evacuation preparedness.
+During the Final event of the **Geospatial Challenge Camp 2026** the teams will pitch their solutions
+for tackling issues in the **Mobility and Transportation** sector.
+The groups will pitch solutions related to
 
 
 ..    .. grid:: 2
@@ -41,11 +41,12 @@ Detailed schedule
 --------------------
 Refresh this website with *Ctrl + F5* for new updates.
 
+.. UPDATE
 
 .. raw:: html
 
     <div>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfyfB2BOLl7hJEEvHdhfBNYumDqWq65mpo0OoFwx_bCxQZinxvV_Rxt4hjCHAXYw/pub?embedded=true"
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfyfB2BOLl7hJEEvHdhfBNYumDqWq65mpo0OoFwx_bCxQZinxvV_Rxt4hjCHAXYw/pub?embedded=true" 
             frameborder=0 
             width="900" 
             height="1300" 
@@ -57,24 +58,23 @@ Refresh this website with *Ctrl + F5* for new updates.
 
 Venue's location
 ==================
-The Final event will be held on the Aalto University campus at **Otakaari 1 - Undergraduate centre: Lecture Hall U9 (room U271, U-wing, 2nd floor)**
+The Final event will be held at **University of Helsinki, 
+Porthania Building, room PIII (1st floor)**, Yliopistonkatu 3, 00170 Helsinki
 
 .. raw:: html
 
     <div>
 
     <hr>
-    <iframe 
-    
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.7000023830687!2d24.827242966247713!3d60.186328554446945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468df5ece6fdc397%3A0xdcfb11b85a06e1d!2sAalto-yliopisto%20Kandidaattikeskus!5e0!3m2!1sfi!2sfi!4v1745840251643!5m2!1sfi!2sfi"
-    width="100%" 
-    height="500" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade">
-    
-    </iframe>
+        <iframe 
+        src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJjWxNe84LkkYRBL8RrNBKOxk&key=AIzaSyAZuzkPiFYjv5HyIrAf5Nnq4QicmQQ4hB8"
+        width="100%" 
+        height="500" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
     <hr>
 
     </div>
