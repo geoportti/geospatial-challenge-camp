@@ -52,7 +52,7 @@ Refresh this website with *Ctrl + F5* for new updates.
 Venues
 ==================
 Kick-off DAY 1 (Thursday) will be held at the **University of Helsinki, 
-Porthania Building, room P674 (6th floor)**, Yliopistonkatu 3, 00170 Helsinki
+Porthania Building, room Urbarium P114 (1st floor)**, Yliopistonkatu 3, 00170 Helsinki
 
 .. raw:: html
 
