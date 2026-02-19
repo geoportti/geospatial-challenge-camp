@@ -1,7 +1,7 @@
 Programme
 ============
 
-During the Mid-term meeting of the **Geospatial Challenge Camp 2026** the teams will present the
+During the Midterm meeting of the **Geospatial Challenge Camp 2026** the teams will present the
 prototyping phase of their ideas for **Mobility and Transportation**. 
 Also, the teams will start working on their *Project Plan* for the solution implementation next to their mentors.
 
@@ -39,7 +39,7 @@ Refresh this website with *Ctrl + F5* for new updates.
 .. raw:: html
 
     <div>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vTYLkR4cuIocGhPJzfOkwxMIytCUC9nBG69Cw1KAeGuossnQ8SYr8Hf9uycSwSsJvGPX-_fpy9TsbKJ/pub?embedded=true"
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQGhIZt8nSkEhPvSCZwX3gsiMM7WwSuFxkTzwGZmp611HCtjO6ho9UTS9ocZL519K_U7Z8KdO3PMvnt/pub?embedded=true"
             frameborder=0 
             width="900" 
             height="1300" 
