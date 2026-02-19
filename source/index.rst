@@ -103,3 +103,4 @@ Organizers
    Researchers and Students <tabs/researchers>
    Schedule <tabs/schedule>
    Kick-off <tabs/kick_off>
+   Midterm Seminar <tabs/midterm>
