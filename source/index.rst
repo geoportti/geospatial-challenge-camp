@@ -104,3 +104,4 @@ Organizers
    Schedule <tabs/schedule>
    Kick-off <tabs/kick_off>
    Midterm Seminar <tabs/midterm>
+   Final Event <tabs/final_event>

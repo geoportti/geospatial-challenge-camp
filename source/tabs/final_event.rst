@@ -1,42 +1,19 @@
 Programme
 ============
 
-During the Final event of the **Geospatial Challenge Camp 2026** the teams will pitch their solutions
-for tackling issues in the **Mobility and Transportation** sector.
-The groups will pitch solutions related to
+The **Final Event of Geospatial Challenge Camp (GCC) 2026** takes place on **May 11, 2026 at 13:00–17:00** 
+at the University of Helsinki, Porthania Building, room PIII (1st floor).
+
+During the event, teams will present their solutions to challenges in the **Mobility and Transportation** sector.
+
+The Final Event is part of the `Geoinformatics Research Days 2026 <https://geoinformaticsdays.geoportti.fi/en/latest/>`__. 
+All GCC participants are encouraged to attend the full programme.
+
+.. attention::
+
+    Register `here <https://geoinformaticsdays.geoportti.fi/en/latest/#event-registration>`__!
 
 
-..    .. grid:: 2
-        :gutter: 5
-
-        .. grid-item-card:: :fas:`briefcase` Sign up
-            :text-align: center
-
-            Sign up closed!
-
-        .. grid-item-card:: :fas:`key` Public sign up
-            :text-align: center
-
-            Sign up closed!
-
-
-    .. grid:: 1
-        :gutter: 5
-
-        .. grid-item-card:: :fas:`file` Flyer event
-            :text-align: center
-
-            Download the schedule and the solution ideas.
-
-            .. button-link:: https://a3s.fi/swift/v1/AUTH_a98a40e197f54318a2f5bc13e2175d1f/WebGeospatialChallengeCamp/Final%20event%20advertisement.pptx.pdf
-                :color: primary
-                :shadow:
-                :click-parent:
-
-                Download
-
-
-    
 Detailed schedule
 --------------------
 Refresh this website with *Ctrl + F5* for new updates.
@@ -46,10 +23,10 @@ Refresh this website with *Ctrl + F5* for new updates.
 .. raw:: html
 
     <div>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRfyfB2BOLl7hJEEvHdhfBNYumDqWq65mpo0OoFwx_bCxQZinxvV_Rxt4hjCHAXYw/pub?embedded=true" 
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQl2VRzr_WX0V3-0HuHEUC7-ugYN0DBAfwQ9wvu_RfJjKDFvH-vLnytCN3DQ4idRA/pub?embedded=true" 
             frameborder=0 
             width="900" 
-            height="1300" 
+            height="900" 
             allowfullscreen="true"  
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">

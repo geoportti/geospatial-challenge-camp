@@ -42,7 +42,7 @@ Refresh this website with *Ctrl + F5* for new updates.
         <iframe src="https://docs.google.com/document/d/e/2PACX-1vQGhIZt8nSkEhPvSCZwX3gsiMM7WwSuFxkTzwGZmp611HCtjO6ho9UTS9ocZL519K_U7Z8KdO3PMvnt/pub?embedded=true"
             frameborder=0 
             width="900" 
-            height="1300" 
+            height="1000" 
             allowfullscreen="true"  
             mozallowfullscreen="true" 
             webkitallowfullscreen="true">
