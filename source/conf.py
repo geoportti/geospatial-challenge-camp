@@ -67,7 +67,7 @@ html_theme_options = {
     'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    #'announcement': 'Geospatial Challenge Camp 2026 Registration is now closed', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    'announcement': 'GCC2026 has ended. Thank you to all participants and partners! Stay tuned for updates on GCC2027.', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match
