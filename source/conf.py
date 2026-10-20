@@ -90,8 +90,12 @@ html_theme_options = {
 
 # -------> navigation bar elements on left
 
+# Top-level pages have no subpages, so the section navigation would be empty.
+# Only the materials pages get the left sidebar.
 html_sidebars = {
-    "**": [ "sidebar-nav-bs.html"],
+    "index": [],
+    "tabs/*": [],
+    "tabs/materials/**": ["sidebar-nav-bs.html"],
 }
 
 # --------> custom static files
