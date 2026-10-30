@@ -75,7 +75,7 @@ should discuss the credit arrangements with the Challenge Camp staff prior to re
 Previous experiences
 ========================
 
-See the videos below for researchers' experiences from 2026.
+See the videos below for researchers' experiences from 2026. Find 2025 videos and 2023 videos `here <https://challenge-camp.geoportti.fi/en/v2026/tabs/researchers.html#previous-experiences>`__.
 
 .. raw:: html
 
@@ -84,8 +84,6 @@ See the videos below for researchers' experiences from 2026.
 .. raw:: html
     
     <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=5021504a-6c30-4a0f-a82b-796a1aa3185a" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
-
-Find 2025 videos and 2023 videos `here <https://challenge-camp.geoportti.fi/en/v2026/tabs/researchers.html#previous-experiences>`__.
 
 
 Contact us
