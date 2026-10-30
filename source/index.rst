@@ -83,14 +83,14 @@ Contact us
         For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
 
 .. Partners and Sponsors
-..================
+.. ================
 
 .. .. figure:: _static/logos/partners_sponsors_logo.png
 
 Organizers
 =============
 
-.. figure:: _static/logos/organizers_logos.png
+.. figure:: _static/organizers_logos.png
 
 .. toctree::
    :maxdepth: 2
