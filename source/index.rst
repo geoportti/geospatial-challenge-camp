@@ -1,4 +1,4 @@
-.. figure:: _static/banner_2026.png
+.. figure:: _static/banner.png
 
 .. grid:: 1 3 3 3
     :gutter: 2
@@ -8,15 +8,14 @@
 
          The Geospatial Challenge Camp engages early-career researchers and students
          in addressing real-world sustainability challenges through the use of digital data and
-         location technologies. In 2026, the theme of the challenge is
-         **Sustainable Mobility and Transportation**.
+         location technologies. The theme for 2027 will be announced in November.
 
     .. grid-item-card:: :fas:`bell` When?
         :link: tabs/schedule.html
 
-        The camp begins with an on-site kick-off event on February 12–13, 2026, and concludes with a public final event on May 11, 2026, 
-        where teams present their results. Multidisciplinary teams of early-career researchers will collaborate closely with stakeholders
-        to co-create digital and societal innovations that advance sustainable mobility and transportation.
+        The camp begins with an on-site kick-off event on February 22–23, 2027, and concludes with a public final event on May 11, 2027, 
+        where teams present their results. where teams present their results. The camp will hold weekly online meetings throughout 
+        February-May and an on-site midterm event on March 17-18, 2027.
 
     .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
          :link: index.html#sign-up
@@ -33,7 +32,7 @@ a Finnish national research infrastructure providing geospatial data, tools, and
 an innovation development service of `Location Innovation Hub (LIH) <https://locationinnovationhub.eu/>`__, one of the
 European Digital Innovation Hubs.
 
-This 13-week, challenge-based course (5 ECTS) gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations 
+This 12-week, challenge-based course (5 ECTS) gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations 
 the opportunity to tackle real-world challenges in cross-disciplinary teams, collaborating closely with mentors and societal stakeholders.
 
 The course focuses on identifying and analyzing complex societal problems related to location and time, and on designing and developing digital, impact-driven, sustainable solutions.
@@ -83,13 +82,13 @@ Contact us
 
         For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
 
-Partners and Sponsors
-================
+.. Partners and Sponsors
+..================
 
-.. figure:: _static/logos/partners_sponsors_logo.png
+.. .. figure:: _static/logos/partners_sponsors_logo.png
 
 Organizers
-================
+=============
 
 .. figure:: _static/logos/organizers_logos.png
 
@@ -101,7 +100,3 @@ Organizers
    Theme <tabs/theme>
    Partners <tabs/partners>
    Researchers and Students <tabs/researchers>
-   Schedule <tabs/schedule>
-   Kick-off <tabs/kick_off>
-   Midterm Seminar <tabs/midterm>
-   Final Event <tabs/final_event>

@@ -1,17 +1,17 @@
-.. figure:: ../_static/call_researchers_2026.png
+.. figure:: ../_static/call_researchers.png
 
 Researchers and Students
 ========================
 
-This 13-week, challenge-based course (5 ECTS) offers master's students, doctoral researchers and post-doctoral researchers from 
+This 12-week, challenge-based course (5 ECTS) offers master's students, doctoral researchers and post-doctoral researchers from 
 universities and research organizations the opportunity to tackle challenges related to the theme in 
 cross-disciplinary teams. Working closely with mentors and societal stakeholders, participants co-create sustainable 
 geospatial solutions that address concrete needs in society. Through this process, they will develop their skills in teamwork, 
 innovation, and stakeholder collaboration while learning to apply digital and spatial technologies for real-world impact.
 
-The course starts with a two-day kickoff event, includes a midterm seminar, and concludes with a public final event where 
+The course starts with a two-day kickoff event, includes a two-day midterm seminar, and concludes with a public final event where 
 teams present their solutions to stakeholders, peers, and the wider community. **Participants are expected to attend all 
-on-site events in person and take part in weekly facilitated mentoring and group meetings (online) organized on Wednesdays from 14:00 to 16:00**, 
+on-site events in person and take part in weekly facilitated mentoring and group meetings (online) organized on Mondays from 14:00 to 16:00**, 
 while additional teamwork is organized independently by each team.
 
 Apply to participate
@@ -21,7 +21,7 @@ Up to 30 participants will be accepted and notified once the review process is c
 
 .. attention::
 
-    The participant application form is now closed. Thank you for your applications!
+    The participant application form opens in December.
     
 
 Target audience and prerequisites
@@ -45,13 +45,13 @@ Target audience and prerequisites
 
         **Applicants from diverse backgrounds are encouraged to apply**, including
         geography, information technology, design, engineering, environmental sciences, social sciences, and communications.
-        Researchers and students focusing on topics related to **Sustainable Mobility and Transportation** are 
+        Researchers and students focusing on topics related to **Theme** are 
         particularly encouraged to participate.  
 
     .. grid-item-card:: :fas:`person` Places available
 
         Up to **30 researchers and students** will be accepted to the Geospatial Challenge Camp.  
-        All selected participants will receive a confirmation email by **Applicants will be notified by the end of 23 January 2026.**.
+        All selected participants will receive a confirmation email by **Applicants will be notified by the end of January 2027.**.
 
 
 Learning objectives
@@ -68,17 +68,14 @@ By participating in this course, you will:
 Credits
 ========================
 
-Participation and completion of the course is 5 ECTS. PhD and MSc students will receive
+Active participation and completion of the course is 5 ECTS. PhD and MSc students will receive
 credits from their respective home institutions. Students not enrolled in a PhD or MSc programme
 should discuss the credit arrangements with the Challenge Camp staff prior to registration.
 
 Previous experiences
 ========================
 
-See the videos below for researchers' experiences from previous years.
-
-2025
-------
+See the videos below for researchers' experiences from 2026.
 
 .. raw:: html
 
@@ -88,40 +85,8 @@ See the videos below for researchers' experiences from previous years.
     
     <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=5021504a-6c30-4a0f-a82b-796a1aa3185a" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
 
-.. raw:: html
+Find 2025 videos and 2023 videos `here <https://challenge-camp.geoportti.fi/en/v2026/tabs/researchers.html#previous-experiences>`__.
 
-    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=b4c8b4c3-b0ee-45aa-b2da-36c3658b5b89" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
-
-.. raw:: html
-    
-    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=11f671d3-faa3-4b64-9cd3-e4f7d11d2e57" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
-
-2023
--------
-
-.. raw:: html
-
-    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=099463ff-6c52-4335-bc4e-b26c00c82451&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Venla Aaltonen" ></iframe>
-
-.. raw:: html
-
-    <iframe src="https://aalto.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0f75382f-2358-4a27-a172-b26c00c8273a&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Researcher experience: Joha Jämsä" ></iframe>
-
-More information
-================
-
-.. grid:: 1
-    :gutter: 5
-
-    .. grid-item-card:: :fas:`file` Flyer for Participants
-        :text-align: center
-
-        .. button-link:: https://drive.google.com/file/d/1jrsHR1y3mI-DaRi4xcSvX_fdxoHzVZql/view?usp=sharing
-            :color: primary
-            :shadow:
-            :click-parent:
-
-            Download (PDF)
 
 Contact us
 ==========
