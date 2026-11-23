@@ -3,26 +3,26 @@
 .. grid:: 1 3 3 3
     :gutter: 2
 
-    .. grid-item-card:: :fas:`rocket` Why Geospatial Challenge Camp?
+    .. grid-item-card:: :fas:`rocket` What?
          :link: tabs/theme.html
 
-         The Geospatial Challenge Camp engages early-career researchers and students
-         in addressing real-world sustainability challenges through the use of digital data and
-         location technologies. The theme for 2027 will be announced in November.
+         The Geospatial Challenge Camp engages early-career researchers and students in addressing real-world sustainability challenges 
+         through the use of digital data and location technologies. Multidisciplinary teams of early-career researchers will 
+         collaborate closely with stakeholders to co-create digital and societal innovations that advance the 2027 theme, 
+         **Sustainable Natural Resources Management and Monitoring.**
 
-    .. grid-item-card:: :fas:`bell` When?
+    .. grid-item-card:: :fas:`calendar` When?
         :link: tabs/schedule.html
 
-        The camp begins with an on-site kick-off event on February 22–23, 2027, and concludes with a public final event on May 11, 2027, 
-        where teams present their results. where teams present their results. The camp will hold weekly online meetings throughout 
-        February-May and an on-site midterm event on March 17-18, 2027.
+        The camp begins with an on-site kick-off event on 22-23 February 2027, and concludes with an on-site public final 
+        event on 11 May 2027, where teams present their results. The camp will hold weekly online meetings throughout February-May 
+        and an on-site midterm event on 17-18 March 2027.
 
-    .. grid-item-card:: :fas:`plug` How to cooperate with us and sign-up for the challenge?
+    .. grid-item-card:: :fas:`trophy` Why?
          :link: index.html#sign-up
 
-         *Researchers and students* can find below more information on registration and participation in the Geospatial Challenge Camp,
-         an opportunity to strengthen skills in digital data, innovation, and interdisciplinary collaboration.
-         *Partners and organizations* can learn how to participate and align their mobility and transportation goals with the camp's objectives.
+         **Researchers and students** get an opportunity to strengthen skills in digital data, innovation, and interdisciplinary collaboration.
+         **Partners and organizations** can learn how to participate and align their mobility and transportation goals with the camp’s objectives.
 
 Overview
 ========
@@ -32,14 +32,16 @@ a Finnish national research infrastructure providing geospatial data, tools, and
 an innovation development service of `Location Innovation Hub (LIH) <https://locationinnovationhub.eu/>`__, one of the
 European Digital Innovation Hubs.
 
-This 12-week, challenge-based course (5 ECTS) gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations 
-the opportunity to tackle real-world challenges in cross-disciplinary teams, collaborating closely with mentors and societal stakeholders.
+This 5ECTS challenge-based course gives doctoral, post-doctoral, and master’s students from Finnish universities and research organizations the 
+opportunity to tackle real-world challenges in cross-disciplinary teams, collaborating closely with mentors and societal stakeholders.
 
-The course focuses on identifying and analyzing complex societal problems related to location and time, and on designing and developing digital, impact-driven, sustainable solutions.
+The course focuses on identifying and analyzing complex societal problems related to location and time, and on designing and developing digital, impact-driven, sustainable solutions. 
 Participants will enhance their professional skills in using data, technology, and application innovations.
 
-Challenges are posed by societal actors, data providers, companies, NGOs, and innovation community actors, offering participants the opportunity to translate 
-geospatial and data science solutions into practical applications and create broader societal impact in Finland and beyond.
+Challenges are posed by societal actors, data providers, companies, NGOs, and innovation community actors, offering participants the opportunity to translate geospatial and data science 
+solutions into practical applications and create broader societal impact in Finland and beyond.
+
+Below, you’ll find more information on registration for both students and partners.
 
 Sign up
 ==========
@@ -80,7 +82,7 @@ Contact us
 
     .. grid-item-card::
 
-        For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
+        For questions or further information, please contact us by email at **geospatial-challenge@utu.fi**
 
 .. Partners and Sponsors
 .. ================
@@ -90,7 +92,7 @@ Contact us
 Organizers
 =============
 
-.. figure:: _static/organizers_logos.png
+.. figure:: _static/organizer_logos.JPG
 
 .. toctree::
    :maxdepth: 2
@@ -100,3 +102,4 @@ Organizers
    Theme <tabs/theme>
    Partners <tabs/partners>
    Researchers and Students <tabs/researchers>
+   Schedule <tabs/schedule>
