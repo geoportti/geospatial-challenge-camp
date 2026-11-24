@@ -85,18 +85,18 @@ receive credits from their respective home institutions. Participants are expect
 prior to taking part in the challenge camp. Students not enrolled in a PhD or MSc programme should discuss the credit arrangements with the Challenge 
 Camp staff prior to registration.
 
-.. Previous experiences
-.. ========================
+Previous experiences
+========================
 
-.. See the videos below for researchers' experiences from 2026. Find 2025 videos and 2023 videos `here <https://challenge-camp.geoportti.fi/en/v2026/tabs/researchers.html#previous-experiences>`__.
+See the videos below for researchers' experiences from 2026. Find 2025 videos and 2023 videos `here <https://challenge-camp.geoportti.fi/en/v2026/tabs/researchers.html#previous-experiences>`__.
 
-.. .. raw:: html
+.. raw:: html
 
-..     <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=1b18a5d0-e738-47da-a9e9-9e717d21d7b4" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+     <iframe width="640" height="360" src="https://www.youtube.com/embed/3Czq_25LdvM?si=VMhyh0hkTZdBoW_x" title="Researcher experience 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-.. .. raw:: html
+.. raw:: html
     
-..    <iframe src="https://unitube.it.helsinki.fi/unitube/embed.html?id=5021504a-6c30-4a0f-a82b-796a1aa3185a" scrolling="no" allowfullscreen="true" frameBorder="0" marginHeight="0px" marginWidth="0px" height="360" width="640"></iframe>
+     <iframe width="640" height="360" src="https://www.youtube.com/embed/sznGTwt9thE?si=IbTsRdyjlbIGIXI2" title="Researcher experience 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Contact us
