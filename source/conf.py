@@ -8,8 +8,8 @@ import os
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Geospatial Challenge Camp 2026'
-copyright = 'Geospatial Challenge Camp 2026 organizers'
+project = 'Geospatial Challenge Camp 2027'
+copyright = 'Geospatial Challenge Camp 2027 organizers'
 author = 'Bryan R Vallejo & Henrikki Tenkanen'
 release = '1.0'
 
@@ -39,8 +39,8 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "pydata_sphinx_theme"
-html_logo = '_static/gcc_menu2026.png' # gcc_menu.png, gcc_logo.png
-html_title = "Geospatial Challenge Camp 2026"
+html_logo = '_static/menu.png' # gcc_menu.png, gcc_logo.png
+html_title = "Geospatial Challenge Camp 2027"
 
 html_static_path = ['_static']
 
@@ -67,7 +67,7 @@ html_theme_options = {
     'footer_end':["version-switcher", "sphinx-version", "theme-version" ], # "version-switcher"
     'pygment_light_style': 'xcode',
     'secondary_sidebar_items': ['page-toc', 'edit-this-page'],
-    'announcement': 'GCC2026 has ended. Thank you to all participants and partners! Stay tuned for updates on GCC2027.', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
+    #'announcement': 'GCC2026 has ended. Thank you to all participants and partners! Stay tuned for updates on GCC2027.', # to add urgent messages, Deadline extended! Sign up until the 20.09.2023
     'switcher': {
             'json_url': json_url,
             'version_match':version_match

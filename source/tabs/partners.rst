@@ -1,12 +1,65 @@
-.. figure:: ./../_static/call_partners_2026.png
+.. figure:: ./../_static/call_partners.png
 
 Partners
 ========
 
-Is your organization looking for solutions? The Geospatial Challenge Camp 2026 addresses real-world sustainable challenges in 
-**Mobility and Transportation** using open data and location technologies. By joining as a partner, your organization can 
-collaborate directly with researchers and experts to co-create innovative, data-driven solutions during this 13-week course 
-taking place from February to May 2026.
+The Geospatial Challenge Camp (GCC) 2027 addresses real-world challenges in **Sustainable Resources Management and Monitoring**
+using open data and location technologies. By joining as a partner, your organization can collaborate directly 
+with researchers and experts to co-create innovative, data-driven solutions during this camp, taking place from 
+February to May 2027.
+
+GCC offers you the opportunity to:
+
+- **Co-create solutions** by guiding multidisciplinary teams as they develop practical, data-driven approaches to the challenges
+- **Gain insights from high-value geospatial data** by sharing your datasets with the camp teams for further exploration and solution building
+- **Strengthen professional networks** by connecting with talented students, early-career researchers, and experts in geospatial information and sustainable development
+- **Showcase expertise and impact** by sharing knowledge, enhancing your organization’s visibility, and contributing to real-world solutions
+
+Partner roles
+--------------
+
+As a partner, your organization can contribute expertise, data, and support through the following roles:
+
+.. grid:: 2
+    :gutter: 4
+
+    .. grid-item-card:: :fas:`heart` Challenge owner
+
+        Does your organization address real-world challenges in this year’s theme? As a challenge owner, you contribute 
+        something valuable: your first-hand knowledge and understanding of the problem. In exchange, you get to see which 
+        type of innovative solutions the teams end up with during the process.
+
+    .. grid-item-card:: :fas:`database` Data provider
+
+        Does your organization possess digital location data related to this year’s theme? Would you be willing to 
+        make this data available for research and innovation?
+
+.. grid:: 2
+    :gutter: 4
+
+    .. grid-item-card:: :fas:`globe` Policy maker
+
+        Does your organization face information gaps for improved decision-making in this year’s theme area? Are you 
+        interested in linking data-driven insights with sustainable policy development?
+
+    .. grid-item-card:: :fas:`zap` Financial sponsor
+
+        Is your organization interested in supporting the Geospatial Challenge Camp by contributing to operational costs, 
+        such as venue, catering, or the social program? Would you like to provide  scholarships or awards for outstanding
+        solutions by early-career researchers?
+
+
+Possible Partners
+------------------
+- Organizations and institutes working in **natural resource management, monitoring, or sustainability-oriented innovation**
+- Providers of **location-based or statistical data and services**
+- Companies aiming to **develop or enhance sustainable and data-driven operations**
+- **Innovation hubs, accelerators, and startups**, especially focused on environmental or geospatial solutions
+- **Public sector bodies, NGOs, and non-profits** addressing natural resource management, monitoring, or environmental challenges
+- **Cities, municipalities, and regional governments** exploring applied solutions for natural resources
+- **Research groups and academic institutions** exploring applied solutions for natural resources
+- **Motivated individuals, volunteers, or citizen science networks** contributing to the theme
+
 
 Sign up
 -------
@@ -14,74 +67,14 @@ We will contact all respondents shortly after reviewing the forms.
 
 .. attention::
 
-    Partner registration is now closed.
-
-We offer the opportunity to:
---------
-
-- **Co-create and test solutions** by guiding multidisciplinary teams as they develop practical, data-driven approaches to mobility and transportation challenges
-- **Gain insights from high-value geospatial data** by exploring diverse datasets and using advanced analysis tools
-- **Strengthen professional networks** by connecting with talented students, early-career researchers, and experts in geospatial information and sustainable development
-- **Showcase expertise and impact** by sharing knowledge, enhancing your organization's visibility, and contributing to real-world solutions
-
-Partner activities
--------------------
-
-By joining as a partner, your organization can contribute expertise, data, and support through the following roles:
-
-.. grid:: 2
-    :gutter: 4
-
-    .. grid-item-card:: :fas:`heart` Challenge theme owners
-
-        Does your organization address real-world challenges in mobility and transportation?
-        Would you like to collaborate with multidisciplinary teams using open data and location-based technologies to develop practical solutions?
-
-    .. grid-item-card:: :fas:`database` Digital data providers
-
-        Does your organization possess digital mobility or transportation-related location data?
-        Would you be willing to make this data available for research and innovation?
-
-.. grid:: 2
-    :gutter: 4
-
-    .. grid-item-card:: :fas:`globe` Policy makers
-
-        Does your organization face information gaps in mobility and transportation for improved decision-making?
-        Are you interested in linking data-driven insights with sustainable policy development?
-
-    .. grid-item-card:: :fas:`zap` Financial sponsors
-
-        Is your organization interested in supporting the Geospatial Challenge Camp by contributing to operational costs, such as venue, catering, or the social program?
-        Would you like to provide scholarships or awards for outstanding solutions by early-career researchers?
-
-Possible partners
------------------
-
-- Organizations and institutes working in mobility, transportation, or sustainability-oriented innovation
-- Organizations providing location-based or statistical data and services
-- Regional transport authorities and mobility service providers
-- Companies aiming to develop or enhance sustainable and data-driven operations
-- Innovation hubs and actors
-- Public sector bodies and NGOs addressing transport, accessibility, or environmental challenges
-- Cities, municipalities, and provinces
-- Motivated individuals and volunteers interested in contributing to the themes of mobility and transportation
-
-More information
--------------------
-
-.. grid:: 1
-    :gutter: 5
-
-    .. grid-item-card:: :fas:`file` Flyer for Partners
-        :text-align: center
-
-        .. button-link:: https://drive.google.com/file/d/1eQs853-94b8dU1yBhfoqFv8ol12F8siC/view?usp=sharing
+    Partner registration is now open.
+    
+    .. button-link:: https://forms.gle/VGGCa5fjfvVqVziJ6
             :color: primary
             :shadow:
-            :click-parent:
+            :align: center
 
-            Download (PDF)
+            👉 Register using this form
 
 
 Contact us
@@ -91,4 +84,4 @@ Contact us
 
     .. grid-item-card::
 
-        For questions or further information, please contact us by email at **geospatial-challenge@helsinki.fi**
+        For questions or further information, please contact us by email at **geospatial-challenge@utu.fi**
